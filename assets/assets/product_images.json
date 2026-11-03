@@ -1,0 +1,1386 @@
+{
+  "source": "Open Beauty Facts, Open Food Facts - fotos CC BY-SA",
+  "generated": "2026-11-03T23:18:47.629059Z",
+  "images": {
+    "1": {
+      "image": "https://images.openfoodfacts.org/images/products/789/350/003/7996/front_fr.4.200.jpg",
+      "ean": "7893500037996",
+      "off": "TIO JOÃO Arroz Tio João 7 Cereais + Soja | Tio joao5 | 1 kg",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "3": {
+      "image": "https://images.openfoodfacts.org/images/products/789/198/600/1395/front_pt.5.200.jpg",
+      "ean": "7891986001395",
+      "off": "Arroz Branco | Camil Alimentos | 5kg",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "4": {
+      "image": "https://images.openfoodfacts.org/images/products/789/198/600/1395/front_pt.5.200.jpg",
+      "ean": "7891986001395",
+      "off": "Arroz Branco | Camil Alimentos | 5kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "5": {
+      "image": "https://images.openfoodfacts.org/images/products/789/629/030/0011/front_pt.3.200.jpg",
+      "ean": "7896290300011",
+      "off": "Arroz Prato Fino Branco 5 Kg | PRATO FINO | 5kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "7": {
+      "image": "https://images.openfoodfacts.org/images/products/789/350/001/8476/front_pt.3.200.jpg",
+      "ean": "7893500018476",
+      "off": "Arroz Parboilizado Tipo 1 Classe Longo Fino 1kg | TIO JOAO | 1kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "8": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/671/6112/front_pt.4.200.jpg",
+      "ean": "7896006716112",
+      "off": "Arroz parboilizado | Camil | 1 kg",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "9": {
+      "image": "https://images.openfoodfacts.org/images/products/789/350/001/8483/front_pt.8.200.jpg",
+      "ean": "7893500018483",
+      "off": "Arroz Integral Tio João Tipo 1 1kg | TIO JOAO | 1kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "10": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/671/1117/front_en.3.200.jpg",
+      "ean": "7896006711117",
+      "off": "Arroz Tipo Cru | CAMIL | 1kg",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "11": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/674/4115/front_en.3.200.jpg",
+      "ean": "7896006744115",
+      "off": "feijão carioca camil | CAMIL, Camil Alimentos S.A. | 1kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "12": {
+      "image": "https://images.openfoodfacts.org/images/products/789/611/690/0029/front_pt.16.200.jpg",
+      "ean": "7896116900029",
+      "off": "Feijão carioca kicaldo | Kicaldo | 1kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "13": {
+      "image": "https://images.openfoodfacts.org/images/products/789/620/011/5346/front_pt.4.200.jpg",
+      "ean": "7896200115346",
+      "off": "Feijão carioca comum tipo 1 | Broto legal | 1kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "14": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/675/1113/front_pt.31.200.jpg",
+      "ean": "7896006751113",
+      "off": "Camil preto | Camil | 1kg",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "15": {
+      "image": "https://images.openfoodfacts.org/images/products/789/611/690/0647/front_pt.23.200.jpg",
+      "ean": "7896116900647",
+      "off": "Feijão preto kicaldo | Kicaldo | 1kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "16": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/675/0758/front_pt.7.200.jpg",
+      "ean": "7896006750758",
+      "off": "Lentilha Seca Camil | CAMIL | 500 g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "17": {
+      "image": "https://images.openfoodfacts.org/images/products/789/109/510/0552/front_pt.3.200.jpg",
+      "ean": "7891095100552",
+      "off": "Lentilha Tipo 1 Yoki Pacote 500g | YOKI | 500g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "18": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/675/0734/front_pt.3.200.jpg",
+      "ean": "7896006750734",
+      "off": "Grão De Bico Camil | CAMIL | ",
+      "score": 0.79,
+      "fonte": "Open Food Facts"
+    },
+    "19": {
+      "image": "https://images.openfoodfacts.org/images/products/789/109/510/0538/front_pt.3.200.jpg",
+      "ean": "7891095100538",
+      "off": "Grão De Bico Yoki Pacote 500g | YOKI | 500g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "20": {
+      "image": "https://images.openfoodfacts.org/images/products/789/191/000/1972/front_pt.3.200.jpg",
+      "ean": "7891910001972",
+      "off": "Açúcar Refinado União 1kg | UNIÃO | 1kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "21": {
+      "image": "https://images.openfoodfacts.org/images/products/789/689/490/0266/front_pt.3.200.jpg",
+      "ean": "7896894900266",
+      "off": "Açúcar Refinado Granulado Premium Caravelas Pacote 1kg | CARAVELAS | 1kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "22": {
+      "image": "https://images.openfoodfacts.org/images/products/789/603/250/1010/front_pt.3.200.jpg",
+      "ean": "7896032501010",
+      "off": "Açúcar Refinado Com 1kg Da Barra | AÇÚCAR DA BARRA | 1kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "23": {
+      "image": "https://images.openfoodfacts.org/images/products/789/191/000/1972/front_pt.3.200.jpg",
+      "ean": "7891910001972",
+      "off": "Açúcar Refinado União 1kg | UNIÃO | 1kg",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "24": {
+      "image": "https://images.openfoodfacts.org/images/products/789/610/980/0039/front_pt.3.200.jpg",
+      "ean": "7896109800039",
+      "off": "Açúcar Cristal Guarani Pacote 5kg | GUARANI | 5kg",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "25": {
+      "image": "https://images.openfoodfacts.org/images/products/789/689/490/0273/front_pt.3.200.jpg",
+      "ean": "7896894900273",
+      "off": "Açúcar Cristal Premium Caravelas Pacote 1kg | CARAVELAS | 1kg",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "26": {
+      "image": "https://images.openfoodfacts.org/images/products/789/609/491/0904/front_pt.20.200.jpg",
+      "ean": "7896094910904",
+      "off": "Adoçante Líquido Zero Cal 100ML Ciclamato Unit | Zero-Cal | 100mL",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "27": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/125/0628/front_pt.3.200.jpg",
+      "ean": "7896001250628",
+      "off": "Adoçante Líquido Sucralose Linea Caixa 75ml | LINEA | 75ml",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "28": {
+      "image": "https://images.openfoodfacts.org/images/products/789/608/901/2019/front_pt.7.200.jpg",
+      "ean": "7896089012019",
+      "off": "Café Torrado E Moído Tradicional Pilão Pacote 500g | PILAO | 500g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "29": {
+      "image": "https://images.openfoodfacts.org/images/products/789/102/100/6125/front_pt.38.200.jpg",
+      "ean": "7891021006125",
+      "off": "Café Torrado E Moído Tradicional Melitta Caixa 500g | MELITTA | 500g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "30": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/580/0010/front_pt.18.200.jpg",
+      "ean": "7896005800010",
+      "off": "Café Torrado E Moído Tradicional 3 Corações Pacote 500g | 3 CORACOES | 500g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "31": {
+      "image": "https://images.openfoodfacts.org/images/products/789/608/902/9475/front_pt.3.200.jpg",
+      "ean": "7896089029475",
+      "off": "Café Torrado E Moído A Vácuo Exportação Café Do Ponto Pacote 500g | CAFE DO PONTO | 500g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "34": {
+      "image": "https://images.openfoodfacts.org/images/products/789/109/800/2044/front_pt.7.200.jpg",
+      "ean": "7891098002044",
+      "off": "Chá de sachê (camomila, cidreira e maracujá) | Chá Leão | 24g",
+      "score": 0.79,
+      "fonte": "Open Food Facts"
+    },
+    "35": {
+      "image": "https://images.openfoodfacts.org/images/products/789/104/803/6020/front_pt.3.200.jpg",
+      "ean": "7891048036020",
+      "off": "Chá de Camomila | Dr. Oetker | 15g",
+      "score": 0.79,
+      "fonte": "Open Food Facts"
+    },
+    "38": {
+      "image": "https://images.openfoodfacts.org/images/products/789/110/710/1621/front_pt.31.200.jpg",
+      "ean": "7891107101621",
+      "off": "SOYA Óleo de Soja | SOYA | 500ml",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "39": {
+      "image": "https://images.openfoodfacts.org/images/products/789/603/609/0244/front_pt.11.200.jpg",
+      "ean": "7896036090244",
+      "off": "Óleo De Soja Tipo 1 | CARGILL BRASIL, Liza | 900 ml",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "40": {
+      "image": "https://images.openfoodfacts.org/images/products/789/700/101/0014/front_pt.4.200.jpg",
+      "ean": "7897001010014",
+      "off": "Óleo de soja | Cocamar | 900ml",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "41": {
+      "image": "https://images.openfoodfacts.org/images/products/560/125/223/1164/front_pt.38.200.jpg",
+      "ean": "5601252231164",
+      "off": "Azeite de Oliva Extravirgem Clássico | Gallo | 500 ml",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "42": {
+      "image": "https://images.openfoodfacts.org/images/products/780/876/090/0072/front_pt.16.200.jpg",
+      "ean": "7808760900072",
+      "off": "Azeite De Oliva Extra Virgem Chileno Olave Premium Blend Vidro 500ml | ANDORINHA | 500ml",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "43": {
+      "image": "https://images.openfoodfacts.org/images/products/841/017/910/0920/front_pt.3.200.jpg",
+      "ean": "8410179100920",
+      "off": "Azeite De Oliva Extra Virgem Equilibrado Espanhol Borges Vidro 500ml | BORGES | 500ml",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "44": {
+      "image": "https://images.openfoodfacts.org/images/products/789/602/220/0046/front_pt.3.200.jpg",
+      "ean": "7896022200046",
+      "off": "Macarrão De Sêmola De Trigo Grano Duro Espaguete 8 Renata Superiore Pacote 500g | SELMI | 500g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "45": {
+      "image": "https://images.openfoodfacts.org/images/products/789/620/578/8040/front_pt.9.200.jpg",
+      "ean": "7896205788040",
+      "off": "Macarrão De Sêmola Com Ovos Espaguete 8 Adria Pacote 500g | SYMBOL | 500g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "46": {
+      "image": "https://images.openfoodfacts.org/images/products/789/895/185/0064/front_pt.9.200.jpg",
+      "ean": "7898951850064",
+      "off": "Macarrão Com Ovos Espaguete 8 Barilla Pacote 500g | BARILLA | 500g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "47": {
+      "image": "https://images.openfoodfacts.org/images/products/789/602/220/0206/front_pt.6.200.jpg",
+      "ean": "7896022200206",
+      "off": "Macarrão De Sêmola Com Ovos Parafuso Renata Pacote 500g | SELMI | 500g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "48": {
+      "image": "https://images.openfoodfacts.org/images/products/789/620/578/8156/front_pt.3.200.jpg",
+      "ean": "7896205788156",
+      "off": "Macarrão De Sêmola Com Ovos Parafuso Adria Pacote 500g | ADRIA | 500g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "49": {
+      "image": "https://images.openfoodfacts.org/images/products/789/107/900/0205/front_pt.9.200.jpg",
+      "ean": "7891079000205",
+      "off": "Macarrão Instantâneo Lámen Carne Nissin Miojo Pacote 85g | AJINOMOTO | 85g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "51": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/521/2905/front_pt.9.200.jpg",
+      "ean": "7896005212905",
+      "off": "Farinha de trigo reserva especial puríssima | Dona Benta | 1 kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "52": {
+      "image": "https://images.openfoodfacts.org/images/products/789/602/220/8004/front_pt.3.200.jpg",
+      "ean": "7896022208004",
+      "off": "Farinha de Trigo | Renata | 1 kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "53": {
+      "image": "https://images.openfoodfacts.org/images/products/789/108/000/0119/front_pt.22.200.jpg",
+      "ean": "7891080000119",
+      "off": "farinha de trigo sol | SOL HITS | 1kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "54": {
+      "image": "https://images.openfoodfacts.org/images/products/789/109/500/1101/front_fr.15.200.jpg",
+      "ean": "7891095001101",
+      "off": "Farinha Mandioca Yoki 1KG | Yoki | 1 kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "55": {
+      "image": "https://images.openfoodfacts.org/images/products/789/603/591/1212/front_pt.3.200.jpg",
+      "ean": "7896035911212",
+      "off": "Farinha de mandioca | AMAFIL | 1kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "56": {
+      "image": "https://images.openfoodfacts.org/images/products/789/109/520/0467/front_pt.3.200.jpg",
+      "ean": "7891095200467",
+      "off": "Fubá Mimoso Yoki Pacote 1kg | Yoki | 1kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "58": {
+      "image": "https://images.openfoodfacts.org/images/products/025/978/004/3725/front_pt.3.200.jpg",
+      "ean": "0259780043725",
+      "off": "Fermento Químico em Pó | Royal | 100g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "59": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/527/9489/front_en.4.200.jpg",
+      "ean": "7896005279489",
+      "off": "Fermento em pó | Dona Benta | 100g",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "60": {
+      "image": "https://images.openfoodfacts.org/images/products/789/603/603/6051/front_pt.17.200.jpg",
+      "ean": "7896036036051",
+      "off": "Molho De Tomate Caseiro Pomarola Sachê 300g | POMAROLA | 300g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "61": {
+      "image": "https://images.openfoodfacts.org/images/products/789/610/250/1872/front_en.7.200.jpg",
+      "ean": "7896102501872",
+      "off": "Molho De Tomate Tradicional | Quero, Heinz Brasil S.A | 300g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "62": {
+      "image": "https://images.openfoodfacts.org/images/products/789/751/720/6086/front_en.8.200.jpg",
+      "ean": "7897517206086",
+      "off": "Molho de Tomate Tradicional | Fugini | 300 g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "63": {
+      "image": "https://images.openfoodfacts.org/images/products/789/603/600/0717/front_pt.13.200.jpg",
+      "ean": "7896036000717",
+      "off": "Extrato De Tomate | ELEFANTE | 300g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "64": {
+      "image": "https://images.openfoodfacts.org/images/products/789/610/250/1995/front_pt.3.200.jpg",
+      "ean": "7896102501995",
+      "off": "Extrato de Tomate Extrato⁺ | Quero | 300g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "66": {
+      "image": "https://images.openfoodfacts.org/images/products/889/617/210/3043/front_pt.3.200.jpg",
+      "ean": "8896172103043",
+      "off": "Sal Refinado Lebre | Lebre | 1 kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "67": {
+      "image": "https://images.openfoodfacts.org/images/products/789/400/005/0034/front_en.28.200.jpg",
+      "ean": "7894000050034",
+      "off": "Maionese | Hellmann's | 500 g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "68": {
+      "image": "https://images.openfoodfacts.org/images/products/789/610/258/4998/front_pt.5.200.jpg",
+      "ean": "7896102584998",
+      "off": "Maionese | QUERO | 495g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "69": {
+      "image": "https://images.openfoodfacts.org/images/products/789/103/141/2091/front_pt.38.200.jpg",
+      "ean": "7891031412091",
+      "off": "Maionese Tradicional | Heinz, HEMMER | 930g",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "70": {
+      "image": "https://images.openfoodfacts.org/images/products/789/610/250/3708/front_en.35.200.jpg",
+      "ean": "7896102503708",
+      "off": "Tomato Ketchup | Heinz | 397 g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "71": {
+      "image": "https://images.openfoodfacts.org/images/products/789/610/250/2756/front_pt.6.200.jpg",
+      "ean": "7896102502756",
+      "off": "Quero Ketchup Tradicional | Quero | 400g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "72": {
+      "image": "https://images.openfoodfacts.org/images/products/789/400/000/0213/front_pt.3.200.jpg",
+      "ean": "7894000000213",
+      "off": "Caldo Galinha | Knorr | 19 g",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "73": {
+      "image": "https://images.openfoodfacts.org/images/products/789/100/025/0174/front_pt.7.200.jpg",
+      "ean": "7891000250174",
+      "off": "Caldo Tablete Galinha Maggi Caixa 57g 6 Unidades | Maggi | 57g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "74": {
+      "image": "https://images.openfoodfacts.org/images/products/789/113/201/9403/front_pt.7.200.jpg",
+      "ean": "7891132019403",
+      "off": "Tempero Para Legumes Sazón Pacote 60g 12 Unidades | AJINOMOTO | 60g",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "75": {
+      "image": "https://images.openfoodfacts.org/images/products/789/109/560/5583/front_pt.3.200.jpg",
+      "ean": "7891095605583",
+      "off": "Tempero Pó Para Legumes Kitano Pacote 60g 12 Unidades | YOKI | 60g",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "76": {
+      "image": "https://images.openfoodfacts.org/images/products/789/610/250/0608/front_pt.11.200.jpg",
+      "ean": "7896102500608",
+      "off": "Milho Verde em Conserva | Quero | 170g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "77": {
+      "image": "https://images.openfoodfacts.org/images/products/308/368/108/0803/front_pt.3.200.jpg",
+      "ean": "3083681080803",
+      "off": "Milho Verde Em Conserva Tradicional Bonduelle Lata 170g | BONDUELLE | 170g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "79": {
+      "image": "https://images.openfoodfacts.org/images/products/789/610/250/0493/front_pt.10.200.jpg",
+      "ean": "7896102500493",
+      "off": "Ervilha Em Conserva Quero Lata 170g | QUERO | 170g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "80": {
+      "image": "https://images.openfoodfacts.org/images/products/789/629/230/0545/front_pt.4.200.jpg",
+      "ean": "7896292300545",
+      "off": "Ervilhas em conserva | Predilecta | 200g",
+      "score": 0.86,
+      "fonte": "Open Food Facts"
+    },
+    "81": {
+      "image": "https://images.openfoodfacts.org/images/products/789/116/702/1013/front_en.9.200.jpg",
+      "ean": "7891167021013",
+      "off": "Sardinhas com óleo | Gomes da Costa | 125 g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "82": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/930/1049/front_en.3.200.jpg",
+      "ean": "7896009301049",
+      "off": "Sardinhas com Óleo | COQUEIRO | Net 125g, Drained 75g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "83": {
+      "image": "https://images.openfoodfacts.org/images/products/789/116/701/1779/front_pt.60.200.jpg",
+      "ean": "7891167011779",
+      "off": "Atum Ralado ao Natural | Gomes da Costa | 170 g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "84": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/930/1131/front_pt.4.200.jpg",
+      "ean": "7896009301131",
+      "off": "ATUM RALADO OLEO 170G COQUEIRO | Coqueiro | 170g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "86": {
+      "image": "https://images.openfoodfacts.org/images/products/789/808/064/0413/front_pt.4.200.jpg",
+      "ean": "7898080640413",
+      "off": "Leite Condensado | Italac | 395 g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "87": {
+      "image": "https://images.openfoodfacts.org/images/products/789/821/515/1999/front_en.5.200.jpg",
+      "ean": "7898215151999",
+      "off": "Leite Condensado | Piracanjuba | 395 g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "88": {
+      "image": "https://images.openfoodfacts.org/images/products/789/100/012/6905/front_pt.6.200.jpg",
+      "ean": "7891000126905",
+      "off": "CREME DE LEITE UHT NESTLE | Nestlé | 200 g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "89": {
+      "image": "https://images.openfoodfacts.org/images/products/789/808/064/0222/front_en.7.200.jpg",
+      "ean": "7898080640222",
+      "off": "Creme de Leite | Italac | 200g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "90": {
+      "image": "https://images.openfoodfacts.org/images/products/789/821/515/1784/front_pt.68.200.jpg",
+      "ean": "7898215151784",
+      "off": "Creme de Leite Piracanjuba | Piracanjuba | 200 g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "91": {
+      "image": "https://images.openfoodfacts.org/images/products/762/230/024/2558/front_pt.3.200.jpg",
+      "ean": "7622300242558",
+      "off": "Gelatina Royal Morango | ROYAL | ",
+      "score": 0.79,
+      "fonte": "Open Food Facts"
+    },
+    "92": {
+      "image": "https://images.openfoodfacts.org/images/products/789/104/805/0682/front_pt.19.200.jpg",
+      "ean": "7891048050682",
+      "off": "Gelatina Uva | Dr. Oetker | 20 g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "93": {
+      "image": "https://images.openfoodfacts.org/images/products/762/230/099/1456/front_pt.19.200.jpg",
+      "ean": "7622300991456",
+      "off": "Chocolate Ao Leite Lacta Pacote 90g | LACTA | 90g",
+      "score": 0.64,
+      "fonte": "Open Food Facts"
+    },
+    "94": {
+      "image": "https://images.openfoodfacts.org/images/products/789/100/033/6373/front_en.18.200.jpg",
+      "ean": "7891000336373",
+      "off": "Chocolate Ao Leite Alpino | Nestlé | 85g",
+      "score": 0.78,
+      "fonte": "Open Food Facts"
+    },
+    "95": {
+      "image": "https://images.openfoodfacts.org/images/products/789/100/812/3975/front_pt.11.200.jpg",
+      "ean": "7891008123975",
+      "off": "Chocolate Ao Leite | Garoto | 80g",
+      "score": 0.78,
+      "fonte": "Open Food Facts"
+    },
+    "96": {
+      "image": "https://images.openfoodfacts.org/images/products/762/221/059/2637/front_pt.10.200.jpg",
+      "ean": "7622210592637",
+      "off": "BISC RECH TRAKINAS M/M CHOC/MOR 126G | Trakinas | 126g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "97": {
+      "image": "https://images.openfoodfacts.org/images/products/789/100/024/1356/front_pt.47.200.jpg",
+      "ean": "7891000241356",
+      "off": "BISC RECH PASSATEMPO CHOC 130G NESTLE | Nestlé | 130g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "98": {
+      "image": "https://images.openfoodfacts.org/images/products/789/100/030/4877/front_pt.24.200.jpg",
+      "ean": "7891000304877",
+      "off": "BISC RECH BONO FININHO CHOC 57G NESTLE | NESTLE | 57g",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "99": {
+      "image": "https://images.openfoodfacts.org/images/products/789/621/300/5092/front_en.6.200.jpg",
+      "ean": "7896213005092",
+      "off": "Biscoito salgado cream cracker | Vitarella | 400 g",
+      "score": 0.86,
+      "fonte": "Open Food Facts"
+    },
+    "100": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/370/3214/front_pt.10.200.jpg",
+      "ean": "7896003703214",
+      "off": "Biscoito Cream Cracker Marilan Pacote 400g | MARILAN | 400g",
+      "score": 0.86,
+      "fonte": "Open Food Facts"
+    },
+    "102": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/370/6093/front_en.4.200.jpg",
+      "ean": "7896003706093",
+      "off": "Biscoito. Maisena marilan 30g |  | ",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "103": {
+      "image": "https://images.openfoodfacts.org/images/products/789/621/300/6426/front_pt.12.200.jpg",
+      "ean": "7896213006426",
+      "off": "Biscoito Maizena Leite Vitarella Pacote 350g | VITARELLA | 350g",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "104": {
+      "image": "https://images.openfoodfacts.org/images/products/789/100/037/9691/front_en.4.200.jpg",
+      "ean": "7891000379691",
+      "off": "Achocolatado em pó - Nescau | Nestlé | 370g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "105": {
+      "image": "https://images.openfoodfacts.org/images/products/789/432/171/1478/front_en.4.200.jpg",
+      "ean": "7894321711478",
+      "off": "Achocolatado Toddy 800g | Toddy | 800 g",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "106": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/400/2538/front_pt.7.200.jpg",
+      "ean": "7896004002538",
+      "off": "Cereal Matinal Original Kelloggs Sucrilhos Caixa 300g | KELLOGG S | 300g",
+      "score": 0.86,
+      "fonte": "Open Food Facts"
+    },
+    "107": {
+      "image": "https://images.openfoodfacts.org/images/products/789/100/005/0880/front_pt.8.200.jpg",
+      "ean": "7891000050880",
+      "off": "Cereal Matinal Snow Flakes Sachê 120g | Nestlé | 120g",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "108": {
+      "image": "https://images.openfoodfacts.org/images/products/789/896/267/6110/front_pt.3.200.jpg",
+      "ean": "7898962676110",
+      "off": "Aveia Orgânica Em Flocos Quaker Caixa 170g | QUAKER | 170g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "109": {
+      "image": "https://images.openfoodfacts.org/images/products/789/109/502/8344/front_pt.33.200.jpg",
+      "ean": "7891095028344",
+      "off": "Aveia em Flocos yoki | Yoki | 170g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "110": {
+      "image": "https://images.openfoodfacts.org/images/products/789/100/014/0307/front_pt.19.200.jpg",
+      "ean": "7891000140307",
+      "off": "Leite integral em pó | Nestlé, Ninho | 400 g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "111": {
+      "image": "https://images.openfoodfacts.org/images/products/789/605/113/0284/front_pt.8.200.jpg",
+      "ean": "7896051130284",
+      "off": "Leite Pó Integral Itambé Lata 400g | Itambé | 400g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "112": {
+      "image": "https://images.openfoodfacts.org/images/products/789/821/515/2439/front_pt.7.200.jpg",
+      "ean": "7898215152439",
+      "off": "Leite em pó integral instantâneo | Piracanjuba | 400 g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "142": {
+      "image": "https://images.openfoodfacts.org/images/products/789/698/210/0035/front_pt.10.200.jpg",
+      "ean": "7896982100035",
+      "off": "Ovos Brancos Extra | Mantiqueira | 1,16 kg",
+      "score": 0.79,
+      "fonte": "Open Food Facts"
+    },
+    "144": {
+      "image": "https://images.openfoodfacts.org/images/products/789/698/210/0035/front_pt.10.200.jpg",
+      "ean": "7896982100035",
+      "off": "Ovos Brancos Extra | Mantiqueira | 1,16 kg",
+      "score": 0.79,
+      "fonte": "Open Food Facts"
+    },
+    "145": {
+      "image": "https://images.openfoodfacts.org/images/products/789/698/210/0301/front_pt.3.200.jpg",
+      "ean": "7896982100301",
+      "off": "Ovos tipo grande vermelhos categoria A | Mantiqueira | 576g",
+      "score": 0.79,
+      "fonte": "Open Food Facts"
+    },
+    "159": {
+      "image": "https://images.openfoodfacts.org/images/products/789/300/048/2401/front_pt.7.200.jpg",
+      "ean": "7893000482401",
+      "off": "Filé De Peito De Frango Congelado Sadia 1kg | SADIA INTERNATIONAL | 1kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "160": {
+      "image": "https://images.openfoodfacts.org/images/products/789/110/701/5102/front_pt.3.200.jpg",
+      "ean": "7891107015102",
+      "off": "File Seara Peito Fgo Cong.1kg | SEARA | 1kg",
+      "score": 0.84,
+      "fonte": "Open Food Facts"
+    },
+    "164": {
+      "image": "https://images.openfoodfacts.org/images/products/789/151/560/6121/front_en.5.200.jpg",
+      "ean": "7891515606121",
+      "off": "Bacon em cubos | Sadia | ",
+      "score": 0.79,
+      "fonte": "Open Food Facts"
+    },
+    "166": {
+      "image": "https://images.openfoodfacts.org/images/products/789/151/559/4411/front_pt.7.200.jpg",
+      "ean": "7891515594411",
+      "off": "Linguiça Toscana Sadia | Sadia | 700g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "167": {
+      "image": "https://images.openfoodfacts.org/images/products/789/490/428/1534/front_pt.3.200.jpg",
+      "ean": "7894904281534",
+      "off": "Linguiça Toscana Fininha Seara Gourmet 450g | GOURMET | 450g",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "168": {
+      "image": "https://images.openfoodfacts.org/images/products/789/151/591/9313/front_pt.3.200.jpg",
+      "ean": "7891515919313",
+      "off": "Linguiça Toscana Apimentada na Brasa Perdigão |  | 1kg",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "169": {
+      "image": "https://images.openfoodfacts.org/images/products/789/300/065/0138/front_pt.3.200.jpg",
+      "ean": "7893000650138",
+      "off": "Linguiça Calabresa Cozida E Defumada Sadia 500g | SADIA INTERNATIONAL | 500g",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "170": {
+      "image": "https://images.openfoodfacts.org/images/products/789/490/400/9862/front_pt.9.200.jpg",
+      "ean": "7894904009862",
+      "off": "Linguica Calab Seara | SEARA | 400g",
+      "score": 0.78,
+      "fonte": "Open Food Facts"
+    },
+    "171": {
+      "image": "https://images.openfoodfacts.org/images/products/789/300/071/9279/front_pt.23.200.jpg",
+      "ean": "7893000719279",
+      "off": "Salsicha de Frango | Sadia | 500g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "172": {
+      "image": "https://images.openfoodfacts.org/images/products/789/490/400/9893/front_pt.3.200.jpg",
+      "ean": "7894904009893",
+      "off": "Salsicha Longuete Seara | SEARA | ",
+      "score": 0.79,
+      "fonte": "Open Food Facts"
+    },
+    "173": {
+      "image": "https://images.openfoodfacts.org/images/products/789/151/574/2065/front_pt.16.200.jpg",
+      "ean": "7891515742065",
+      "off": "Salsicha Viena Perdigão 500g | PERDIX | 500g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "177": {
+      "image": "https://images.openfoodfacts.org/images/products/789/808/064/0017/front_pt.3.200.jpg",
+      "ean": "7898080640017",
+      "off": "Leite Uht Integral 1l Com Tampa Italac | ITALAC | 1l",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "178": {
+      "image": "https://images.openfoodfacts.org/images/products/789/821/515/7205/front_pt.3.200.jpg",
+      "ean": "7898215157205",
+      "off": "Leite Uht Integral Piracanjuba Caixa Com Tampa 1l | PIRACANJUBA | 1l",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "179": {
+      "image": "https://images.openfoodfacts.org/images/products/789/603/461/0017/front_en.3.200.jpg",
+      "ean": "7896034610017",
+      "off": "Leite Integral | Parmalat | 1L",
+      "score": 0.78,
+      "fonte": "Open Food Facts"
+    },
+    "180": {
+      "image": "https://images.openfoodfacts.org/images/products/789/821/515/7472/front_pt.3.200.jpg",
+      "ean": "7898215157472",
+      "off": "Leite Uht Integral | NINHO | 1l",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "181": {
+      "image": "https://images.openfoodfacts.org/images/products/789/808/064/0024/front_pt.14.200.jpg",
+      "ean": "7898080640024",
+      "off": "Leite Uht Desnatado 1 L Italac | ITALAC | 1l",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "182": {
+      "image": "https://images.openfoodfacts.org/images/products/789/821/515/7212/front_pt.3.200.jpg",
+      "ean": "7898215157212",
+      "off": "Leite Uht Desnatado Piracanjuba Caixa Com Tampa 1l | PIRACANJUBA | 1l",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "185": {
+      "image": "https://images.openfoodfacts.org/images/products/789/603/051/8270/front_pt.3.200.jpg",
+      "ean": "7896030518270",
+      "off": "Queijo Minas Frescal Reduzido Em Calorias | Tirolez | ",
+      "score": 0.79,
+      "fonte": "Open Food Facts"
+    },
+    "187": {
+      "image": "https://images.openfoodfacts.org/images/products/789/199/997/0053/front_pt.7.200.jpg",
+      "ean": "7891999970053",
+      "off": "Queijo Parmesão Ralado Vigor Pacote 50g | VIGOR | 50g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "188": {
+      "image": "https://images.openfoodfacts.org/images/products/789/603/052/0648/front_pt.7.200.jpg",
+      "ean": "7896030520648",
+      "off": "Queijo Parmesão Ralado | Laticínios Tirolez Ltda., Tirolez | 50g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "189": {
+      "image": "https://images.openfoodfacts.org/images/products/789/102/512/4856/front_pt.5.200.jpg",
+      "ean": "7891025124856",
+      "off": "Iogurte Danone Quaker Vitamina | Nestlé | 170 g",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "190": {
+      "image": "https://images.openfoodfacts.org/images/products/789/109/710/2936/front_en.4.200.jpg",
+      "ean": "7891097102936",
+      "off": "Iogurte de Jabuticaba Batavo | Batavo | 170g",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "191": {
+      "image": "https://images.openfoodfacts.org/images/products/789/102/512/2289/front_pt.3.200.jpg",
+      "ean": "7891025122289",
+      "off": "Iogurte Cremoso Morango Danone Especial Bandeja 510g 6 Unidades | CREMOSO | 510g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "192": {
+      "image": "https://images.openfoodfacts.org/images/products/789/109/710/5678/front_en.7.200.jpg",
+      "ean": "7891097105678",
+      "off": "Iogurte grego Batavo 510g morango | Batavo | ",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "193": {
+      "image": "https://images.openfoodfacts.org/images/products/789/633/110/0143/front_pt.6.200.jpg",
+      "ean": "7896331100143",
+      "off": "Manteiga Extra Com Sal Aviação 200g | AVIACAO | 200g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "194": {
+      "image": "https://images.openfoodfacts.org/images/products/789/605/113/5128/front_pt.6.200.jpg",
+      "ean": "7896051135128",
+      "off": "Manteiga Extra Com Sal Itambé 200g | LOTUS | 200g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "195": {
+      "image": "https://images.openfoodfacts.org/images/products/789/109/700/1338/front_pt.6.200.jpg",
+      "ean": "7891097001338",
+      "off": "Manteiga Extra Com Sal Président Gastronomique Pote 200g | PRESIDENT | 200g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "196": {
+      "image": "https://images.openfoodfacts.org/images/products/789/300/008/4360/front_pt.3.200.jpg",
+      "ean": "7893000084360",
+      "off": "Margarina Com Sal Qualy Aéra Pote 500g | QUALY | 500g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "197": {
+      "image": "https://images.openfoodfacts.org/images/products/789/151/590/0649/front_pt.3.200.jpg",
+      "ean": "7891515900649",
+      "off": "Margarina Doriana Ligth C/ Sal R | PERDIX | ",
+      "score": 0.79,
+      "fonte": "Open Food Facts"
+    },
+    "198": {
+      "image": "https://images.openfoodfacts.org/images/products/789/108/011/2836/front_pt.3.200.jpg",
+      "ean": "7891080112836",
+      "off": "Margarina Amanteigado Com Sal Delícia Supreme Pote 500g | DELICIA | 500g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "199": {
+      "image": "https://images.openfoodfacts.org/images/products/789/635/330/1184/front_pt.15.200.jpg",
+      "ean": "7896353301184",
+      "off": "Requeijão Cremoso | Catupiry | 200 g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "200": {
+      "image": "https://images.openfoodfacts.org/images/products/789/199/914/4485/front_en.3.200.jpg",
+      "ean": "7891999144485",
+      "off": "Requeijão Cremoso Tradicional | Vigor | 200g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "201": {
+      "image": "https://images.openfoodfacts.org/images/products/789/605/114/0016/front_en.3.200.jpg",
+      "ean": "7896051140016",
+      "off": "Requeijao Cremoso Itambem | Itambé, TOP LINE | 200g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "204": {
+      "image": "https://images.openfoodfacts.org/images/products/789/151/543/3703/front_pt.10.200.jpg",
+      "ean": "7891515433703",
+      "off": "Peito De Peru Fatiado Defumado Sadia Soltíssimo 200g | Sadia | 200g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "205": {
+      "image": "https://images.openfoodfacts.org/images/products/789/490/426/8559/front_pt.9.200.jpg",
+      "ean": "7894904268559",
+      "off": "Peito De Peru Defumado E Cozido Seara 150g | SEARA | 150g",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "207": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/230/1633/front_pt.3.200.jpg",
+      "ean": "7896002301633",
+      "off": "Pão De Forma Sem Casca Tradicional Pullman Pacote 450g | PULLMAN | 450g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "208": {
+      "image": "https://images.openfoodfacts.org/images/products/789/606/630/5615/front_pt.3.200.jpg",
+      "ean": "7896066305615",
+      "off": "Pão De Forma Sem Casca Tradicional Wickbold Pacote 450g | WICKBOLD | 450g",
+      "score": 0.86,
+      "fonte": "Open Food Facts"
+    },
+    "210": {
+      "image": "https://images.openfoodfacts.org/images/products/789/606/630/1778/front_pt.23.200.jpg",
+      "ean": "7896066301778",
+      "off": "Pão de forma 43% Integral | WICKBOLD | 550 g",
+      "score": 0.86,
+      "fonte": "Open Food Facts"
+    },
+    "211": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/230/3286/front_pt.3.200.jpg",
+      "ean": "7896002303286",
+      "off": "Pao De Forma 50% Integral | PULLMAN | 450g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "212": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/230/4153/front_pt.10.200.jpg",
+      "ean": "7896002304153",
+      "off": "Pão de hambúrguer Grand Burger Gergelim | Pullman | 420g",
+      "score": 0.79,
+      "fonte": "Open Food Facts"
+    },
+    "214": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/231/1663/front_en.3.200.jpg",
+      "ean": "7896002311663",
+      "off": "BISNAGUINHA | PULLMAN artesano | ",
+      "score": 0.79,
+      "fonte": "Open Food Facts"
+    },
+    "215": {
+      "image": "https://images.openfoodfacts.org/images/products/789/119/301/0012/front_pt.4.200.jpg",
+      "ean": "7891193010012",
+      "off": "Bisnaguinha Original | Seven Boys | 300 g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "216": {
+      "image": "https://images.openfoodfacts.org/images/products/789/196/200/0251/front_en.6.200.jpg",
+      "ean": "7891962000251",
+      "off": "Torrada Tradicional | Bauducco | 160g",
+      "score": 0.86,
+      "fonte": "Open Food Facts"
+    },
+    "219": {
+      "image": "https://images.openfoodfacts.org/images/products/789/119/302/0400/front_pt.3.200.jpg",
+      "ean": "7891193020400",
+      "off": "Bolo Laranja Seven Boys Pacote 250g | SEVEN BOYS | 250g",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "220": {
+      "image": "https://images.openfoodfacts.org/images/products/789/490/001/1517/front_pt.13.200.jpg",
+      "ean": "7894900011517",
+      "off": "Refrigerante Coca-Cola 2Lt | Coca-Cola | 2l",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "221": {
+      "image": "https://images.openfoodfacts.org/images/products/789/284/081/3130/front_pt.9.200.jpg",
+      "ean": "7892840813130",
+      "off": "Refrigerante Cola Pepsi Lata 269ml | PEPSI | 269ml",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "222": {
+      "image": "https://images.openfoodfacts.org/images/products/789/490/070/1517/front_pt.38.200.jpg",
+      "ean": "7894900701517",
+      "off": "Coca Cola Zero Açúcar | CocaCola | 2L",
+      "score": 0.78,
+      "fonte": "Open Food Facts"
+    },
+    "224": {
+      "image": "https://images.openfoodfacts.org/images/products/789/199/101/0252/front_pt.3.200.jpg",
+      "ean": "7891991010252",
+      "off": "Refrig.guarana Antarctica | GUARANA ANTARCTICA | ",
+      "score": 0.79,
+      "fonte": "Open Food Facts"
+    },
+    "225": {
+      "image": "https://images.openfoodfacts.org/images/products/789/490/091/1510/front_pt.15.200.jpg",
+      "ean": "7894900911510",
+      "off": "Refrigerante Guaraná Kuat Garrafa 2l | KUAT | 2l",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "226": {
+      "image": "https://images.openfoodfacts.org/images/products/789/490/003/1515/front_en.7.200.jpg",
+      "ean": "7894900031515",
+      "off": "Refrigerante Laranja Fanta Garrafa 2l | Fanta | 2l",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "227": {
+      "image": "https://images.openfoodfacts.org/images/products/789/114/944/0603/front_pt.18.200.jpg",
+      "ean": "7891149440603",
+      "off": "Refrigerante Laranja | SUKITA, Sukita | 350 ml",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "228": {
+      "image": "https://images.openfoodfacts.org/images/products/789/490/070/1159/front_pt.20.200.jpg",
+      "ean": "7894900701159",
+      "off": "Refrigerante Sem Açúcar Coca Cola Lata 310ml | COCA-COLA | 310ml",
+      "score": 0.86,
+      "fonte": "Open Food Facts"
+    },
+    "229": {
+      "image": "https://images.openfoodfacts.org/images/products/789/284/081/3130/front_pt.9.200.jpg",
+      "ean": "7892840813130",
+      "off": "Refrigerante Cola Pepsi Lata 269ml | PEPSI | 269ml",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "230": {
+      "image": "https://images.openfoodfacts.org/images/products/789/114/103/6170/front_pt.6.200.jpg",
+      "ean": "7891141036170",
+      "off": "Suco Integral Uva Tinto Aurora Caixa 1,5l | INTEGRAL | 1.5l",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "231": {
+      "image": "https://images.openfoodfacts.org/images/products/789/114/102/3910/front_pt.6.200.jpg",
+      "ean": "7891141023910",
+      "off": "SUCO INTEGRAL CASA DE BENTO UVA TINTO 1L | CASA DE BENTO | 1l",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "232": {
+      "image": "https://images.openfoodfacts.org/images/products/789/834/143/0012/front_en.3.200.jpg",
+      "ean": "7898341430012",
+      "off": "Nectar de Manga de baixa caloria | Del Valle | 1l",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "233": {
+      "image": "https://images.openfoodfacts.org/images/products/789/600/059/3719/front_pt.6.200.jpg",
+      "ean": "7896000593719",
+      "off": "Maguary Néctar de Tangerina | Ebba,Maguary | 1 l",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "234": {
+      "image": "https://images.openfoodfacts.org/images/products/762/221/057/1724/front_pt.14.200.jpg",
+      "ean": "7622210571724",
+      "off": "Refresco Em Pó Morango Tang Pacote 18g | MONDELEZ | 18g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "235": {
+      "image": "https://images.openfoodfacts.org/images/products/762/221/056/9790/front_pt.3.200.jpg",
+      "ean": "7622210569790",
+      "off": "Refresco Em Pó Laranja Fresh Pacote 15g | FRESH | 15g",
+      "score": 0.86,
+      "fonte": "Open Food Facts"
+    },
+    "236": {
+      "image": "https://images.openfoodfacts.org/images/products/789/490/053/0056/front_pt.5.200.jpg",
+      "ean": "7894900530056",
+      "off": "Água Mineral Natural Crystal sem Gás | Coca Cola Brasil | 5 l",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "237": {
+      "image": "https://images.openfoodfacts.org/images/products/789/606/588/0069/front_pt.3.200.jpg",
+      "ean": "7896065880069",
+      "off": "Água Mineral Natural sem gás | Minalba | 510 ml",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "239": {
+      "image": "https://images.openfoodfacts.org/images/products/789/490/053/0001/front_pt.30.200.jpg",
+      "ean": "7894900530001",
+      "off": "AGUA MIN CRYSTAL S/GAS 500ML | CRYSTAL | 500ML",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "240": {
+      "image": "https://images.openfoodfacts.org/images/products/789/606/588/0069/front_pt.3.200.jpg",
+      "ean": "7896065880069",
+      "off": "Água Mineral Natural sem gás | Minalba | 510 ml",
+      "score": 0.84,
+      "fonte": "Open Food Facts"
+    },
+    "241": {
+      "image": "https://images.openfoodfacts.org/images/products/789/490/053/1008/front_pt.40.200.jpg",
+      "ean": "7894900531008",
+      "off": "AGUA MIN CRYSTAL C/GAS 50OML | Coca-Cola | 500 ml",
+      "score": 0.78,
+      "fonte": "Open Food Facts"
+    },
+    "242": {
+      "image": "https://images.openfoodfacts.org/images/products/789/606/280/1050/front_pt.7.200.jpg",
+      "ean": "7896062801050",
+      "off": "Água Mineral São Lourenço Com Gás | São Lourenço,Nestlé Waters Brasil,Nestlé | 510 ml",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "245": {
+      "image": "https://images.openfoodfacts.org/images/products/789/739/500/0882/front_pt.10.200.jpg",
+      "ean": "7897395000882",
+      "off": "CERV ITAIPAVA PILSEN Z/A LN 330ML | Itaipava | 330",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "250": {
+      "image": "https://images.openfoodfacts.org/images/products/789/609/890/0253/front_pt.3.200.jpg",
+      "ean": "7896098900253",
+      "off": "Detergente Ypê Clear | Ype | 500 ml",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "251": {
+      "image": "https://images.openfoodfacts.org/images/products/789/102/263/8004/front_pt.4.200.jpg",
+      "ean": "7891022638004",
+      "off": "detergente | limpol | 500 ml",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "253": {
+      "image": "https://images.openfoodfacts.org/images/products/789/608/380/0025/front_en.10.200.jpg",
+      "ean": "7896083800025",
+      "off": "Água Sanitária Qboa | Anhembi | 2 l",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "256": {
+      "image": "https://images.openfoodfacts.org/images/products/789/608/380/0025/front_en.10.200.jpg",
+      "ean": "7896083800025",
+      "off": "Água Sanitária Qboa | Anhembi | 2 l",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "258": {
+      "image": "https://images.openfoodfacts.org/images/products/789/115/006/9138/front_pt.3.200.jpg",
+      "ean": "7891150069138",
+      "off": "Sabão Pó Brilhante |  | 2,2 Kg",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "273": {
+      "image": "https://images.openfoodfacts.org/images/products/789/609/890/4367/front_en.3.200.jpg",
+      "ean": "7896098904367",
+      "off": "YPÊ  ANTIBAC DESINFETANTE 500ml |  | ",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "275": {
+      "image": "https://images.openfoodfacts.org/images/products/789/103/528/5158/front_pt.3.200.jpg",
+      "ean": "7891035285158",
+      "off": "Veja multiuso Campestre |  | 500 ml",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "295": {
+      "image": "https://images.openfoodfacts.org/images/products/789/117/611/7462/front_pt.3.200.jpg",
+      "ean": "7891176117462",
+      "off": "Sabonete Francis |  | 85 g",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "298": {
+      "image": "https://images.openbeautyfacts.org/images/products/789/115/006/9015/front_pt.7.200.jpg",
+      "ean": "7891150069015",
+      "off": "Sabonete líquido para mãos | Unilever, Lux | 1L",
+      "score": 0.69,
+      "fonte": "Open Beauty Facts"
+    },
+    "305": {
+      "image": "https://images.openfoodfacts.org/images/products/750/043/526/0374/front_pt.3.200.jpg",
+      "ean": "7500435260374",
+      "off": "Condicionador Pantene Pro-V Bambu | Pantene | 510ml",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "307": {
+      "image": "https://images.openbeautyfacts.org/images/products/789/102/413/2128/front_pt.3.200.jpg",
+      "ean": "7891024132128",
+      "off": "Creme Dental Colgate | Colgate | 90 g",
+      "score": 1.0,
+      "fonte": "Open Beauty Facts"
+    },
+    "316": {
+      "image": "https://images.openbeautyfacts.org/images/products/779/129/303/5826/front_pt.3.200.jpg",
+      "ean": "7791293035826",
+      "off": "Desodorante Antitranspirante Aerosol Rexona Cotton Dry 200ml | Rexona | 200ml",
+      "score": 0.69,
+      "fonte": "Open Beauty Facts"
+    },
+    "319": {
+      "image": "https://images.openbeautyfacts.org/images/products/750/630/623/3362/front_en.3.200.jpg",
+      "ean": "7506306233362",
+      "off": "Desodorante AXE | Unilever | 152ml",
+      "score": 0.68,
+      "fonte": "Open Beauty Facts"
+    },
+    "338": {
+      "image": "https://images.openfoodfacts.org/images/products/789/151/548/5719/front_pt.3.200.jpg",
+      "ean": "7891515485719",
+      "off": "Lasanha de Massa Verde à Bolonhesa | Sadia | 600 g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "339": {
+      "image": "https://images.openfoodfacts.org/images/products/789/490/408/2704/front_pt.19.200.jpg",
+      "ean": "7894904082704",
+      "off": "Lasanha à Bolonhesa | Seara | 600g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "340": {
+      "image": "https://images.openfoodfacts.org/images/products/789/151/549/6357/front_pt.15.200.jpg",
+      "ean": "7891515496357",
+      "off": "Lasanha Bolonhesa | PERDIGAO | 600g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "341": {
+      "image": "https://images.openfoodfacts.org/images/products/789/151/562/8215/front_pt.3.200.jpg",
+      "ean": "7891515628215",
+      "off": "hambúrguer bovino | Sadia | ",
+      "score": 0.79,
+      "fonte": "Open Food Facts"
+    },
+    "342": {
+      "image": "https://images.openfoodfacts.org/images/products/789/490/407/7335/front_pt.4.200.jpg",
+      "ean": "7894904077335",
+      "off": "Nature Hamburguer Bovino Temperado | Seara | 452g",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "343": {
+      "image": "https://images.openfoodfacts.org/images/products/789/300/094/9355/front_pt.28.200.jpg",
+      "ean": "7893000949355",
+      "off": "EMPANADO DE PEITO DE FRANGO | Sadia | 300g",
+      "score": 0.78,
+      "fonte": "Open Food Facts"
+    },
+    "345": {
+      "image": "https://images.openfoodfacts.org/images/products/789/151/542/3117/front_pt.3.200.jpg",
+      "ean": "7891515423117",
+      "off": "Empanado De Frango Tradicional Minions Perdigão Mini Chicken Pacote 300g | PERDIGAO | 300g",
+      "score": 0.78,
+      "fonte": "Open Food Facts"
+    },
+    "346": {
+      "image": "https://images.openfoodfacts.org/images/products/789/115/005/5858/front_pt.15.200.jpg",
+      "ean": "7891150055858",
+      "off": "Sorvete Napolitano | KIBON | 1.5l",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "347": {
+      "image": "https://images.openfoodfacts.org/images/products/789/100/010/6921/front_pt.19.200.jpg",
+      "ean": "7891000106921",
+      "off": "Sorvete Sensação Nestlé Pote 1,5l | Nestlé | 1.5l",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "348": {
+      "image": "https://images.openfoodfacts.org/images/products/789/607/460/0016/front_pt.3.200.jpg",
+      "ean": "7896074600016",
+      "off": "Pão de Queijo Congelado Super Lanche | Forno de Minas | 1000 g",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "350": {
+      "image": "https://images.openfoodfacts.org/images/products/789/610/580/0705/front_pt.3.200.jpg",
+      "ean": "7896105800705",
+      "off": "Batata Pré Frita Rústica Congelada Mccain Ao Forno Pacote 600g | MCCAIN | 600g",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "351": {
+      "image": "https://images.openfoodfacts.org/images/products/789/892/156/7336/front_pt.3.200.jpg",
+      "ean": "7898921567336",
+      "off": "Batata Pré Frita Tradicional Congelada Bem Brasil Pacote 1,05kg | BEM BRASIL | 1.05kg",
+      "score": 1.0,
+      "fonte": "Open Food Facts"
+    },
+    "352": {
+      "image": "https://images.openfoodfacts.org/images/products/789/651/921/0046/front_pt.7.200.jpg",
+      "ean": "7896519210046",
+      "off": "Polpa De Fruta Manga De Marchi Pacote 100g | DEMARCHI | 100g",
+      "score": 0.69,
+      "fonte": "Open Food Facts"
+    },
+    "353": {
+      "image": "https://images.openfoodfacts.org/images/products/789/801/485/2707/front_en.3.200.jpg",
+      "ean": "7898014852707",
+      "off": "Mais fruta unibaby morango 400g |  | ",
+      "score": 0.68,
+      "fonte": "Open Food Facts"
+    },
+    "384": {
+      "image": "https://images.openfoodfacts.org/images/products/789/608/090/0124/front_pt.3.200.jpg",
+      "ean": "7896080900124",
+      "off": "Fósforos Paraná C/10 | Paraná | 10 cx com 40 Fósforos",
+      "score": 0.79,
+      "fonte": "Open Food Facts"
+    }
+  },
+  "checked": []
+}
