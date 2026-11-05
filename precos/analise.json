@@ -1,0 +1,904 @@
+{
+ "itens_na_cesta": 31,
+ "itens_comparaveis": 19,
+ "lojas": [
+  {
+   "loja": "Prezunic Caxias Centenário",
+   "itens": 19,
+   "total": 553.96
+  },
+  {
+   "loja": "Atacadão - AUTOMOVEL CLUBE",
+   "itens": 18,
+   "total": 282.72
+  },
+  {
+   "loja": "Atacadão - BANGU",
+   "itens": 18,
+   "total": 314.31
+  },
+  {
+   "loja": "Atacadão Realengo",
+   "itens": 17,
+   "total": 294.01
+  },
+  {
+   "loja": "Atacadão Guadalupe",
+   "itens": 17,
+   "total": 305.74
+  },
+  {
+   "loja": "Atacadão - BELFORD ROXO",
+   "itens": 16,
+   "total": 299.47
+  },
+  {
+   "loja": "Atacadão Nova Iguaçu Comendador Soares",
+   "itens": 15,
+   "total": 240.62
+  },
+  {
+   "loja": "Atacadão - NOVA IGUACU MARIA DA LUZ",
+   "itens": 15,
+   "total": 298.7
+  }
+ ],
+ "comuns": {
+  "itens": 19,
+  "tudo_numa_loja": {},
+  "melhor_de_cada_item": 320.13,
+  "melhor_dupla": null
+ },
+ "linhas": [
+  {
+   "grupo": "arroz-branco",
+   "qtd": 2,
+   "precos": {
+    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
+     29.4,
+     "Arroz branco tipo 1 Prato Fino 5 kg",
+     29.4
+    ],
+    "Atacadão Nova Iguaçu Comendador Soares": [
+     29.4,
+     "Arroz branco tipo 1 Prato Fino 5 kg",
+     29.4
+    ],
+    "Atacadão - BELFORD ROXO": [
+     28.4,
+     "Arroz branco tipo 1 Tio João 5 kg",
+     28.4
+    ],
+    "Atacadão Guadalupe": [
+     29.4,
+     "Arroz branco tipo 1 Prato Fino 5 kg",
+     29.4
+    ],
+    "Atacadão Realengo": [
+     28.4,
+     "Arroz branco tipo 1 Tio João 5 kg",
+     28.4
+    ],
+    "Atacadão - BANGU": [
+     28.4,
+     "Arroz branco tipo 1 Tio João 5 kg",
+     28.4
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     28.4,
+     "Arroz branco tipo 1 Tio João 5 kg",
+     28.4
+    ],
+    "Prezunic Caxias Centenário": [
+     29.99,
+     "Arroz branco tipo 1 Tio João 5 kg",
+     34.99
+    ]
+   }
+  },
+  {
+   "grupo": "feijao-carioca",
+   "qtd": 4,
+   "precos": {
+    "Prezunic Caxias Centenário": [
+     11.69,
+     "Feijão carioca tipo 1 Camil 1 kg",
+     11.69
+    ]
+   }
+  },
+  {
+   "grupo": "feijao-preto",
+   "qtd": 2,
+   "precos": {
+    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
+     7.39,
+     "Feijão preto tipo 1 Kicaldo 1 kg",
+     7.39
+    ],
+    "Atacadão Nova Iguaçu Comendador Soares": [
+     7.39,
+     "Feijão preto tipo 1 Kicaldo 1 kg",
+     7.39
+    ],
+    "Atacadão - BELFORD ROXO": [
+     7.39,
+     "Feijão preto tipo 1 Kicaldo 1 kg",
+     7.39
+    ],
+    "Atacadão Guadalupe": [
+     7.39,
+     "Feijão preto tipo 1 Kicaldo 1 kg",
+     7.39
+    ],
+    "Atacadão Realengo": [
+     7.39,
+     "Feijão preto tipo 1 Kicaldo 1 kg",
+     7.39
+    ],
+    "Atacadão - BANGU": [
+     6.69,
+     "Feijão preto tipo 1 Kicaldo 1 kg",
+     6.69
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     7.39,
+     "Feijão preto tipo 1 Kicaldo 1 kg",
+     7.39
+    ]
+   }
+  },
+  {
+   "grupo": "acucar-refinado",
+   "qtd": 3,
+   "precos": {
+    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
+     3.69,
+     "Açúcar refinado Caravelas 1 kg",
+     3.69
+    ],
+    "Atacadão Nova Iguaçu Comendador Soares": [
+     3.69,
+     "Açúcar refinado Caravelas 1 kg",
+     3.69
+    ],
+    "Atacadão - BELFORD ROXO": [
+     3.69,
+     "Açúcar refinado Caravelas 1 kg",
+     3.69
+    ],
+    "Atacadão Guadalupe": [
+     3.69,
+     "Açúcar refinado Caravelas 1 kg",
+     3.69
+    ],
+    "Atacadão Realengo": [
+     3.69,
+     "Açúcar refinado Caravelas 1 kg",
+     3.69
+    ],
+    "Atacadão - BANGU": [
+     3.69,
+     "Açúcar refinado Caravelas 1 kg",
+     3.69
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     3.69,
+     "Açúcar refinado Caravelas 1 kg",
+     3.69
+    ],
+    "Prezunic Caxias Centenário": [
+     3.89,
+     "Açúcar refinado Caravelas 1 kg",
+     3.89
+    ]
+   }
+  },
+  {
+   "grupo": "cafe-po",
+   "qtd": 3,
+   "precos": {
+    "Prezunic Caxias Centenário": [
+     24.98,
+     "Café torrado e moído 3 Corações 500 g",
+     32.98
+    ]
+   }
+  },
+  {
+   "grupo": "oleo-soja",
+   "qtd": 3,
+   "precos": {
+    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
+     6.88,
+     "Óleo de soja Soya 900 ml",
+     6.88
+    ],
+    "Atacadão - BELFORD ROXO": [
+     6.89,
+     "Óleo de soja Soya 900 ml",
+     6.89
+    ],
+    "Atacadão - BANGU": [
+     6.89,
+     "Óleo de soja Soya 900 ml",
+     6.89
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     6.89,
+     "Óleo de soja Soya 900 ml",
+     6.89
+    ],
+    "Prezunic Caxias Centenário": [
+     6.99,
+     "Óleo de soja Soya 900 ml",
+     7.99
+    ]
+   }
+  },
+  {
+   "grupo": "macarrao-espaguete",
+   "qtd": 4,
+   "precos": {
+    "Atacadão Nova Iguaçu Comendador Soares": [
+     5.29,
+     "Macarrão espaguete Adria 500 g",
+     5.29
+    ],
+    "Atacadão - BELFORD ROXO": [
+     5.29,
+     "Macarrão espaguete Adria 500 g",
+     5.29
+    ],
+    "Atacadão Guadalupe": [
+     5.29,
+     "Macarrão espaguete Adria 500 g",
+     5.29
+    ],
+    "Atacadão Realengo": [
+     5.29,
+     "Macarrão espaguete Adria 500 g",
+     5.29
+    ],
+    "Atacadão - BANGU": [
+     5.29,
+     "Macarrão espaguete Adria 500 g",
+     5.29
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     5.29,
+     "Macarrão espaguete Adria 500 g",
+     5.29
+    ],
+    "Prezunic Caxias Centenário": [
+     7.19,
+     "Macarrão espaguete Renata 500 g",
+     7.19
+    ]
+   }
+  },
+  {
+   "grupo": "leite-integral",
+   "qtd": 12,
+   "precos": {
+    "Prezunic Caxias Centenário": [
+     6.79,
+     "Leite UHT integral Parmalat 1 L",
+     6.79
+    ]
+   }
+  },
+  {
+   "grupo": "farinha-trigo",
+   "qtd": 2,
+   "precos": {
+    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
+     6.89,
+     "Farinha de trigo Dona Benta 1 kg",
+     6.89
+    ],
+    "Atacadão Nova Iguaçu Comendador Soares": [
+     6.89,
+     "Farinha de trigo Dona Benta 1 kg",
+     6.89
+    ],
+    "Atacadão - BELFORD ROXO": [
+     6.89,
+     "Farinha de trigo Dona Benta 1 kg",
+     6.89
+    ],
+    "Atacadão Guadalupe": [
+     6.89,
+     "Farinha de trigo Dona Benta 1 kg",
+     6.89
+    ],
+    "Atacadão Realengo": [
+     6.89,
+     "Farinha de trigo Dona Benta 1 kg",
+     6.89
+    ],
+    "Atacadão - BANGU": [
+     6.89,
+     "Farinha de trigo Dona Benta 1 kg",
+     6.89
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     6.89,
+     "Farinha de trigo Dona Benta 1 kg",
+     6.89
+    ]
+   }
+  },
+  {
+   "grupo": "sal",
+   "qtd": 1,
+   "precos": {
+    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
+     2.99,
+     "Sal refinado Lebre 1 kg",
+     2.99
+    ],
+    "Atacadão Nova Iguaçu Comendador Soares": [
+     2.99,
+     "Sal refinado Lebre 1 kg",
+     2.99
+    ],
+    "Atacadão - BELFORD ROXO": [
+     2.99,
+     "Sal refinado Lebre 1 kg",
+     2.99
+    ],
+    "Atacadão Guadalupe": [
+     2.99,
+     "Sal refinado Lebre 1 kg",
+     2.99
+    ],
+    "Atacadão Realengo": [
+     2.99,
+     "Sal refinado Lebre 1 kg",
+     2.99
+    ],
+    "Atacadão - BANGU": [
+     2.99,
+     "Sal refinado Lebre 1 kg",
+     2.99
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     2.99,
+     "Sal refinado Lebre 1 kg",
+     2.99
+    ],
+    "Prezunic Caxias Centenário": [
+     4.79,
+     "Sal refinado Lebre 1 kg",
+     4.79
+    ]
+   }
+  },
+  {
+   "grupo": "molho-tomate",
+   "qtd": 4,
+   "precos": {
+    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
+     2.49,
+     "Molho de tomate Fugini 300 g",
+     2.49
+    ],
+    "Atacadão Nova Iguaçu Comendador Soares": [
+     2.49,
+     "Molho de tomate Fugini 300 g",
+     2.49
+    ],
+    "Atacadão - BELFORD ROXO": [
+     2.49,
+     "Molho de tomate Fugini 300 g",
+     2.49
+    ],
+    "Atacadão Guadalupe": [
+     5.29,
+     "Molho de tomate Pomarola 300 g",
+     5.29
+    ],
+    "Atacadão Realengo": [
+     2.49,
+     "Molho de tomate Fugini 300 g",
+     2.49
+    ],
+    "Atacadão - BANGU": [
+     2.49,
+     "Molho de tomate Fugini 300 g",
+     2.49
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     2.49,
+     "Molho de tomate Fugini 300 g",
+     2.49
+    ],
+    "Prezunic Caxias Centenário": [
+     2.59,
+     "Molho de tomate Fugini 300 g",
+     2.59
+    ]
+   }
+  },
+  {
+   "grupo": "extrato-tomate",
+   "qtd": 2,
+   "precos": {}
+  },
+  {
+   "grupo": "margarina",
+   "qtd": 2,
+   "precos": {
+    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
+     9.99,
+     "Margarina com sal Qualy 500 g",
+     9.99
+    ],
+    "Atacadão Nova Iguaçu Comendador Soares": [
+     7.98,
+     "Margarina com sal Doriana 500 g",
+     7.98
+    ],
+    "Atacadão - BELFORD ROXO": [
+     9.99,
+     "Margarina com sal Qualy 500 g",
+     9.99
+    ],
+    "Atacadão Guadalupe": [
+     7.98,
+     "Margarina com sal Doriana 500 g",
+     7.98
+    ],
+    "Atacadão Realengo": [
+     7.98,
+     "Margarina com sal Doriana 500 g",
+     7.98
+    ],
+    "Atacadão - BANGU": [
+     9.99,
+     "Margarina com sal Qualy 500 g",
+     9.99
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     7.98,
+     "Margarina com sal Doriana 500 g",
+     7.98
+    ],
+    "Prezunic Caxias Centenário": [
+     8.99,
+     "Margarina com sal Qualy 500 g",
+     10.49
+    ]
+   }
+  },
+  {
+   "grupo": "biscoito-cream-cracker",
+   "qtd": 3,
+   "precos": {
+    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
+     4.99,
+     "Biscoito cream cracker Vitarella 350 g",
+     4.99
+    ],
+    "Atacadão Nova Iguaçu Comendador Soares": [
+     4.99,
+     "Biscoito cream cracker Vitarella 350 g",
+     4.99
+    ],
+    "Atacadão - BELFORD ROXO": [
+     4.99,
+     "Biscoito cream cracker Vitarella 350 g",
+     4.99
+    ],
+    "Atacadão Guadalupe": [
+     4.99,
+     "Biscoito cream cracker Vitarella 350 g",
+     4.99
+    ],
+    "Atacadão Realengo": [
+     4.99,
+     "Biscoito cream cracker Vitarella 350 g",
+     4.99
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     4.99,
+     "Biscoito cream cracker Vitarella 350 g",
+     4.99
+    ],
+    "Prezunic Caxias Centenário": [
+     7.49,
+     "Biscoito cream cracker Vitarella 350 g",
+     7.49
+    ]
+   }
+  },
+  {
+   "grupo": "achocolatado",
+   "qtd": 1,
+   "precos": {
+    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
+     12.89,
+     "Achocolatado em pó Nescau 350 g",
+     12.89
+    ],
+    "Atacadão Nova Iguaçu Comendador Soares": [
+     12.89,
+     "Achocolatado em pó Nescau 350 g",
+     12.89
+    ],
+    "Atacadão - BELFORD ROXO": [
+     12.89,
+     "Achocolatado em pó Nescau 350 g",
+     12.89
+    ],
+    "Atacadão Guadalupe": [
+     12.89,
+     "Achocolatado em pó Nescau 350 g",
+     12.89
+    ],
+    "Atacadão Realengo": [
+     12.89,
+     "Achocolatado em pó Nescau 350 g",
+     12.89
+    ],
+    "Atacadão - BANGU": [
+     12.89,
+     "Achocolatado em pó Nescau 350 g",
+     12.89
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     12.89,
+     "Achocolatado em pó Nescau 350 g",
+     12.89
+    ],
+    "Prezunic Caxias Centenário": [
+     9.99,
+     "Achocolatado em pó Nescau 350 g",
+     15.99
+    ]
+   }
+  },
+  {
+   "grupo": "leite-condensado",
+   "qtd": 2,
+   "precos": {
+    "Atacadão Nova Iguaçu Comendador Soares": [
+     6.39,
+     "Leite condensado Piracanjuba 395 g",
+     6.39
+    ],
+    "Atacadão - BELFORD ROXO": [
+     6.39,
+     "Leite condensado Piracanjuba 395 g",
+     6.39
+    ],
+    "Atacadão Guadalupe": [
+     6.39,
+     "Leite condensado Piracanjuba 395 g",
+     6.39
+    ],
+    "Atacadão Realengo": [
+     6.39,
+     "Leite condensado Piracanjuba 395 g",
+     6.39
+    ],
+    "Atacadão - BANGU": [
+     6.39,
+     "Leite condensado Piracanjuba 395 g",
+     6.39
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     6.39,
+     "Leite condensado Piracanjuba 395 g",
+     6.39
+    ],
+    "Prezunic Caxias Centenário": [
+     7.69,
+     "Leite condensado Piracanjuba 395 g",
+     7.69
+    ]
+   }
+  },
+  {
+   "grupo": "creme-de-leite",
+   "qtd": 2,
+   "precos": {
+    "Atacadão Nova Iguaçu Comendador Soares": [
+     2.89,
+     "Creme de leite Italac 200 g",
+     2.89
+    ],
+    "Atacadão Guadalupe": [
+     2.89,
+     "Creme de leite Italac 200 g",
+     2.89
+    ],
+    "Atacadão Realengo": [
+     2.89,
+     "Creme de leite Italac 200 g",
+     2.89
+    ],
+    "Atacadão - BANGU": [
+     2.99,
+     "Creme de leite Piracanjuba 200 g",
+     2.99
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     2.99,
+     "Creme de leite Piracanjuba 200 g",
+     2.99
+    ],
+    "Prezunic Caxias Centenário": [
+     3.29,
+     "Creme de leite Nestlé 200 g",
+     6.66
+    ]
+   }
+  },
+  {
+   "grupo": "atum",
+   "qtd": 2,
+   "precos": {
+    "Prezunic Caxias Centenário": [
+     12.99,
+     "Atum ralado Coqueiro 170 g",
+     12.99
+    ]
+   }
+  },
+  {
+   "grupo": "sardinha",
+   "qtd": 2,
+   "precos": {
+    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
+     5.99,
+     "Sardinha em óleo Coqueiro 125 g",
+     5.99
+    ],
+    "Atacadão Guadalupe": [
+     5.99,
+     "Sardinha em óleo Coqueiro 125 g",
+     5.99
+    ],
+    "Atacadão - BANGU": [
+     6.99,
+     "Sardinha em óleo Coqueiro 125 g",
+     6.99
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     5.99,
+     "Sardinha em óleo Coqueiro 125 g",
+     5.99
+    ]
+   }
+  },
+  {
+   "grupo": "detergente",
+   "qtd": 5,
+   "precos": {
+    "Atacadão Realengo": [
+     2.69,
+     "Detergente líquido Limpol 500 ml",
+     2.69
+    ],
+    "Atacadão - BANGU": [
+     2.25,
+     "Detergente líquido Minuano 500 ml",
+     2.25
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     2.25,
+     "Detergente líquido Minuano 500 ml",
+     2.25
+    ]
+   }
+  },
+  {
+   "grupo": "agua-sanitaria",
+   "qtd": 2,
+   "precos": {
+    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
+     4.09,
+     "Água sanitária Ypê 1 L",
+     4.09
+    ],
+    "Atacadão Nova Iguaçu Comendador Soares": [
+     4.09,
+     "Água sanitária Ypê 1 L",
+     4.09
+    ],
+    "Atacadão - BELFORD ROXO": [
+     4.09,
+     "Água sanitária Ypê 1 L",
+     4.09
+    ],
+    "Atacadão Guadalupe": [
+     4.09,
+     "Água sanitária Ypê 1 L",
+     4.09
+    ],
+    "Atacadão Realengo": [
+     4.09,
+     "Água sanitária Ypê 1 L",
+     4.09
+    ],
+    "Atacadão - BANGU": [
+     4.09,
+     "Água sanitária Ypê 1 L",
+     4.09
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     4.09,
+     "Água sanitária Ypê 1 L",
+     4.09
+    ],
+    "Prezunic Caxias Centenário": [
+     5.99,
+     "Água sanitária Ypê 1 L",
+     5.99
+    ]
+   }
+  },
+  {
+   "grupo": "sabao-po",
+   "qtd": 1,
+   "precos": {}
+  },
+  {
+   "grupo": "amaciante",
+   "qtd": 1,
+   "precos": {}
+  },
+  {
+   "grupo": "desinfetante",
+   "qtd": 2,
+   "precos": {
+    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
+     17.9,
+     "Desinfetante Lysoform 1 L",
+     17.9
+    ],
+    "Atacadão Nova Iguaçu Comendador Soares": [
+     8.29,
+     "Desinfetante Ypê 1 L",
+     8.29
+    ],
+    "Atacadão - BELFORD ROXO": [
+     8.29,
+     "Desinfetante Ypê 1 L",
+     8.29
+    ],
+    "Atacadão Guadalupe": [
+     8.29,
+     "Desinfetante Ypê 1 L",
+     8.29
+    ],
+    "Atacadão Realengo": [
+     8.29,
+     "Desinfetante Ypê 1 L",
+     8.29
+    ],
+    "Atacadão - BANGU": [
+     8.29,
+     "Desinfetante Ypê 1 L",
+     8.29
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     8.29,
+     "Desinfetante Ypê 1 L",
+     8.29
+    ],
+    "Prezunic Caxias Centenário": [
+     18.99,
+     "Desinfetante Lysoform 1 L",
+     18.99
+    ]
+   }
+  },
+  {
+   "grupo": "papel-higienico",
+   "qtd": 2,
+   "precos": {
+    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
+     20.97,
+     "Papel higiênico folha dupla Neve 12 un",
+     20.97
+    ],
+    "Atacadão - BELFORD ROXO": [
+     20.97,
+     "Papel higiênico folha dupla Neve 12 un",
+     20.97
+    ],
+    "Atacadão Guadalupe": [
+     20.97,
+     "Papel higiênico folha dupla Neve 12 un",
+     20.97
+    ],
+    "Atacadão Realengo": [
+     20.97,
+     "Papel higiênico folha dupla Neve 12 un",
+     20.97
+    ],
+    "Atacadão - BANGU": [
+     20.97,
+     "Papel higiênico folha dupla Neve 12 un",
+     20.97
+    ]
+   }
+  },
+  {
+   "grupo": "sabonete-barra",
+   "qtd": 6,
+   "precos": {
+    "Prezunic Caxias Centenário": [
+     6.59,
+     "Sabonete em barra Dove 90 g",
+     6.59
+    ]
+   }
+  },
+  {
+   "grupo": "creme-dental",
+   "qtd": 3,
+   "precos": {
+    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
+     6.98,
+     "Creme dental Sorriso 90 g",
+     6.98
+    ],
+    "Atacadão Nova Iguaçu Comendador Soares": [
+     6.98,
+     "Creme dental Sorriso 90 g",
+     6.98
+    ],
+    "Atacadão - BELFORD ROXO": [
+     6.98,
+     "Creme dental Sorriso 90 g",
+     6.98
+    ],
+    "Atacadão Guadalupe": [
+     6.98,
+     "Creme dental Sorriso 90 g",
+     6.98
+    ],
+    "Atacadão Realengo": [
+     6.98,
+     "Creme dental Sorriso 90 g",
+     6.98
+    ],
+    "Atacadão - BANGU": [
+     6.98,
+     "Creme dental Sorriso 90 g",
+     6.98
+    ],
+    "Atacadão - AUTOMOVEL CLUBE": [
+     6.98,
+     "Creme dental Sorriso 90 g",
+     6.98
+    ],
+    "Prezunic Caxias Centenário": [
+     8.79,
+     "Creme dental Sorriso 90 g",
+     8.79
+    ]
+   }
+  },
+  {
+   "grupo": "shampoo",
+   "qtd": 1,
+   "precos": {}
+  },
+  {
+   "grupo": "esponja",
+   "qtd": 2,
+   "precos": {}
+  },
+  {
+   "grupo": "ovos-brancos",
+   "qtd": 2,
+   "precos": {}
+  }
+ ],
+ "updated": "2026-11-05T23:30:42+00:00"
+}
