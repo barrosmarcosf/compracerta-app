@@ -3,7 +3,7 @@
   "short_name": "CompraCerta",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#EDEEEB",
+  "background_color": "#E1E2DE",
   "theme_color": "#2C3824",
   "description": "Lista de compras com comparação de preços e rota otimizada",
   "prefer_related_applications": false,
