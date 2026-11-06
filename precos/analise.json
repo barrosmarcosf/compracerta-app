@@ -1,904 +1,7183 @@
 {
- "itens_na_cesta": 31,
- "itens_comparaveis": 19,
- "lojas": [
-  {
-   "loja": "Prezunic Caxias Centenário",
-   "itens": 19,
-   "total": 553.96
+ "updated": "2026-11-06T03:28:46+00:00",
+ "raio_km": 12,
+ "regioes": {
+  "Nova Iguaçu": {
+   "itens_na_cesta": 31,
+   "itens_comparaveis": 20,
+   "lojas": [
+    {
+     "loja": "Atacadão Belford Roxo",
+     "itens": 21,
+     "total": 515.31
+    },
+    {
+     "loja": "Atacadão Nova Iguaçu Maria da Luz",
+     "itens": 20,
+     "total": 458.84
+    },
+    {
+     "loja": "Atacadão Nova Iguaçu Comendador Soares",
+     "itens": 18,
+     "total": 425.9
+    }
+   ],
+   "comuns": {
+    "itens": 20,
+    "tudo_numa_loja": {
+     "Atacadão Belford Roxo": 500.73
+    },
+    "melhor_de_cada_item": 496.68,
+    "melhor_dupla": null
+   },
+   "linhas": [
+    {
+     "grupo": "arroz-branco",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       28.4,
+       "Arroz branco tipo 1 Tio João 5 kg",
+       28.4
+      ],
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       29.4,
+       "Arroz branco tipo 1 Prato Fino 5 kg",
+       29.4
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       29.4,
+       "Arroz branco tipo 1 Prato Fino 5 kg",
+       29.4
+      ]
+     }
+    },
+    {
+     "grupo": "feijao-carioca",
+     "qtd": 4,
+     "precos": {}
+    },
+    {
+     "grupo": "feijao-preto",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       7.39,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       7.39
+      ],
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       7.39,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       7.39
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       7.39,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       7.39
+      ]
+     }
+    },
+    {
+     "grupo": "acucar-refinado",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ],
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ]
+     }
+    },
+    {
+     "grupo": "cafe-po",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ],
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ]
+     }
+    },
+    {
+     "grupo": "oleo-soja",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       6.89,
+       "Óleo de soja Soya 900 ml",
+       6.89
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       6.88,
+       "Óleo de soja Soya 900 ml",
+       6.88
+      ]
+     }
+    },
+    {
+     "grupo": "macarrao-espaguete",
+     "qtd": 4,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       5.29,
+       "Macarrão espaguete Adria 500 g",
+       5.29
+      ],
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       5.29,
+       "Macarrão espaguete Adria 500 g",
+       5.29
+      ]
+     }
+    },
+    {
+     "grupo": "leite-integral",
+     "qtd": 12,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       5.49,
+       "Leite UHT integral Piracanjuba 1 L",
+       5.49
+      ],
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       5.49,
+       "Leite UHT integral Piracanjuba 1 L",
+       5.49
+      ]
+     }
+    },
+    {
+     "grupo": "farinha-trigo",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ],
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ]
+     }
+    },
+    {
+     "grupo": "sal",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ],
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ]
+     }
+    },
+    {
+     "grupo": "molho-tomate",
+     "qtd": 4,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       2.49,
+       "Molho de tomate Fugini 300 g",
+       2.49
+      ],
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       2.49,
+       "Molho de tomate Fugini 300 g",
+       2.49
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       2.49,
+       "Molho de tomate Fugini 300 g",
+       2.49
+      ]
+     }
+    },
+    {
+     "grupo": "extrato-tomate",
+     "qtd": 2,
+     "precos": {}
+    },
+    {
+     "grupo": "margarina",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       9.99,
+       "Margarina com sal Qualy 500 g",
+       9.99
+      ],
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       7.98,
+       "Margarina com sal Doriana 500 g",
+       7.98
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       9.99,
+       "Margarina com sal Qualy 500 g",
+       9.99
+      ]
+     }
+    },
+    {
+     "grupo": "biscoito-cream-cracker",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       4.99,
+       "Biscoito cream cracker Vitarella 350 g",
+       4.99
+      ],
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       4.99,
+       "Biscoito cream cracker Vitarella 350 g",
+       4.99
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       4.99,
+       "Biscoito cream cracker Vitarella 350 g",
+       4.99
+      ]
+     }
+    },
+    {
+     "grupo": "achocolatado",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ],
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ]
+     }
+    },
+    {
+     "grupo": "leite-condensado",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       7.29,
+       "Leite condensado Italac 395 g",
+       7.29
+      ]
+     }
+    },
+    {
+     "grupo": "creme-de-leite",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       2.89,
+       "Creme de leite Italac 200 g",
+       2.89
+      ]
+     }
+    },
+    {
+     "grupo": "atum",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       8.49,
+       "Atum ralado Coqueiro 170 g",
+       8.49
+      ],
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       8.49,
+       "Atum ralado Coqueiro 170 g",
+       8.49
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       8.49,
+       "Atum ralado Coqueiro 170 g",
+       8.49
+      ]
+     }
+    },
+    {
+     "grupo": "sardinha",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       5.99,
+       "Sardinha em óleo Coqueiro 125 g",
+       5.99
+      ]
+     }
+    },
+    {
+     "grupo": "detergente",
+     "qtd": 5,
+     "precos": {}
+    },
+    {
+     "grupo": "agua-sanitaria",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ],
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ]
+     }
+    },
+    {
+     "grupo": "sabao-po",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       15.98,
+       "Sabão em pó Brilhante 1,6 kg",
+       15.98
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       19.98,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       19.98
+      ]
+     }
+    },
+    {
+     "grupo": "amaciante",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       7.98,
+       "Amaciante de roupas Ypê 2 L",
+       7.98
+      ]
+     }
+    },
+    {
+     "grupo": "desinfetante",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       8.29,
+       "Desinfetante Ypê 1 L",
+       8.29
+      ],
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       8.29,
+       "Desinfetante Ypê 1 L",
+       8.29
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       17.9,
+       "Desinfetante Lysoform 1 L",
+       17.9
+      ]
+     }
+    },
+    {
+     "grupo": "papel-higienico",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       20.97,
+       "Papel higiênico folha dupla Neve 12 un",
+       20.97
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       20.97,
+       "Papel higiênico folha dupla Neve 12 un",
+       20.97
+      ]
+     }
+    },
+    {
+     "grupo": "sabonete-barra",
+     "qtd": 6,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       6.25,
+       "Sabonete em barra Dove 90 g",
+       6.25
+      ],
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       6.25,
+       "Sabonete em barra Dove 90 g",
+       6.25
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       6.25,
+       "Sabonete em barra Dove 90 g",
+       6.25
+      ]
+     }
+    },
+    {
+     "grupo": "creme-dental",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ],
+      "Atacadão Nova Iguaçu Comendador Soares": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ],
+      "Atacadão Nova Iguaçu Maria da Luz": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ]
+     }
+    },
+    {
+     "grupo": "shampoo",
+     "qtd": 1,
+     "precos": {}
+    },
+    {
+     "grupo": "esponja",
+     "qtd": 2,
+     "precos": {}
+    },
+    {
+     "grupo": "ovos-brancos",
+     "qtd": 2,
+     "precos": {}
+    }
+   ]
   },
-  {
-   "loja": "Atacadão - AUTOMOVEL CLUBE",
-   "itens": 18,
-   "total": 282.72
+  "Duque de Caxias": {
+   "itens_na_cesta": 31,
+   "itens_comparaveis": 27,
+   "lojas": [
+    {
+     "loja": "Atacadão Automóvel Clube",
+     "itens": 22,
+     "total": 454.46
+    },
+    {
+     "loja": "Prezunic Ilha do Governador",
+     "itens": 22,
+     "total": 655.66
+    },
+    {
+     "loja": "Prezunic Campinho",
+     "itens": 22,
+     "total": 664.28
+    },
+    {
+     "loja": "Atacadão Guadalupe",
+     "itens": 21,
+     "total": 459.1
+    },
+    {
+     "loja": "Atacadão Belford Roxo",
+     "itens": 21,
+     "total": 515.31
+    },
+    {
+     "loja": "Prezunic Caxias Centenário",
+     "itens": 21,
+     "total": 641.88
+    },
+    {
+     "loja": "Atacadão Duque de Caxias",
+     "itens": 20,
+     "total": 449.13
+    },
+    {
+     "loja": "Hortifruti Ilha do Governador",
+     "itens": 19,
+     "total": 605.95
+    }
+   ],
+   "comuns": {
+    "itens": 27,
+    "tudo_numa_loja": {},
+    "melhor_de_cada_item": 611.66,
+    "melhor_dupla": null
+   },
+   "linhas": [
+    {
+     "grupo": "arroz-branco",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       28.4,
+       "Arroz branco tipo 1 Tio João 5 kg",
+       28.4
+      ],
+      "Atacadão Guadalupe": [
+       29.4,
+       "Arroz branco tipo 1 Prato Fino 5 kg",
+       29.4
+      ],
+      "Atacadão Automóvel Clube": [
+       28.4,
+       "Arroz branco tipo 1 Tio João 5 kg",
+       28.4
+      ],
+      "Atacadão Duque de Caxias": [
+       28.4,
+       "Arroz branco tipo 1 Tio João 5 kg",
+       28.4
+      ],
+      "Prezunic Campinho": [
+       31.69,
+       "Arroz branco tipo 1 Camil 5 kg",
+       31.69
+      ],
+      "Prezunic Ilha do Governador": [
+       31.69,
+       "Arroz branco tipo 1 Camil 5 kg",
+       31.69
+      ],
+      "Prezunic Caxias Centenário": [
+       31.69,
+       "Arroz branco tipo 1 Camil 5 kg",
+       31.69
+      ]
+     }
+    },
+    {
+     "grupo": "feijao-carioca",
+     "qtd": 4,
+     "precos": {
+      "Prezunic Campinho": [
+       11.69,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       11.69
+      ],
+      "Prezunic Ilha do Governador": [
+       11.69,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       11.69
+      ],
+      "Prezunic Caxias Centenário": [
+       11.69,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       11.69
+      ],
+      "Hortifruti Ilha do Governador": [
+       10.99,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "feijao-preto",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       7.39,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       7.39
+      ],
+      "Atacadão Guadalupe": [
+       7.39,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       7.39
+      ],
+      "Atacadão Automóvel Clube": [
+       7.39,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       7.39
+      ],
+      "Atacadão Duque de Caxias": [
+       7.39,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       7.39
+      ],
+      "Hortifruti Ilha do Governador": [
+       10.99,
+       "Feijão preto tipo 1 Camil 1 kg",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "acucar-refinado",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ],
+      "Atacadão Guadalupe": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ],
+      "Atacadão Automóvel Clube": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ],
+      "Atacadão Duque de Caxias": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ],
+      "Prezunic Campinho": [
+       3.89,
+       "Açúcar refinado Caravelas 1 kg",
+       3.89
+      ],
+      "Prezunic Ilha do Governador": [
+       3.89,
+       "Açúcar refinado Caravelas 1 kg",
+       3.89
+      ],
+      "Prezunic Caxias Centenário": [
+       3.89,
+       "Açúcar refinado Caravelas 1 kg",
+       3.89
+      ],
+      "Hortifruti Ilha do Governador": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ]
+     }
+    },
+    {
+     "grupo": "cafe-po",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ],
+      "Atacadão Guadalupe": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ],
+      "Atacadão Automóvel Clube": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ],
+      "Atacadão Duque de Caxias": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ],
+      "Prezunic Campinho": [
+       32.98,
+       "Café torrado e moído Pilão 500 g",
+       32.98
+      ],
+      "Prezunic Ilha do Governador": [
+       29.98,
+       "Café torrado e moído Melitta 500 g",
+       29.98
+      ],
+      "Prezunic Caxias Centenário": [
+       32.98,
+       "Café torrado e moído Pilão 500 g",
+       32.98
+      ],
+      "Hortifruti Ilha do Governador": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ]
+     }
+    },
+    {
+     "grupo": "oleo-soja",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       6.89,
+       "Óleo de soja Soya 900 ml",
+       6.89
+      ],
+      "Atacadão Automóvel Clube": [
+       6.89,
+       "Óleo de soja Soya 900 ml",
+       6.89
+      ],
+      "Atacadão Duque de Caxias": [
+       6.89,
+       "Óleo de soja Soya 900 ml",
+       6.89
+      ],
+      "Prezunic Campinho": [
+       9.29,
+       "Óleo de soja Soya 900 ml",
+       9.29
+      ],
+      "Prezunic Ilha do Governador": [
+       9.29,
+       "Óleo de soja Soya 900 ml",
+       9.29
+      ],
+      "Prezunic Caxias Centenário": [
+       9.29,
+       "Óleo de soja Soya 900 ml",
+       9.29
+      ],
+      "Hortifruti Ilha do Governador": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ]
+     }
+    },
+    {
+     "grupo": "macarrao-espaguete",
+     "qtd": 4,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       5.29,
+       "Macarrão espaguete Adria 500 g",
+       5.29
+      ],
+      "Atacadão Guadalupe": [
+       5.29,
+       "Macarrão espaguete Adria 500 g",
+       5.29
+      ],
+      "Atacadão Automóvel Clube": [
+       5.29,
+       "Macarrão espaguete Adria 500 g",
+       5.29
+      ],
+      "Atacadão Duque de Caxias": [
+       5.49,
+       "Macarrão espaguete Barilla 500 g",
+       5.49
+      ],
+      "Prezunic Campinho": [
+       7.19,
+       "Macarrão espaguete Renata 500 g",
+       7.19
+      ],
+      "Prezunic Ilha do Governador": [
+       7.19,
+       "Macarrão espaguete Renata 500 g",
+       7.19
+      ],
+      "Prezunic Caxias Centenário": [
+       7.19,
+       "Macarrão espaguete Renata 500 g",
+       7.19
+      ],
+      "Hortifruti Ilha do Governador": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ]
+     }
+    },
+    {
+     "grupo": "leite-integral",
+     "qtd": 12,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       5.49,
+       "Leite UHT integral Piracanjuba 1 L",
+       5.49
+      ],
+      "Atacadão Automóvel Clube": [
+       5.49,
+       "Leite UHT integral Piracanjuba 1 L",
+       5.49
+      ],
+      "Prezunic Campinho": [
+       6.79,
+       "Leite UHT integral Parmalat 1 L",
+       6.79
+      ],
+      "Prezunic Ilha do Governador": [
+       6.79,
+       "Leite UHT integral Parmalat 1 L",
+       6.79
+      ],
+      "Prezunic Caxias Centenário": [
+       6.79,
+       "Leite UHT integral Parmalat 1 L",
+       6.79
+      ],
+      "Hortifruti Ilha do Governador": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ]
+     }
+    },
+    {
+     "grupo": "farinha-trigo",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ],
+      "Atacadão Guadalupe": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ],
+      "Atacadão Automóvel Clube": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ],
+      "Atacadão Duque de Caxias": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ],
+      "Prezunic Campinho": [
+       6.59,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.59
+      ],
+      "Prezunic Ilha do Governador": [
+       6.59,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.59
+      ],
+      "Hortifruti Ilha do Governador": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ]
+     }
+    },
+    {
+     "grupo": "sal",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ],
+      "Atacadão Guadalupe": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ],
+      "Atacadão Automóvel Clube": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ],
+      "Atacadão Duque de Caxias": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ],
+      "Prezunic Campinho": [
+       4.79,
+       "Sal refinado Lebre 1 kg",
+       4.79
+      ],
+      "Prezunic Ilha do Governador": [
+       4.79,
+       "Sal refinado Lebre 1 kg",
+       4.79
+      ],
+      "Prezunic Caxias Centenário": [
+       4.79,
+       "Sal refinado Lebre 1 kg",
+       4.79
+      ],
+      "Hortifruti Ilha do Governador": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ]
+     }
+    },
+    {
+     "grupo": "molho-tomate",
+     "qtd": 4,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       2.49,
+       "Molho de tomate Fugini 300 g",
+       2.49
+      ],
+      "Atacadão Guadalupe": [
+       5.29,
+       "Molho de tomate Pomarola 300 g",
+       5.29
+      ],
+      "Atacadão Automóvel Clube": [
+       2.49,
+       "Molho de tomate Fugini 300 g",
+       2.49
+      ],
+      "Atacadão Duque de Caxias": [
+       2.49,
+       "Molho de tomate Fugini 300 g",
+       2.49
+      ],
+      "Prezunic Ilha do Governador": [
+       2.59,
+       "Molho de tomate Fugini 300 g",
+       2.59
+      ],
+      "Prezunic Caxias Centenário": [
+       2.59,
+       "Molho de tomate Fugini 300 g",
+       2.59
+      ]
+     }
+    },
+    {
+     "grupo": "extrato-tomate",
+     "qtd": 2,
+     "precos": {}
+    },
+    {
+     "grupo": "margarina",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       9.99,
+       "Margarina com sal Qualy 500 g",
+       9.99
+      ],
+      "Atacadão Guadalupe": [
+       7.98,
+       "Margarina com sal Doriana 500 g",
+       7.98
+      ],
+      "Atacadão Automóvel Clube": [
+       7.98,
+       "Margarina com sal Doriana 500 g",
+       7.98
+      ],
+      "Atacadão Duque de Caxias": [
+       9.99,
+       "Margarina com sal Qualy 500 g",
+       9.99
+      ],
+      "Prezunic Campinho": [
+       8.99,
+       "Margarina com sal Doriana 500 g",
+       8.99
+      ],
+      "Prezunic Ilha do Governador": [
+       8.99,
+       "Margarina com sal Doriana 500 g",
+       8.99
+      ],
+      "Prezunic Caxias Centenário": [
+       8.99,
+       "Margarina com sal Doriana 500 g",
+       8.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "biscoito-cream-cracker",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       4.99,
+       "Biscoito cream cracker Vitarella 350 g",
+       4.99
+      ],
+      "Atacadão Guadalupe": [
+       4.99,
+       "Biscoito cream cracker Vitarella 350 g",
+       4.99
+      ],
+      "Atacadão Automóvel Clube": [
+       4.99,
+       "Biscoito cream cracker Vitarella 350 g",
+       4.99
+      ],
+      "Prezunic Campinho": [
+       7.49,
+       "Biscoito cream cracker Vitarella 350 g",
+       7.49
+      ],
+      "Prezunic Ilha do Governador": [
+       7.49,
+       "Biscoito cream cracker Vitarella 350 g",
+       7.49
+      ],
+      "Prezunic Caxias Centenário": [
+       7.49,
+       "Biscoito cream cracker Vitarella 350 g",
+       7.49
+      ]
+     }
+    },
+    {
+     "grupo": "achocolatado",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ],
+      "Atacadão Guadalupe": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ],
+      "Atacadão Automóvel Clube": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ],
+      "Atacadão Duque de Caxias": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ],
+      "Prezunic Campinho": [
+       19.29,
+       "Achocolatado em pó Nescau 350 g",
+       19.29
+      ],
+      "Prezunic Ilha do Governador": [
+       19.29,
+       "Achocolatado em pó Nescau 350 g",
+       19.29
+      ],
+      "Prezunic Caxias Centenário": [
+       19.29,
+       "Achocolatado em pó Nescau 350 g",
+       19.29
+      ],
+      "Hortifruti Ilha do Governador": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ]
+     }
+    },
+    {
+     "grupo": "leite-condensado",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       7.29,
+       "Leite condensado Italac 395 g",
+       7.29
+      ],
+      "Prezunic Campinho": [
+       9.79,
+       "Leite condensado Italac 395 g",
+       9.79
+      ],
+      "Prezunic Ilha do Governador": [
+       9.79,
+       "Leite condensado Italac 395 g",
+       9.79
+      ],
+      "Hortifruti Ilha do Governador": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "creme-de-leite",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Guadalupe": [
+       2.89,
+       "Creme de leite Italac 200 g",
+       2.89
+      ],
+      "Atacadão Automóvel Clube": [
+       2.99,
+       "Creme de leite Piracanjuba 200 g",
+       2.99
+      ],
+      "Atacadão Duque de Caxias": [
+       2.99,
+       "Creme de leite Piracanjuba 200 g",
+       2.99
+      ],
+      "Prezunic Campinho": [
+       6.66,
+       "Creme de leite Nestlé 200 g",
+       6.66
+      ],
+      "Prezunic Ilha do Governador": [
+       6.66,
+       "Creme de leite Nestlé 200 g",
+       6.66
+      ],
+      "Prezunic Caxias Centenário": [
+       6.66,
+       "Creme de leite Nestlé 200 g",
+       6.66
+      ],
+      "Hortifruti Ilha do Governador": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ]
+     }
+    },
+    {
+     "grupo": "atum",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       8.49,
+       "Atum ralado Coqueiro 170 g",
+       8.49
+      ],
+      "Atacadão Guadalupe": [
+       8.49,
+       "Atum ralado Coqueiro 170 g",
+       8.49
+      ],
+      "Atacadão Automóvel Clube": [
+       8.49,
+       "Atum ralado Coqueiro 170 g",
+       8.49
+      ],
+      "Atacadão Duque de Caxias": [
+       8.49,
+       "Atum ralado Coqueiro 170 g",
+       8.49
+      ],
+      "Prezunic Campinho": [
+       12.99,
+       "Atum ralado Coqueiro 170 g",
+       12.99
+      ],
+      "Prezunic Ilha do Governador": [
+       12.99,
+       "Atum ralado Coqueiro 170 g",
+       12.99
+      ],
+      "Prezunic Caxias Centenário": [
+       12.99,
+       "Atum ralado Coqueiro 170 g",
+       12.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ]
+     }
+    },
+    {
+     "grupo": "sardinha",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Guadalupe": [
+       5.99,
+       "Sardinha em óleo Coqueiro 125 g",
+       5.99
+      ],
+      "Atacadão Automóvel Clube": [
+       5.99,
+       "Sardinha em óleo Coqueiro 125 g",
+       5.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ]
+     }
+    },
+    {
+     "grupo": "detergente",
+     "qtd": 5,
+     "precos": {
+      "Atacadão Automóvel Clube": [
+       2.25,
+       "Detergente líquido Minuano 500 ml",
+       2.25
+      ],
+      "Atacadão Duque de Caxias": [
+       2.25,
+       "Detergente líquido Minuano 500 ml",
+       2.25
+      ],
+      "Hortifruti Ilha do Governador": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ]
+     }
+    },
+    {
+     "grupo": "agua-sanitaria",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ],
+      "Atacadão Guadalupe": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ],
+      "Atacadão Automóvel Clube": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ],
+      "Atacadão Duque de Caxias": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ],
+      "Prezunic Campinho": [
+       5.99,
+       "Água sanitária Ypê 1 L",
+       5.99
+      ],
+      "Prezunic Caxias Centenário": [
+       5.99,
+       "Água sanitária Ypê 1 L",
+       5.99
+      ]
+     }
+    },
+    {
+     "grupo": "sabao-po",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       15.98,
+       "Sabão em pó Brilhante 1,6 kg",
+       15.98
+      ],
+      "Atacadão Guadalupe": [
+       25.98,
+       "Sabão em pó Omo 1,6 kg",
+       25.98
+      ],
+      "Atacadão Automóvel Clube": [
+       15.98,
+       "Sabão em pó Brilhante 1,6 kg",
+       15.98
+      ],
+      "Prezunic Campinho": [
+       18.99,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       18.99
+      ],
+      "Prezunic Ilha do Governador": [
+       18.99,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       18.99
+      ],
+      "Prezunic Caxias Centenário": [
+       18.99,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       18.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ]
+     }
+    },
+    {
+     "grupo": "amaciante",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Guadalupe": [
+       7.98,
+       "Amaciante de roupas Ypê 2 L",
+       7.98
+      ],
+      "Atacadão Automóvel Clube": [
+       7.98,
+       "Amaciante de roupas Ypê 2 L",
+       7.98
+      ],
+      "Atacadão Duque de Caxias": [
+       7.98,
+       "Amaciante de roupas Ypê 2 L",
+       7.98
+      ],
+      "Prezunic Campinho": [
+       11.99,
+       "Amaciante de roupas Ypê 2 L",
+       11.99
+      ],
+      "Prezunic Ilha do Governador": [
+       11.99,
+       "Amaciante de roupas Ypê 2 L",
+       11.99
+      ],
+      "Prezunic Caxias Centenário": [
+       11.99,
+       "Amaciante de roupas Ypê 2 L",
+       11.99
+      ]
+     }
+    },
+    {
+     "grupo": "desinfetante",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       8.29,
+       "Desinfetante Ypê 1 L",
+       8.29
+      ],
+      "Atacadão Guadalupe": [
+       8.29,
+       "Desinfetante Ypê 1 L",
+       8.29
+      ],
+      "Atacadão Automóvel Clube": [
+       8.29,
+       "Desinfetante Ypê 1 L",
+       8.29
+      ],
+      "Atacadão Duque de Caxias": [
+       17.9,
+       "Desinfetante Lysoform 1 L",
+       17.9
+      ],
+      "Prezunic Campinho": [
+       18.99,
+       "Desinfetante Lysoform 1 L",
+       18.99
+      ],
+      "Prezunic Ilha do Governador": [
+       19.99,
+       "Desinfetante Lysoform 1 L",
+       19.99
+      ],
+      "Prezunic Caxias Centenário": [
+       18.99,
+       "Desinfetante Lysoform 1 L",
+       18.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ]
+     }
+    },
+    {
+     "grupo": "papel-higienico",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       20.97,
+       "Papel higiênico folha dupla Neve 12 un",
+       20.97
+      ],
+      "Atacadão Guadalupe": [
+       20.97,
+       "Papel higiênico folha dupla Neve 12 un",
+       20.97
+      ],
+      "Atacadão Duque de Caxias": [
+       20.97,
+       "Papel higiênico folha dupla Neve 12 un",
+       20.97
+      ],
+      "Hortifruti Ilha do Governador": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ]
+     }
+    },
+    {
+     "grupo": "sabonete-barra",
+     "qtd": 6,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       6.25,
+       "Sabonete em barra Dove 90 g",
+       6.25
+      ],
+      "Atacadão Guadalupe": [
+       6.25,
+       "Sabonete em barra Dove 90 g",
+       6.25
+      ],
+      "Atacadão Duque de Caxias": [
+       6.25,
+       "Sabonete em barra Dove 90 g",
+       6.25
+      ],
+      "Prezunic Campinho": [
+       6.59,
+       "Sabonete em barra Dove 90 g",
+       6.59
+      ],
+      "Prezunic Ilha do Governador": [
+       6.59,
+       "Sabonete em barra Dove 90 g",
+       6.59
+      ],
+      "Prezunic Caxias Centenário": [
+       6.59,
+       "Sabonete em barra Dove 90 g",
+       6.59
+      ]
+     }
+    },
+    {
+     "grupo": "creme-dental",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Belford Roxo": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ],
+      "Atacadão Guadalupe": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ],
+      "Atacadão Automóvel Clube": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ],
+      "Atacadão Duque de Caxias": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ],
+      "Prezunic Campinho": [
+       8.79,
+       "Creme dental Sorriso 90 g",
+       8.79
+      ],
+      "Prezunic Ilha do Governador": [
+       8.79,
+       "Creme dental Sorriso 90 g",
+       8.79
+      ],
+      "Prezunic Caxias Centenário": [
+       8.79,
+       "Creme dental Sorriso 90 g",
+       8.79
+      ]
+     }
+    },
+    {
+     "grupo": "shampoo",
+     "qtd": 1,
+     "precos": {}
+    },
+    {
+     "grupo": "esponja",
+     "qtd": 2,
+     "precos": {}
+    },
+    {
+     "grupo": "ovos-brancos",
+     "qtd": 2,
+     "precos": {
+      "Prezunic Campinho": [
+       10.99,
+       "Ovos brancos Mantiqueira 12 un",
+       11.99
+      ],
+      "Prezunic Ilha do Governador": [
+       10.99,
+       "Ovos brancos Mantiqueira 12 un",
+       11.99
+      ],
+      "Prezunic Caxias Centenário": [
+       10.99,
+       "Ovos brancos Mantiqueira 12 un",
+       11.99
+      ]
+     }
+    }
+   ]
   },
-  {
-   "loja": "Atacadão - BANGU",
-   "itens": 18,
-   "total": 314.31
+  "Centro do Rio": {
+   "itens_na_cesta": 31,
+   "itens_comparaveis": 27,
+   "lojas": [
+    {
+     "loja": "Prezunic Ilha do Governador",
+     "itens": 22,
+     "total": 655.66
+    },
+    {
+     "loja": "Atacadão Benfica",
+     "itens": 21,
+     "total": 483.35
+    },
+    {
+     "loja": "Prezunic Fonseca",
+     "itens": 21,
+     "total": 636.14
+    },
+    {
+     "loja": "Atacadão Autosserviço Manilha",
+     "itens": 20,
+     "total": 418.85
+    },
+    {
+     "loja": "Prezunic Botafogo",
+     "itens": 20,
+     "total": 582.1
+    },
+    {
+     "loja": "Hortifruti Adalberto Ferreira",
+     "itens": 20,
+     "total": 637.91
+    },
+    {
+     "loja": "Hortifruti Prado Júnior",
+     "itens": 20,
+     "total": 637.91
+    },
+    {
+     "loja": "Hortifruti Tijuca",
+     "itens": 19,
+     "total": 605.95
+    },
+    {
+     "loja": "Hortifruti Marquês de Abrantes",
+     "itens": 19,
+     "total": 605.95
+    },
+    {
+     "loja": "Hortifruti Ilha do Governador",
+     "itens": 19,
+     "total": 605.95
+    },
+    {
+     "loja": "Hortifruti Uruguai",
+     "itens": 19,
+     "total": 621.93
+    },
+    {
+     "loja": "Hortifruti Leblon",
+     "itens": 18,
+     "total": 571.97
+    },
+    {
+     "loja": "Hortifruti Botafogo",
+     "itens": 18,
+     "total": 571.97
+    },
+    {
+     "loja": "Hortifruti Icaraí",
+     "itens": 17,
+     "total": 540.01
+    },
+    {
+     "loja": "Hortifruti Visconde de Pirajá",
+     "itens": 16,
+     "total": 505.03
+    },
+    {
+     "loja": "Hortifruti Santa Rosa",
+     "itens": 16,
+     "total": 525.5
+    }
+   ],
+   "comuns": {
+    "itens": 27,
+    "tudo_numa_loja": {},
+    "melhor_de_cada_item": 640.23,
+    "melhor_dupla": null
+   },
+   "linhas": [
+    {
+     "grupo": "arroz-branco",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Benfica": [
+       28.4,
+       "Arroz branco tipo 1 Tio João 5 kg",
+       28.4
+      ],
+      "Atacadão Autosserviço Manilha": [
+       28.4,
+       "Arroz branco tipo 1 Tio João 5 kg",
+       28.4
+      ],
+      "Prezunic Botafogo": [
+       31.69,
+       "Arroz branco tipo 1 Camil 5 kg",
+       31.69
+      ],
+      "Prezunic Fonseca": [
+       31.69,
+       "Arroz branco tipo 1 Camil 5 kg",
+       31.69
+      ],
+      "Prezunic Ilha do Governador": [
+       31.69,
+       "Arroz branco tipo 1 Camil 5 kg",
+       31.69
+      ]
+     }
+    },
+    {
+     "grupo": "feijao-carioca",
+     "qtd": 4,
+     "precos": {
+      "Prezunic Botafogo": [
+       11.69,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       11.69
+      ],
+      "Prezunic Fonseca": [
+       11.69,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       11.69
+      ],
+      "Prezunic Ilha do Governador": [
+       11.69,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       11.69
+      ],
+      "Hortifruti Uruguai": [
+       10.99,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       10.99,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Tijuca": [
+       10.99,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       10.99,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Prado Júnior": [
+       10.99,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       10.99,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "feijao-preto",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Benfica": [
+       7.39,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       7.39
+      ],
+      "Atacadão Autosserviço Manilha": [
+       7.39,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       7.39
+      ],
+      "Hortifruti Uruguai": [
+       10.99,
+       "Feijão preto tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       10.99,
+       "Feijão preto tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Tijuca": [
+       10.99,
+       "Feijão preto tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       10.99,
+       "Feijão preto tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Prado Júnior": [
+       10.99,
+       "Feijão preto tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       10.99,
+       "Feijão preto tipo 1 Camil 1 kg",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "acucar-refinado",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Benfica": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ],
+      "Atacadão Autosserviço Manilha": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ],
+      "Prezunic Botafogo": [
+       3.89,
+       "Açúcar refinado Caravelas 1 kg",
+       3.89
+      ],
+      "Prezunic Fonseca": [
+       3.89,
+       "Açúcar refinado Caravelas 1 kg",
+       3.89
+      ],
+      "Prezunic Ilha do Governador": [
+       3.89,
+       "Açúcar refinado Caravelas 1 kg",
+       3.89
+      ],
+      "Hortifruti Uruguai": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti Leblon": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti Tijuca": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti Visconde de Pirajá": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti Botafogo": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti Prado Júnior": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti Icaraí": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti Santa Rosa": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ]
+     }
+    },
+    {
+     "grupo": "cafe-po",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Benfica": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ],
+      "Atacadão Autosserviço Manilha": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ],
+      "Prezunic Botafogo": [
+       29.98,
+       "Café torrado e moído Melitta 500 g",
+       29.98
+      ],
+      "Prezunic Fonseca": [
+       32.98,
+       "Café torrado e moído Pilão 500 g",
+       32.98
+      ],
+      "Prezunic Ilha do Governador": [
+       29.98,
+       "Café torrado e moído Melitta 500 g",
+       29.98
+      ],
+      "Hortifruti Uruguai": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti Leblon": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti Tijuca": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti Visconde de Pirajá": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti Botafogo": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti Prado Júnior": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti Icaraí": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti Santa Rosa": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ]
+     }
+    },
+    {
+     "grupo": "oleo-soja",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Benfica": [
+       6.88,
+       "Óleo de soja Soya 900 ml",
+       6.88
+      ],
+      "Atacadão Autosserviço Manilha": [
+       6.89,
+       "Óleo de soja Soya 900 ml",
+       6.89
+      ],
+      "Prezunic Botafogo": [
+       9.29,
+       "Óleo de soja Soya 900 ml",
+       9.29
+      ],
+      "Prezunic Fonseca": [
+       9.29,
+       "Óleo de soja Soya 900 ml",
+       9.29
+      ],
+      "Prezunic Ilha do Governador": [
+       9.29,
+       "Óleo de soja Soya 900 ml",
+       9.29
+      ],
+      "Hortifruti Uruguai": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti Leblon": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti Tijuca": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti Visconde de Pirajá": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti Botafogo": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti Prado Júnior": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti Icaraí": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti Santa Rosa": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti Ilha do Governador": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ]
+     }
+    },
+    {
+     "grupo": "macarrao-espaguete",
+     "qtd": 4,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       5.29,
+       "Macarrão espaguete Adria 500 g",
+       5.29
+      ],
+      "Prezunic Botafogo": [
+       7.19,
+       "Macarrão espaguete Renata 500 g",
+       7.19
+      ],
+      "Prezunic Fonseca": [
+       7.19,
+       "Macarrão espaguete Renata 500 g",
+       7.19
+      ],
+      "Prezunic Ilha do Governador": [
+       7.19,
+       "Macarrão espaguete Renata 500 g",
+       7.19
+      ],
+      "Hortifruti Uruguai": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti Leblon": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti Tijuca": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti Visconde de Pirajá": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti Botafogo": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti Prado Júnior": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti Icaraí": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti Santa Rosa": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ]
+     }
+    },
+    {
+     "grupo": "leite-integral",
+     "qtd": 12,
+     "precos": {
+      "Atacadão Benfica": [
+       5.49,
+       "Leite UHT integral Piracanjuba 1 L",
+       5.49
+      ],
+      "Prezunic Botafogo": [
+       6.79,
+       "Leite UHT integral Parmalat 1 L",
+       6.79
+      ],
+      "Prezunic Fonseca": [
+       6.79,
+       "Leite UHT integral Parmalat 1 L",
+       6.79
+      ],
+      "Prezunic Ilha do Governador": [
+       6.79,
+       "Leite UHT integral Parmalat 1 L",
+       6.79
+      ],
+      "Hortifruti Uruguai": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti Leblon": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti Tijuca": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti Visconde de Pirajá": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti Botafogo": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti Prado Júnior": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti Icaraí": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti Santa Rosa": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti Ilha do Governador": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ]
+     }
+    },
+    {
+     "grupo": "farinha-trigo",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Benfica": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ],
+      "Atacadão Autosserviço Manilha": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ],
+      "Prezunic Botafogo": [
+       6.59,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.59
+      ],
+      "Prezunic Fonseca": [
+       6.59,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.59
+      ],
+      "Prezunic Ilha do Governador": [
+       6.59,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.59
+      ],
+      "Hortifruti Leblon": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ],
+      "Hortifruti Tijuca": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ],
+      "Hortifruti Visconde de Pirajá": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ],
+      "Hortifruti Botafogo": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ],
+      "Hortifruti Prado Júnior": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ],
+      "Hortifruti Icaraí": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ],
+      "Hortifruti Santa Rosa": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ]
+     }
+    },
+    {
+     "grupo": "sal",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Benfica": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ],
+      "Atacadão Autosserviço Manilha": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ],
+      "Prezunic Botafogo": [
+       4.79,
+       "Sal refinado Lebre 1 kg",
+       4.79
+      ],
+      "Prezunic Fonseca": [
+       4.79,
+       "Sal refinado Lebre 1 kg",
+       4.79
+      ],
+      "Prezunic Ilha do Governador": [
+       4.79,
+       "Sal refinado Lebre 1 kg",
+       4.79
+      ],
+      "Hortifruti Uruguai": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ],
+      "Hortifruti Leblon": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ],
+      "Hortifruti Tijuca": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ],
+      "Hortifruti Visconde de Pirajá": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ],
+      "Hortifruti Botafogo": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ],
+      "Hortifruti Prado Júnior": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ],
+      "Hortifruti Icaraí": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ],
+      "Hortifruti Ilha do Governador": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ]
+     }
+    },
+    {
+     "grupo": "molho-tomate",
+     "qtd": 4,
+     "precos": {
+      "Atacadão Benfica": [
+       2.39,
+       "Molho de tomate Fugini 300 g",
+       2.39
+      ],
+      "Atacadão Autosserviço Manilha": [
+       5.29,
+       "Molho de tomate Pomarola 300 g",
+       5.29
+      ],
+      "Prezunic Botafogo": [
+       2.59,
+       "Molho de tomate Fugini 300 g",
+       2.59
+      ],
+      "Prezunic Fonseca": [
+       2.59,
+       "Molho de tomate Fugini 300 g",
+       2.59
+      ],
+      "Prezunic Ilha do Governador": [
+       2.59,
+       "Molho de tomate Fugini 300 g",
+       2.59
+      ],
+      "Hortifruti Uruguai": [
+       7.99,
+       "Molho de tomate Pomarola 300 g",
+       7.99
+      ],
+      "Hortifruti Leblon": [
+       7.99,
+       "Molho de tomate Pomarola 300 g",
+       7.99
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       7.99,
+       "Molho de tomate Pomarola 300 g",
+       7.99
+      ],
+      "Hortifruti Botafogo": [
+       7.99,
+       "Molho de tomate Pomarola 300 g",
+       7.99
+      ],
+      "Hortifruti Prado Júnior": [
+       7.99,
+       "Molho de tomate Pomarola 300 g",
+       7.99
+      ],
+      "Hortifruti Santa Rosa": [
+       7.99,
+       "Molho de tomate Pomarola 300 g",
+       7.99
+      ]
+     }
+    },
+    {
+     "grupo": "extrato-tomate",
+     "qtd": 2,
+     "precos": {}
+    },
+    {
+     "grupo": "margarina",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Benfica": [
+       7.98,
+       "Margarina com sal Doriana 500 g",
+       7.98
+      ],
+      "Atacadão Autosserviço Manilha": [
+       7.98,
+       "Margarina com sal Doriana 500 g",
+       7.98
+      ],
+      "Prezunic Botafogo": [
+       8.99,
+       "Margarina com sal Doriana 500 g",
+       8.99
+      ],
+      "Prezunic Fonseca": [
+       8.99,
+       "Margarina com sal Doriana 500 g",
+       8.99
+      ],
+      "Prezunic Ilha do Governador": [
+       8.99,
+       "Margarina com sal Doriana 500 g",
+       8.99
+      ],
+      "Hortifruti Uruguai": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti Leblon": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti Tijuca": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti Visconde de Pirajá": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti Botafogo": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti Prado Júnior": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti Icaraí": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti Santa Rosa": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "biscoito-cream-cracker",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Benfica": [
+       4.99,
+       "Biscoito cream cracker Vitarella 350 g",
+       4.99
+      ],
+      "Atacadão Autosserviço Manilha": [
+       4.99,
+       "Biscoito cream cracker Vitarella 350 g",
+       4.99
+      ],
+      "Prezunic Botafogo": [
+       7.49,
+       "Biscoito cream cracker Vitarella 350 g",
+       7.49
+      ],
+      "Prezunic Fonseca": [
+       7.49,
+       "Biscoito cream cracker Vitarella 350 g",
+       7.49
+      ],
+      "Prezunic Ilha do Governador": [
+       7.49,
+       "Biscoito cream cracker Vitarella 350 g",
+       7.49
+      ]
+     }
+    },
+    {
+     "grupo": "achocolatado",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Benfica": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ],
+      "Atacadão Autosserviço Manilha": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ],
+      "Prezunic Botafogo": [
+       19.29,
+       "Achocolatado em pó Nescau 350 g",
+       19.29
+      ],
+      "Prezunic Fonseca": [
+       19.29,
+       "Achocolatado em pó Nescau 350 g",
+       19.29
+      ],
+      "Prezunic Ilha do Governador": [
+       19.29,
+       "Achocolatado em pó Nescau 350 g",
+       19.29
+      ],
+      "Hortifruti Uruguai": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti Leblon": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti Tijuca": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti Visconde de Pirajá": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti Botafogo": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti Prado Júnior": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti Icaraí": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti Santa Rosa": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ]
+     }
+    },
+    {
+     "grupo": "leite-condensado",
+     "qtd": 2,
+     "precos": {
+      "Prezunic Ilha do Governador": [
+       9.79,
+       "Leite condensado Italac 395 g",
+       9.79
+      ],
+      "Hortifruti Uruguai": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti Leblon": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti Tijuca": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti Visconde de Pirajá": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti Botafogo": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti Prado Júnior": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti Icaraí": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti Santa Rosa": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "creme-de-leite",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Benfica": [
+       2.99,
+       "Creme de leite Piracanjuba 200 g",
+       2.99
+      ],
+      "Atacadão Autosserviço Manilha": [
+       2.89,
+       "Creme de leite Italac 200 g",
+       2.89
+      ],
+      "Prezunic Botafogo": [
+       6.66,
+       "Creme de leite Nestlé 200 g",
+       6.66
+      ],
+      "Prezunic Fonseca": [
+       3.19,
+       "Creme de leite Italac 200 g",
+       3.19
+      ],
+      "Prezunic Ilha do Governador": [
+       6.66,
+       "Creme de leite Nestlé 200 g",
+       6.66
+      ],
+      "Hortifruti Uruguai": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti Leblon": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti Tijuca": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti Visconde de Pirajá": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti Botafogo": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti Prado Júnior": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti Icaraí": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti Santa Rosa": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti Ilha do Governador": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ]
+     }
+    },
+    {
+     "grupo": "atum",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       8.99,
+       "Atum ralado Gomes da Costa 170 g",
+       8.99
+      ],
+      "Prezunic Fonseca": [
+       12.99,
+       "Atum ralado Coqueiro 170 g",
+       12.99
+      ],
+      "Prezunic Ilha do Governador": [
+       12.99,
+       "Atum ralado Coqueiro 170 g",
+       12.99
+      ],
+      "Hortifruti Uruguai": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti Leblon": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti Tijuca": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti Visconde de Pirajá": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti Botafogo": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti Prado Júnior": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti Icaraí": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti Santa Rosa": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ]
+     }
+    },
+    {
+     "grupo": "sardinha",
+     "qtd": 2,
+     "precos": {
+      "Hortifruti Uruguai": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti Leblon": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti Tijuca": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti Botafogo": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti Prado Júnior": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti Icaraí": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti Santa Rosa": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti Ilha do Governador": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ]
+     }
+    },
+    {
+     "grupo": "detergente",
+     "qtd": 5,
+     "precos": {
+      "Atacadão Benfica": [
+       2.25,
+       "Detergente líquido Minuano 500 ml",
+       2.25
+      ],
+      "Hortifruti Uruguai": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti Leblon": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti Tijuca": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti Visconde de Pirajá": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti Botafogo": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti Prado Júnior": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti Icaraí": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti Santa Rosa": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti Ilha do Governador": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ]
+     }
+    },
+    {
+     "grupo": "agua-sanitaria",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Benfica": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ],
+      "Atacadão Autosserviço Manilha": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ],
+      "Prezunic Botafogo": [
+       5.99,
+       "Água sanitária Ypê 1 L",
+       5.99
+      ]
+     }
+    },
+    {
+     "grupo": "sabao-po",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Benfica": [
+       15.98,
+       "Sabão em pó Brilhante 1,6 kg",
+       15.98
+      ],
+      "Atacadão Autosserviço Manilha": [
+       19.98,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       19.98
+      ],
+      "Prezunic Botafogo": [
+       18.99,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       18.99
+      ],
+      "Prezunic Fonseca": [
+       18.99,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       18.99
+      ],
+      "Prezunic Ilha do Governador": [
+       18.99,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       18.99
+      ],
+      "Hortifruti Uruguai": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti Leblon": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti Tijuca": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti Visconde de Pirajá": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti Botafogo": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti Prado Júnior": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti Icaraí": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti Santa Rosa": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ]
+     }
+    },
+    {
+     "grupo": "amaciante",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Benfica": [
+       7.98,
+       "Amaciante de roupas Ypê 2 L",
+       7.98
+      ],
+      "Atacadão Autosserviço Manilha": [
+       7.98,
+       "Amaciante de roupas Ypê 2 L",
+       7.98
+      ],
+      "Prezunic Botafogo": [
+       11.99,
+       "Amaciante de roupas Ypê 2 L",
+       11.99
+      ],
+      "Prezunic Fonseca": [
+       11.99,
+       "Amaciante de roupas Ypê 2 L",
+       11.99
+      ],
+      "Prezunic Ilha do Governador": [
+       11.99,
+       "Amaciante de roupas Ypê 2 L",
+       11.99
+      ]
+     }
+    },
+    {
+     "grupo": "desinfetante",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Benfica": [
+       8.29,
+       "Desinfetante Ypê 1 L",
+       8.29
+      ],
+      "Atacadão Autosserviço Manilha": [
+       8.29,
+       "Desinfetante Ypê 1 L",
+       8.29
+      ],
+      "Prezunic Fonseca": [
+       18.99,
+       "Desinfetante Lysoform 1 L",
+       18.99
+      ],
+      "Prezunic Ilha do Governador": [
+       19.99,
+       "Desinfetante Lysoform 1 L",
+       19.99
+      ],
+      "Hortifruti Uruguai": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Leblon": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Tijuca": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Visconde de Pirajá": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Botafogo": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Prado Júnior": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Icaraí": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Santa Rosa": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ]
+     }
+    },
+    {
+     "grupo": "papel-higienico",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Benfica": [
+       20.97,
+       "Papel higiênico folha dupla Neve 12 un",
+       20.97
+      ],
+      "Hortifruti Uruguai": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ],
+      "Hortifruti Leblon": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ],
+      "Hortifruti Adalberto Ferreira": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ],
+      "Hortifruti Tijuca": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ],
+      "Hortifruti Visconde de Pirajá": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ],
+      "Hortifruti Botafogo": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ],
+      "Hortifruti Marquês de Abrantes": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ],
+      "Hortifruti Prado Júnior": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ],
+      "Hortifruti Icaraí": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ],
+      "Hortifruti Ilha do Governador": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ]
+     }
+    },
+    {
+     "grupo": "sabonete-barra",
+     "qtd": 6,
+     "precos": {
+      "Atacadão Benfica": [
+       6.25,
+       "Sabonete em barra Dove 90 g",
+       6.25
+      ],
+      "Atacadão Autosserviço Manilha": [
+       6.25,
+       "Sabonete em barra Dove 90 g",
+       6.25
+      ],
+      "Prezunic Botafogo": [
+       6.59,
+       "Sabonete em barra Dove 90 g",
+       6.59
+      ],
+      "Prezunic Fonseca": [
+       6.59,
+       "Sabonete em barra Dove 90 g",
+       6.59
+      ],
+      "Prezunic Ilha do Governador": [
+       6.59,
+       "Sabonete em barra Dove 90 g",
+       6.59
+      ]
+     }
+    },
+    {
+     "grupo": "creme-dental",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Benfica": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ],
+      "Atacadão Autosserviço Manilha": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ],
+      "Prezunic Botafogo": [
+       8.79,
+       "Creme dental Sorriso 90 g",
+       8.79
+      ],
+      "Prezunic Fonseca": [
+       8.79,
+       "Creme dental Sorriso 90 g",
+       8.79
+      ],
+      "Prezunic Ilha do Governador": [
+       8.79,
+       "Creme dental Sorriso 90 g",
+       8.79
+      ]
+     }
+    },
+    {
+     "grupo": "shampoo",
+     "qtd": 1,
+     "precos": {}
+    },
+    {
+     "grupo": "esponja",
+     "qtd": 2,
+     "precos": {}
+    },
+    {
+     "grupo": "ovos-brancos",
+     "qtd": 2,
+     "precos": {
+      "Prezunic Botafogo": [
+       10.99,
+       "Ovos brancos Mantiqueira 12 un",
+       11.99
+      ],
+      "Prezunic Fonseca": [
+       10.99,
+       "Ovos brancos Mantiqueira 12 un",
+       10.99
+      ],
+      "Prezunic Ilha do Governador": [
+       10.99,
+       "Ovos brancos Mantiqueira 12 un",
+       11.99
+      ]
+     }
+    }
+   ]
   },
-  {
-   "loja": "Atacadão Realengo",
-   "itens": 17,
-   "total": 294.01
+  "Madureira": {
+   "itens_na_cesta": 31,
+   "itens_comparaveis": 27,
+   "lojas": [
+    {
+     "loja": "Atacadão Realengo",
+     "itens": 23,
+     "total": 517.83
+    },
+    {
+     "loja": "Atacadão Automóvel Clube",
+     "itens": 22,
+     "total": 454.46
+    },
+    {
+     "loja": "Prezunic Campinho",
+     "itens": 22,
+     "total": 664.28
+    },
+    {
+     "loja": "Atacadão Guadalupe",
+     "itens": 21,
+     "total": 459.1
+    },
+    {
+     "loja": "Atacadão Benfica",
+     "itens": 21,
+     "total": 483.35
+    },
+    {
+     "loja": "Prezunic Cidade de Deus",
+     "itens": 21,
+     "total": 632.48
+    },
+    {
+     "loja": "Prezunic Caxias Centenário",
+     "itens": 21,
+     "total": 641.88
+    },
+    {
+     "loja": "Atacadão Jacarepagua",
+     "itens": 20,
+     "total": 438.64
+    },
+    {
+     "loja": "Hortifruti Freguesia",
+     "itens": 20,
+     "total": 637.91
+    },
+    {
+     "loja": "Hortifruti Uruguai",
+     "itens": 19,
+     "total": 621.93
+    }
+   ],
+   "comuns": {
+    "itens": 27,
+    "tudo_numa_loja": {},
+    "melhor_de_cada_item": 611.23,
+    "melhor_dupla": null
+   },
+   "linhas": [
+    {
+     "grupo": "arroz-branco",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       28.4,
+       "Arroz branco tipo 1 Tio João 5 kg",
+       28.4
+      ],
+      "Atacadão Realengo": [
+       28.4,
+       "Arroz branco tipo 1 Tio João 5 kg",
+       28.4
+      ],
+      "Atacadão Guadalupe": [
+       29.4,
+       "Arroz branco tipo 1 Prato Fino 5 kg",
+       29.4
+      ],
+      "Atacadão Automóvel Clube": [
+       28.4,
+       "Arroz branco tipo 1 Tio João 5 kg",
+       28.4
+      ],
+      "Atacadão Benfica": [
+       28.4,
+       "Arroz branco tipo 1 Tio João 5 kg",
+       28.4
+      ],
+      "Prezunic Cidade de Deus": [
+       31.69,
+       "Arroz branco tipo 1 Camil 5 kg",
+       31.69
+      ],
+      "Prezunic Campinho": [
+       31.69,
+       "Arroz branco tipo 1 Camil 5 kg",
+       31.69
+      ],
+      "Prezunic Caxias Centenário": [
+       31.69,
+       "Arroz branco tipo 1 Camil 5 kg",
+       31.69
+      ]
+     }
+    },
+    {
+     "grupo": "feijao-carioca",
+     "qtd": 4,
+     "precos": {
+      "Prezunic Cidade de Deus": [
+       11.69,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       11.69
+      ],
+      "Prezunic Campinho": [
+       11.69,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       11.69
+      ],
+      "Prezunic Caxias Centenário": [
+       11.69,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       11.69
+      ],
+      "Hortifruti Freguesia": [
+       10.99,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Uruguai": [
+       10.99,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "feijao-preto",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       7.39,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       7.39
+      ],
+      "Atacadão Realengo": [
+       7.39,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       7.39
+      ],
+      "Atacadão Guadalupe": [
+       7.39,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       7.39
+      ],
+      "Atacadão Automóvel Clube": [
+       7.39,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       7.39
+      ],
+      "Atacadão Benfica": [
+       7.39,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       7.39
+      ],
+      "Hortifruti Freguesia": [
+       10.99,
+       "Feijão preto tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Uruguai": [
+       10.99,
+       "Feijão preto tipo 1 Camil 1 kg",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "acucar-refinado",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ],
+      "Atacadão Realengo": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ],
+      "Atacadão Guadalupe": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ],
+      "Atacadão Automóvel Clube": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ],
+      "Atacadão Benfica": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ],
+      "Prezunic Cidade de Deus": [
+       3.89,
+       "Açúcar refinado Caravelas 1 kg",
+       3.89
+      ],
+      "Prezunic Campinho": [
+       3.89,
+       "Açúcar refinado Caravelas 1 kg",
+       3.89
+      ],
+      "Prezunic Caxias Centenário": [
+       3.89,
+       "Açúcar refinado Caravelas 1 kg",
+       3.89
+      ],
+      "Hortifruti Freguesia": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti Uruguai": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ]
+     }
+    },
+    {
+     "grupo": "cafe-po",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ],
+      "Atacadão Realengo": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ],
+      "Atacadão Guadalupe": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ],
+      "Atacadão Automóvel Clube": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ],
+      "Atacadão Benfica": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ],
+      "Prezunic Cidade de Deus": [
+       32.98,
+       "Café torrado e moído Pilão 500 g",
+       32.98
+      ],
+      "Prezunic Campinho": [
+       32.98,
+       "Café torrado e moído Pilão 500 g",
+       32.98
+      ],
+      "Prezunic Caxias Centenário": [
+       32.98,
+       "Café torrado e moído Pilão 500 g",
+       32.98
+      ],
+      "Hortifruti Freguesia": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti Uruguai": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ]
+     }
+    },
+    {
+     "grupo": "oleo-soja",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       6.88,
+       "Óleo de soja Soya 900 ml",
+       6.88
+      ],
+      "Atacadão Automóvel Clube": [
+       6.89,
+       "Óleo de soja Soya 900 ml",
+       6.89
+      ],
+      "Atacadão Benfica": [
+       6.88,
+       "Óleo de soja Soya 900 ml",
+       6.88
+      ],
+      "Prezunic Cidade de Deus": [
+       9.29,
+       "Óleo de soja Soya 900 ml",
+       9.29
+      ],
+      "Prezunic Campinho": [
+       9.29,
+       "Óleo de soja Soya 900 ml",
+       9.29
+      ],
+      "Prezunic Caxias Centenário": [
+       9.29,
+       "Óleo de soja Soya 900 ml",
+       9.29
+      ],
+      "Hortifruti Freguesia": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti Uruguai": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ]
+     }
+    },
+    {
+     "grupo": "macarrao-espaguete",
+     "qtd": 4,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       5.49,
+       "Macarrão espaguete Barilla 500 g",
+       5.49
+      ],
+      "Atacadão Realengo": [
+       5.29,
+       "Macarrão espaguete Adria 500 g",
+       5.29
+      ],
+      "Atacadão Guadalupe": [
+       5.29,
+       "Macarrão espaguete Adria 500 g",
+       5.29
+      ],
+      "Atacadão Automóvel Clube": [
+       5.29,
+       "Macarrão espaguete Adria 500 g",
+       5.29
+      ],
+      "Prezunic Cidade de Deus": [
+       7.19,
+       "Macarrão espaguete Renata 500 g",
+       7.19
+      ],
+      "Prezunic Campinho": [
+       7.19,
+       "Macarrão espaguete Renata 500 g",
+       7.19
+      ],
+      "Prezunic Caxias Centenário": [
+       7.19,
+       "Macarrão espaguete Renata 500 g",
+       7.19
+      ],
+      "Hortifruti Freguesia": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti Uruguai": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ]
+     }
+    },
+    {
+     "grupo": "leite-integral",
+     "qtd": 12,
+     "precos": {
+      "Atacadão Realengo": [
+       5.49,
+       "Leite UHT integral Piracanjuba 1 L",
+       5.49
+      ],
+      "Atacadão Automóvel Clube": [
+       5.49,
+       "Leite UHT integral Piracanjuba 1 L",
+       5.49
+      ],
+      "Atacadão Benfica": [
+       5.49,
+       "Leite UHT integral Piracanjuba 1 L",
+       5.49
+      ],
+      "Prezunic Cidade de Deus": [
+       6.79,
+       "Leite UHT integral Parmalat 1 L",
+       6.79
+      ],
+      "Prezunic Campinho": [
+       6.79,
+       "Leite UHT integral Parmalat 1 L",
+       6.79
+      ],
+      "Prezunic Caxias Centenário": [
+       6.79,
+       "Leite UHT integral Parmalat 1 L",
+       6.79
+      ],
+      "Hortifruti Freguesia": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti Uruguai": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ]
+     }
+    },
+    {
+     "grupo": "farinha-trigo",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ],
+      "Atacadão Realengo": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ],
+      "Atacadão Guadalupe": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ],
+      "Atacadão Automóvel Clube": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ],
+      "Atacadão Benfica": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ],
+      "Prezunic Cidade de Deus": [
+       6.59,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.59
+      ],
+      "Prezunic Campinho": [
+       6.59,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.59
+      ],
+      "Hortifruti Freguesia": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ]
+     }
+    },
+    {
+     "grupo": "sal",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ],
+      "Atacadão Realengo": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ],
+      "Atacadão Guadalupe": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ],
+      "Atacadão Automóvel Clube": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ],
+      "Atacadão Benfica": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ],
+      "Prezunic Cidade de Deus": [
+       4.79,
+       "Sal refinado Lebre 1 kg",
+       4.79
+      ],
+      "Prezunic Campinho": [
+       4.79,
+       "Sal refinado Lebre 1 kg",
+       4.79
+      ],
+      "Prezunic Caxias Centenário": [
+       4.79,
+       "Sal refinado Lebre 1 kg",
+       4.79
+      ],
+      "Hortifruti Freguesia": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ],
+      "Hortifruti Uruguai": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ]
+     }
+    },
+    {
+     "grupo": "molho-tomate",
+     "qtd": 4,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       5.29,
+       "Molho de tomate Pomarola 300 g",
+       5.29
+      ],
+      "Atacadão Realengo": [
+       2.49,
+       "Molho de tomate Fugini 300 g",
+       2.49
+      ],
+      "Atacadão Guadalupe": [
+       5.29,
+       "Molho de tomate Pomarola 300 g",
+       5.29
+      ],
+      "Atacadão Automóvel Clube": [
+       2.49,
+       "Molho de tomate Fugini 300 g",
+       2.49
+      ],
+      "Atacadão Benfica": [
+       2.39,
+       "Molho de tomate Fugini 300 g",
+       2.39
+      ],
+      "Prezunic Cidade de Deus": [
+       2.59,
+       "Molho de tomate Fugini 300 g",
+       2.59
+      ],
+      "Prezunic Caxias Centenário": [
+       2.59,
+       "Molho de tomate Fugini 300 g",
+       2.59
+      ],
+      "Hortifruti Freguesia": [
+       7.99,
+       "Molho de tomate Pomarola 300 g",
+       7.99
+      ],
+      "Hortifruti Uruguai": [
+       7.99,
+       "Molho de tomate Pomarola 300 g",
+       7.99
+      ]
+     }
+    },
+    {
+     "grupo": "extrato-tomate",
+     "qtd": 2,
+     "precos": {}
+    },
+    {
+     "grupo": "margarina",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       9.99,
+       "Margarina com sal Qualy 500 g",
+       9.99
+      ],
+      "Atacadão Realengo": [
+       7.98,
+       "Margarina com sal Doriana 500 g",
+       7.98
+      ],
+      "Atacadão Guadalupe": [
+       7.98,
+       "Margarina com sal Doriana 500 g",
+       7.98
+      ],
+      "Atacadão Automóvel Clube": [
+       7.98,
+       "Margarina com sal Doriana 500 g",
+       7.98
+      ],
+      "Atacadão Benfica": [
+       7.98,
+       "Margarina com sal Doriana 500 g",
+       7.98
+      ],
+      "Prezunic Cidade de Deus": [
+       8.99,
+       "Margarina com sal Doriana 500 g",
+       8.99
+      ],
+      "Prezunic Campinho": [
+       8.99,
+       "Margarina com sal Doriana 500 g",
+       8.99
+      ],
+      "Prezunic Caxias Centenário": [
+       8.99,
+       "Margarina com sal Doriana 500 g",
+       8.99
+      ],
+      "Hortifruti Freguesia": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti Uruguai": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "biscoito-cream-cracker",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       4.99,
+       "Biscoito cream cracker Vitarella 350 g",
+       4.99
+      ],
+      "Atacadão Realengo": [
+       4.99,
+       "Biscoito cream cracker Vitarella 350 g",
+       4.99
+      ],
+      "Atacadão Guadalupe": [
+       4.99,
+       "Biscoito cream cracker Vitarella 350 g",
+       4.99
+      ],
+      "Atacadão Automóvel Clube": [
+       4.99,
+       "Biscoito cream cracker Vitarella 350 g",
+       4.99
+      ],
+      "Atacadão Benfica": [
+       4.99,
+       "Biscoito cream cracker Vitarella 350 g",
+       4.99
+      ],
+      "Prezunic Cidade de Deus": [
+       7.49,
+       "Biscoito cream cracker Vitarella 350 g",
+       7.49
+      ],
+      "Prezunic Campinho": [
+       7.49,
+       "Biscoito cream cracker Vitarella 350 g",
+       7.49
+      ],
+      "Prezunic Caxias Centenário": [
+       7.49,
+       "Biscoito cream cracker Vitarella 350 g",
+       7.49
+      ]
+     }
+    },
+    {
+     "grupo": "achocolatado",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ],
+      "Atacadão Realengo": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ],
+      "Atacadão Guadalupe": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ],
+      "Atacadão Automóvel Clube": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ],
+      "Atacadão Benfica": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ],
+      "Prezunic Cidade de Deus": [
+       19.29,
+       "Achocolatado em pó Nescau 350 g",
+       19.29
+      ],
+      "Prezunic Campinho": [
+       19.29,
+       "Achocolatado em pó Nescau 350 g",
+       19.29
+      ],
+      "Prezunic Caxias Centenário": [
+       19.29,
+       "Achocolatado em pó Nescau 350 g",
+       19.29
+      ],
+      "Hortifruti Freguesia": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti Uruguai": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ]
+     }
+    },
+    {
+     "grupo": "leite-condensado",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Realengo": [
+       7.29,
+       "Leite condensado Italac 395 g",
+       7.29
+      ],
+      "Prezunic Campinho": [
+       9.79,
+       "Leite condensado Italac 395 g",
+       9.79
+      ],
+      "Hortifruti Freguesia": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti Uruguai": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "creme-de-leite",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       3.89,
+       "Creme de leite Nestlé 200 g",
+       3.89
+      ],
+      "Atacadão Realengo": [
+       2.89,
+       "Creme de leite Italac 200 g",
+       2.89
+      ],
+      "Atacadão Guadalupe": [
+       2.89,
+       "Creme de leite Italac 200 g",
+       2.89
+      ],
+      "Atacadão Automóvel Clube": [
+       2.99,
+       "Creme de leite Piracanjuba 200 g",
+       2.99
+      ],
+      "Atacadão Benfica": [
+       2.99,
+       "Creme de leite Piracanjuba 200 g",
+       2.99
+      ],
+      "Prezunic Cidade de Deus": [
+       6.66,
+       "Creme de leite Nestlé 200 g",
+       6.66
+      ],
+      "Prezunic Campinho": [
+       6.66,
+       "Creme de leite Nestlé 200 g",
+       6.66
+      ],
+      "Prezunic Caxias Centenário": [
+       6.66,
+       "Creme de leite Nestlé 200 g",
+       6.66
+      ],
+      "Hortifruti Freguesia": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti Uruguai": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ]
+     }
+    },
+    {
+     "grupo": "atum",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       8.99,
+       "Atum ralado Gomes da Costa 170 g",
+       8.99
+      ],
+      "Atacadão Realengo": [
+       8.49,
+       "Atum ralado Coqueiro 170 g",
+       8.49
+      ],
+      "Atacadão Guadalupe": [
+       8.49,
+       "Atum ralado Coqueiro 170 g",
+       8.49
+      ],
+      "Atacadão Automóvel Clube": [
+       8.49,
+       "Atum ralado Coqueiro 170 g",
+       8.49
+      ],
+      "Prezunic Cidade de Deus": [
+       12.69,
+       "Atum ralado Gomes da Costa 170 g",
+       12.69
+      ],
+      "Prezunic Campinho": [
+       12.99,
+       "Atum ralado Coqueiro 170 g",
+       12.99
+      ],
+      "Prezunic Caxias Centenário": [
+       12.99,
+       "Atum ralado Coqueiro 170 g",
+       12.99
+      ],
+      "Hortifruti Freguesia": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti Uruguai": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ]
+     }
+    },
+    {
+     "grupo": "sardinha",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Guadalupe": [
+       5.99,
+       "Sardinha em óleo Coqueiro 125 g",
+       5.99
+      ],
+      "Atacadão Automóvel Clube": [
+       5.99,
+       "Sardinha em óleo Coqueiro 125 g",
+       5.99
+      ],
+      "Hortifruti Freguesia": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti Uruguai": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ]
+     }
+    },
+    {
+     "grupo": "detergente",
+     "qtd": 5,
+     "precos": {
+      "Atacadão Realengo": [
+       2.69,
+       "Detergente líquido Limpol 500 ml",
+       2.69
+      ],
+      "Atacadão Automóvel Clube": [
+       2.25,
+       "Detergente líquido Minuano 500 ml",
+       2.25
+      ],
+      "Atacadão Benfica": [
+       2.25,
+       "Detergente líquido Minuano 500 ml",
+       2.25
+      ],
+      "Hortifruti Freguesia": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti Uruguai": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ]
+     }
+    },
+    {
+     "grupo": "agua-sanitaria",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ],
+      "Atacadão Realengo": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ],
+      "Atacadão Guadalupe": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ],
+      "Atacadão Automóvel Clube": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ],
+      "Atacadão Benfica": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ],
+      "Prezunic Cidade de Deus": [
+       5.99,
+       "Água sanitária Ypê 1 L",
+       5.99
+      ],
+      "Prezunic Campinho": [
+       5.99,
+       "Água sanitária Ypê 1 L",
+       5.99
+      ],
+      "Prezunic Caxias Centenário": [
+       5.99,
+       "Água sanitária Ypê 1 L",
+       5.99
+      ]
+     }
+    },
+    {
+     "grupo": "sabao-po",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       19.98,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       19.98
+      ],
+      "Atacadão Realengo": [
+       15.98,
+       "Sabão em pó Brilhante 1,6 kg",
+       15.98
+      ],
+      "Atacadão Guadalupe": [
+       25.98,
+       "Sabão em pó Omo 1,6 kg",
+       25.98
+      ],
+      "Atacadão Automóvel Clube": [
+       15.98,
+       "Sabão em pó Brilhante 1,6 kg",
+       15.98
+      ],
+      "Atacadão Benfica": [
+       15.98,
+       "Sabão em pó Brilhante 1,6 kg",
+       15.98
+      ],
+      "Prezunic Cidade de Deus": [
+       18.99,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       18.99
+      ],
+      "Prezunic Campinho": [
+       18.99,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       18.99
+      ],
+      "Prezunic Caxias Centenário": [
+       18.99,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       18.99
+      ],
+      "Hortifruti Freguesia": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti Uruguai": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ]
+     }
+    },
+    {
+     "grupo": "amaciante",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       7.98,
+       "Amaciante de roupas Ypê 2 L",
+       7.98
+      ],
+      "Atacadão Realengo": [
+       7.98,
+       "Amaciante de roupas Ypê 2 L",
+       7.98
+      ],
+      "Atacadão Guadalupe": [
+       7.98,
+       "Amaciante de roupas Ypê 2 L",
+       7.98
+      ],
+      "Atacadão Automóvel Clube": [
+       7.98,
+       "Amaciante de roupas Ypê 2 L",
+       7.98
+      ],
+      "Atacadão Benfica": [
+       7.98,
+       "Amaciante de roupas Ypê 2 L",
+       7.98
+      ],
+      "Prezunic Cidade de Deus": [
+       11.99,
+       "Amaciante de roupas Ypê 2 L",
+       11.99
+      ],
+      "Prezunic Campinho": [
+       11.99,
+       "Amaciante de roupas Ypê 2 L",
+       11.99
+      ],
+      "Prezunic Caxias Centenário": [
+       11.99,
+       "Amaciante de roupas Ypê 2 L",
+       11.99
+      ]
+     }
+    },
+    {
+     "grupo": "desinfetante",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       14.79,
+       "Desinfetante Pinho Sol 1 L",
+       14.79
+      ],
+      "Atacadão Realengo": [
+       8.29,
+       "Desinfetante Ypê 1 L",
+       8.29
+      ],
+      "Atacadão Guadalupe": [
+       8.29,
+       "Desinfetante Ypê 1 L",
+       8.29
+      ],
+      "Atacadão Automóvel Clube": [
+       8.29,
+       "Desinfetante Ypê 1 L",
+       8.29
+      ],
+      "Atacadão Benfica": [
+       8.29,
+       "Desinfetante Ypê 1 L",
+       8.29
+      ],
+      "Prezunic Cidade de Deus": [
+       18.99,
+       "Desinfetante Lysoform 1 L",
+       18.99
+      ],
+      "Prezunic Campinho": [
+       18.99,
+       "Desinfetante Lysoform 1 L",
+       18.99
+      ],
+      "Prezunic Caxias Centenário": [
+       18.99,
+       "Desinfetante Lysoform 1 L",
+       18.99
+      ],
+      "Hortifruti Freguesia": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Uruguai": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ]
+     }
+    },
+    {
+     "grupo": "papel-higienico",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Realengo": [
+       20.97,
+       "Papel higiênico folha dupla Neve 12 un",
+       20.97
+      ],
+      "Atacadão Guadalupe": [
+       20.97,
+       "Papel higiênico folha dupla Neve 12 un",
+       20.97
+      ],
+      "Atacadão Benfica": [
+       20.97,
+       "Papel higiênico folha dupla Neve 12 un",
+       20.97
+      ],
+      "Hortifruti Freguesia": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ],
+      "Hortifruti Uruguai": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ]
+     }
+    },
+    {
+     "grupo": "sabonete-barra",
+     "qtd": 6,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       6.25,
+       "Sabonete em barra Dove 90 g",
+       6.25
+      ],
+      "Atacadão Realengo": [
+       6.25,
+       "Sabonete em barra Dove 90 g",
+       6.25
+      ],
+      "Atacadão Guadalupe": [
+       6.25,
+       "Sabonete em barra Dove 90 g",
+       6.25
+      ],
+      "Atacadão Benfica": [
+       6.25,
+       "Sabonete em barra Dove 90 g",
+       6.25
+      ],
+      "Prezunic Cidade de Deus": [
+       6.59,
+       "Sabonete em barra Dove 90 g",
+       6.59
+      ],
+      "Prezunic Campinho": [
+       6.59,
+       "Sabonete em barra Dove 90 g",
+       6.59
+      ],
+      "Prezunic Caxias Centenário": [
+       6.59,
+       "Sabonete em barra Dove 90 g",
+       6.59
+      ]
+     }
+    },
+    {
+     "grupo": "creme-dental",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ],
+      "Atacadão Realengo": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ],
+      "Atacadão Guadalupe": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ],
+      "Atacadão Automóvel Clube": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ],
+      "Atacadão Benfica": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ],
+      "Prezunic Cidade de Deus": [
+       8.79,
+       "Creme dental Sorriso 90 g",
+       8.79
+      ],
+      "Prezunic Campinho": [
+       8.79,
+       "Creme dental Sorriso 90 g",
+       8.79
+      ],
+      "Prezunic Caxias Centenário": [
+       8.79,
+       "Creme dental Sorriso 90 g",
+       8.79
+      ]
+     }
+    },
+    {
+     "grupo": "shampoo",
+     "qtd": 1,
+     "precos": {}
+    },
+    {
+     "grupo": "esponja",
+     "qtd": 2,
+     "precos": {}
+    },
+    {
+     "grupo": "ovos-brancos",
+     "qtd": 2,
+     "precos": {
+      "Prezunic Campinho": [
+       10.99,
+       "Ovos brancos Mantiqueira 12 un",
+       11.99
+      ],
+      "Prezunic Caxias Centenário": [
+       10.99,
+       "Ovos brancos Mantiqueira 12 un",
+       11.99
+      ]
+     }
+    }
+   ]
   },
-  {
-   "loja": "Atacadão Guadalupe",
-   "itens": 17,
-   "total": 305.74
+  "Campo Grande": {
+   "itens_na_cesta": 31,
+   "itens_comparaveis": 17,
+   "lojas": [
+    {
+     "loja": "Atacadão Bangu",
+     "itens": 23,
+     "total": 523.55
+    },
+    {
+     "loja": "Prezunic Campo Grande",
+     "itens": 20,
+     "total": 598.16
+    }
+   ],
+   "comuns": {
+    "itens": 17,
+    "tudo_numa_loja": {
+     "Atacadão Bangu": 418.24,
+     "Prezunic Campo Grande": 506.95
+    },
+    "melhor_de_cada_item": 415.64,
+    "melhor_dupla": [
+     415.64,
+     "Atacadão Bangu",
+     "Prezunic Campo Grande"
+    ]
+   },
+   "linhas": [
+    {
+     "grupo": "arroz-branco",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Bangu": [
+       28.4,
+       "Arroz branco tipo 1 Tio João 5 kg",
+       28.4
+      ],
+      "Prezunic Campo Grande": [
+       31.69,
+       "Arroz branco tipo 1 Camil 5 kg",
+       31.69
+      ]
+     }
+    },
+    {
+     "grupo": "feijao-carioca",
+     "qtd": 4,
+     "precos": {
+      "Prezunic Campo Grande": [
+       11.69,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       11.69
+      ]
+     }
+    },
+    {
+     "grupo": "feijao-preto",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Bangu": [
+       6.69,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       6.69
+      ]
+     }
+    },
+    {
+     "grupo": "acucar-refinado",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Bangu": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ],
+      "Prezunic Campo Grande": [
+       3.89,
+       "Açúcar refinado Caravelas 1 kg",
+       3.89
+      ]
+     }
+    },
+    {
+     "grupo": "cafe-po",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Bangu": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ],
+      "Prezunic Campo Grande": [
+       32.98,
+       "Café torrado e moído Pilão 500 g",
+       32.98
+      ]
+     }
+    },
+    {
+     "grupo": "oleo-soja",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Bangu": [
+       6.89,
+       "Óleo de soja Soya 900 ml",
+       6.89
+      ],
+      "Prezunic Campo Grande": [
+       9.29,
+       "Óleo de soja Soya 900 ml",
+       9.29
+      ]
+     }
+    },
+    {
+     "grupo": "macarrao-espaguete",
+     "qtd": 4,
+     "precos": {
+      "Atacadão Bangu": [
+       5.29,
+       "Macarrão espaguete Adria 500 g",
+       5.29
+      ],
+      "Prezunic Campo Grande": [
+       7.19,
+       "Macarrão espaguete Renata 500 g",
+       7.19
+      ]
+     }
+    },
+    {
+     "grupo": "leite-integral",
+     "qtd": 12,
+     "precos": {
+      "Atacadão Bangu": [
+       5.49,
+       "Leite UHT integral Piracanjuba 1 L",
+       5.49
+      ],
+      "Prezunic Campo Grande": [
+       6.79,
+       "Leite UHT integral Parmalat 1 L",
+       6.79
+      ]
+     }
+    },
+    {
+     "grupo": "farinha-trigo",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Bangu": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ],
+      "Prezunic Campo Grande": [
+       6.59,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.59
+      ]
+     }
+    },
+    {
+     "grupo": "sal",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Bangu": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ],
+      "Prezunic Campo Grande": [
+       4.79,
+       "Sal refinado Lebre 1 kg",
+       4.79
+      ]
+     }
+    },
+    {
+     "grupo": "molho-tomate",
+     "qtd": 4,
+     "precos": {
+      "Atacadão Bangu": [
+       2.49,
+       "Molho de tomate Fugini 300 g",
+       2.49
+      ],
+      "Prezunic Campo Grande": [
+       2.59,
+       "Molho de tomate Fugini 300 g",
+       2.59
+      ]
+     }
+    },
+    {
+     "grupo": "extrato-tomate",
+     "qtd": 2,
+     "precos": {}
+    },
+    {
+     "grupo": "margarina",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Bangu": [
+       9.99,
+       "Margarina com sal Qualy 500 g",
+       9.99
+      ],
+      "Prezunic Campo Grande": [
+       8.99,
+       "Margarina com sal Doriana 500 g",
+       8.99
+      ]
+     }
+    },
+    {
+     "grupo": "biscoito-cream-cracker",
+     "qtd": 3,
+     "precos": {
+      "Prezunic Campo Grande": [
+       7.49,
+       "Biscoito cream cracker Vitarella 350 g",
+       7.49
+      ]
+     }
+    },
+    {
+     "grupo": "achocolatado",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Bangu": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ],
+      "Prezunic Campo Grande": [
+       19.29,
+       "Achocolatado em pó Nescau 350 g",
+       19.29
+      ]
+     }
+    },
+    {
+     "grupo": "leite-condensado",
+     "qtd": 2,
+     "precos": {}
+    },
+    {
+     "grupo": "creme-de-leite",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Bangu": [
+       2.99,
+       "Creme de leite Piracanjuba 200 g",
+       2.99
+      ],
+      "Prezunic Campo Grande": [
+       3.19,
+       "Creme de leite Italac 200 g",
+       3.19
+      ]
+     }
+    },
+    {
+     "grupo": "atum",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Bangu": [
+       8.49,
+       "Atum ralado Coqueiro 170 g",
+       8.49
+      ],
+      "Prezunic Campo Grande": [
+       12.99,
+       "Atum ralado Coqueiro 170 g",
+       12.99
+      ]
+     }
+    },
+    {
+     "grupo": "sardinha",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Bangu": [
+       6.99,
+       "Sardinha em óleo Coqueiro 125 g",
+       6.99
+      ]
+     }
+    },
+    {
+     "grupo": "detergente",
+     "qtd": 5,
+     "precos": {
+      "Atacadão Bangu": [
+       2.25,
+       "Detergente líquido Minuano 500 ml",
+       2.25
+      ]
+     }
+    },
+    {
+     "grupo": "agua-sanitaria",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Bangu": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ]
+     }
+    },
+    {
+     "grupo": "sabao-po",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Bangu": [
+       15.98,
+       "Sabão em pó Brilhante 1,6 kg",
+       15.98
+      ],
+      "Prezunic Campo Grande": [
+       18.99,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       18.99
+      ]
+     }
+    },
+    {
+     "grupo": "amaciante",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Bangu": [
+       7.98,
+       "Amaciante de roupas Ypê 2 L",
+       7.98
+      ],
+      "Prezunic Campo Grande": [
+       11.99,
+       "Amaciante de roupas Ypê 2 L",
+       11.99
+      ]
+     }
+    },
+    {
+     "grupo": "desinfetante",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Bangu": [
+       8.29,
+       "Desinfetante Ypê 1 L",
+       8.29
+      ]
+     }
+    },
+    {
+     "grupo": "papel-higienico",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Bangu": [
+       20.97,
+       "Papel higiênico folha dupla Neve 12 un",
+       20.97
+      ]
+     }
+    },
+    {
+     "grupo": "sabonete-barra",
+     "qtd": 6,
+     "precos": {
+      "Atacadão Bangu": [
+       6.25,
+       "Sabonete em barra Dove 90 g",
+       6.25
+      ],
+      "Prezunic Campo Grande": [
+       6.59,
+       "Sabonete em barra Dove 90 g",
+       6.59
+      ]
+     }
+    },
+    {
+     "grupo": "creme-dental",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Bangu": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ],
+      "Prezunic Campo Grande": [
+       8.79,
+       "Creme dental Sorriso 90 g",
+       8.79
+      ]
+     }
+    },
+    {
+     "grupo": "shampoo",
+     "qtd": 1,
+     "precos": {}
+    },
+    {
+     "grupo": "esponja",
+     "qtd": 2,
+     "precos": {}
+    },
+    {
+     "grupo": "ovos-brancos",
+     "qtd": 2,
+     "precos": {
+      "Prezunic Campo Grande": [
+       10.99,
+       "Ovos brancos Mantiqueira 12 un",
+       11.99
+      ]
+     }
+    }
+   ]
   },
-  {
-   "loja": "Atacadão - BELFORD ROXO",
-   "itens": 16,
-   "total": 299.47
+  "Barra da Tijuca": {
+   "itens_na_cesta": 31,
+   "itens_comparaveis": 27,
+   "lojas": [
+    {
+     "loja": "Prezunic Barra da Tijuca",
+     "itens": 22,
+     "total": 624.86
+    },
+    {
+     "loja": "Atacadão Barra",
+     "itens": 21,
+     "total": 493.52
+    },
+    {
+     "loja": "Prezunic Cidade de Deus",
+     "itens": 21,
+     "total": 632.48
+    },
+    {
+     "loja": "Atacadão Jacarepagua",
+     "itens": 20,
+     "total": 438.64
+    },
+    {
+     "loja": "Hortifruti Recreio",
+     "itens": 20,
+     "total": 637.91
+    },
+    {
+     "loja": "Hortifruti Av. das Américas",
+     "itens": 20,
+     "total": 637.91
+    },
+    {
+     "loja": "Hortifruti Freguesia",
+     "itens": 20,
+     "total": 637.91
+    },
+    {
+     "loja": "Prezunic Marapendi",
+     "itens": 19,
+     "total": 515.08
+    },
+    {
+     "loja": "Hortifruti Abelardo Bueno",
+     "itens": 19,
+     "total": 605.95
+    },
+    {
+     "loja": "Hortifruti São Conrado",
+     "itens": 18,
+     "total": 571.97
+    },
+    {
+     "loja": "Hortifruti Barra da Tijuca",
+     "itens": 17,
+     "total": 540.01
+    }
+   ],
+   "comuns": {
+    "itens": 27,
+    "tudo_numa_loja": {},
+    "melhor_de_cada_item": 621.35,
+    "melhor_dupla": null
+   },
+   "linhas": [
+    {
+     "grupo": "arroz-branco",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       28.4,
+       "Arroz branco tipo 1 Tio João 5 kg",
+       28.4
+      ],
+      "Atacadão Barra": [
+       27.9,
+       "Arroz branco tipo 1 Tio João 5 kg",
+       27.9
+      ],
+      "Prezunic Barra da Tijuca": [
+       31.69,
+       "Arroz branco tipo 1 Camil 5 kg",
+       31.69
+      ],
+      "Prezunic Cidade de Deus": [
+       31.69,
+       "Arroz branco tipo 1 Camil 5 kg",
+       31.69
+      ]
+     }
+    },
+    {
+     "grupo": "feijao-carioca",
+     "qtd": 4,
+     "precos": {
+      "Prezunic Barra da Tijuca": [
+       11.69,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       11.69
+      ],
+      "Prezunic Cidade de Deus": [
+       11.69,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       11.69
+      ],
+      "Hortifruti Recreio": [
+       10.99,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Abelardo Bueno": [
+       10.99,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Av. das Américas": [
+       10.99,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Freguesia": [
+       10.99,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "feijao-preto",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       7.39,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       7.39
+      ],
+      "Atacadão Barra": [
+       7.39,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       7.39
+      ],
+      "Hortifruti Recreio": [
+       10.99,
+       "Feijão preto tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Abelardo Bueno": [
+       10.99,
+       "Feijão preto tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Av. das Américas": [
+       10.99,
+       "Feijão preto tipo 1 Camil 1 kg",
+       10.99
+      ],
+      "Hortifruti Freguesia": [
+       10.99,
+       "Feijão preto tipo 1 Camil 1 kg",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "acucar-refinado",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ],
+      "Atacadão Barra": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ],
+      "Prezunic Barra da Tijuca": [
+       3.89,
+       "Açúcar refinado Caravelas 1 kg",
+       3.89
+      ],
+      "Prezunic Marapendi": [
+       3.89,
+       "Açúcar refinado Caravelas 1 kg",
+       3.89
+      ],
+      "Prezunic Cidade de Deus": [
+       3.89,
+       "Açúcar refinado Caravelas 1 kg",
+       3.89
+      ],
+      "Hortifruti Recreio": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti Abelardo Bueno": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti Av. das Américas": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti Freguesia": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti Barra da Tijuca": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti São Conrado": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ]
+     }
+    },
+    {
+     "grupo": "cafe-po",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ],
+      "Atacadão Barra": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ],
+      "Prezunic Barra da Tijuca": [
+       29.98,
+       "Café torrado e moído Melitta 500 g",
+       29.98
+      ],
+      "Prezunic Marapendi": [
+       29.98,
+       "Café torrado e moído Melitta 500 g",
+       29.98
+      ],
+      "Prezunic Cidade de Deus": [
+       32.98,
+       "Café torrado e moído Pilão 500 g",
+       32.98
+      ],
+      "Hortifruti Recreio": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti Abelardo Bueno": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti Av. das Américas": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti Freguesia": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti Barra da Tijuca": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti São Conrado": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ]
+     }
+    },
+    {
+     "grupo": "oleo-soja",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       6.88,
+       "Óleo de soja Soya 900 ml",
+       6.88
+      ],
+      "Atacadão Barra": [
+       6.89,
+       "Óleo de soja Soya 900 ml",
+       6.89
+      ],
+      "Prezunic Barra da Tijuca": [
+       9.29,
+       "Óleo de soja Soya 900 ml",
+       9.29
+      ],
+      "Prezunic Marapendi": [
+       9.29,
+       "Óleo de soja Soya 900 ml",
+       9.29
+      ],
+      "Prezunic Cidade de Deus": [
+       9.29,
+       "Óleo de soja Soya 900 ml",
+       9.29
+      ],
+      "Hortifruti Recreio": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti Abelardo Bueno": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti Av. das Américas": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti Freguesia": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti Barra da Tijuca": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti São Conrado": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ]
+     }
+    },
+    {
+     "grupo": "macarrao-espaguete",
+     "qtd": 4,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       5.49,
+       "Macarrão espaguete Barilla 500 g",
+       5.49
+      ],
+      "Atacadão Barra": [
+       5.29,
+       "Macarrão espaguete Adria 500 g",
+       5.29
+      ],
+      "Prezunic Barra da Tijuca": [
+       7.19,
+       "Macarrão espaguete Renata 500 g",
+       7.19
+      ],
+      "Prezunic Marapendi": [
+       7.19,
+       "Macarrão espaguete Renata 500 g",
+       7.19
+      ],
+      "Prezunic Cidade de Deus": [
+       7.19,
+       "Macarrão espaguete Renata 500 g",
+       7.19
+      ],
+      "Hortifruti Recreio": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti Abelardo Bueno": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti Av. das Américas": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti Freguesia": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti Barra da Tijuca": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti São Conrado": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ]
+     }
+    },
+    {
+     "grupo": "leite-integral",
+     "qtd": 12,
+     "precos": {
+      "Atacadão Barra": [
+       5.49,
+       "Leite UHT integral Piracanjuba 1 L",
+       5.49
+      ],
+      "Prezunic Barra da Tijuca": [
+       6.79,
+       "Leite UHT integral Parmalat 1 L",
+       6.79
+      ],
+      "Prezunic Marapendi": [
+       6.79,
+       "Leite UHT integral Parmalat 1 L",
+       6.79
+      ],
+      "Prezunic Cidade de Deus": [
+       6.79,
+       "Leite UHT integral Parmalat 1 L",
+       6.79
+      ],
+      "Hortifruti Recreio": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti Abelardo Bueno": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti Av. das Américas": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti Freguesia": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti Barra da Tijuca": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti São Conrado": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ]
+     }
+    },
+    {
+     "grupo": "farinha-trigo",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ],
+      "Atacadão Barra": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ],
+      "Prezunic Barra da Tijuca": [
+       6.59,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.59
+      ],
+      "Prezunic Marapendi": [
+       6.59,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.59
+      ],
+      "Prezunic Cidade de Deus": [
+       6.59,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.59
+      ],
+      "Hortifruti Recreio": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ],
+      "Hortifruti Abelardo Bueno": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ],
+      "Hortifruti Av. das Américas": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ],
+      "Hortifruti Freguesia": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ],
+      "Hortifruti Barra da Tijuca": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ],
+      "Hortifruti São Conrado": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ]
+     }
+    },
+    {
+     "grupo": "sal",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ],
+      "Atacadão Barra": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ],
+      "Prezunic Barra da Tijuca": [
+       4.79,
+       "Sal refinado Lebre 1 kg",
+       4.79
+      ],
+      "Prezunic Marapendi": [
+       4.79,
+       "Sal refinado Lebre 1 kg",
+       4.79
+      ],
+      "Prezunic Cidade de Deus": [
+       4.79,
+       "Sal refinado Lebre 1 kg",
+       4.79
+      ],
+      "Hortifruti Recreio": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ],
+      "Hortifruti Abelardo Bueno": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ],
+      "Hortifruti Av. das Américas": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ],
+      "Hortifruti Freguesia": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ],
+      "Hortifruti Barra da Tijuca": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ],
+      "Hortifruti São Conrado": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ]
+     }
+    },
+    {
+     "grupo": "molho-tomate",
+     "qtd": 4,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       5.29,
+       "Molho de tomate Pomarola 300 g",
+       5.29
+      ],
+      "Atacadão Barra": [
+       2.49,
+       "Molho de tomate Fugini 300 g",
+       2.49
+      ],
+      "Prezunic Barra da Tijuca": [
+       2.59,
+       "Molho de tomate Fugini 300 g",
+       2.59
+      ],
+      "Prezunic Cidade de Deus": [
+       2.59,
+       "Molho de tomate Fugini 300 g",
+       2.59
+      ],
+      "Hortifruti Recreio": [
+       7.99,
+       "Molho de tomate Pomarola 300 g",
+       7.99
+      ],
+      "Hortifruti Av. das Américas": [
+       7.99,
+       "Molho de tomate Pomarola 300 g",
+       7.99
+      ],
+      "Hortifruti Freguesia": [
+       7.99,
+       "Molho de tomate Pomarola 300 g",
+       7.99
+      ],
+      "Hortifruti São Conrado": [
+       7.99,
+       "Molho de tomate Pomarola 300 g",
+       7.99
+      ]
+     }
+    },
+    {
+     "grupo": "extrato-tomate",
+     "qtd": 2,
+     "precos": {}
+    },
+    {
+     "grupo": "margarina",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       9.99,
+       "Margarina com sal Qualy 500 g",
+       9.99
+      ],
+      "Atacadão Barra": [
+       9.99,
+       "Margarina com sal Qualy 500 g",
+       9.99
+      ],
+      "Prezunic Barra da Tijuca": [
+       8.99,
+       "Margarina com sal Doriana 500 g",
+       8.99
+      ],
+      "Prezunic Marapendi": [
+       9.99,
+       "Margarina com sal Delícia 500 g",
+       9.99
+      ],
+      "Prezunic Cidade de Deus": [
+       8.99,
+       "Margarina com sal Doriana 500 g",
+       8.99
+      ],
+      "Hortifruti Recreio": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti Abelardo Bueno": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti Av. das Américas": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti Freguesia": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti Barra da Tijuca": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti São Conrado": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "biscoito-cream-cracker",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       4.99,
+       "Biscoito cream cracker Vitarella 350 g",
+       4.99
+      ],
+      "Prezunic Barra da Tijuca": [
+       7.49,
+       "Biscoito cream cracker Vitarella 350 g",
+       7.49
+      ],
+      "Prezunic Cidade de Deus": [
+       7.49,
+       "Biscoito cream cracker Vitarella 350 g",
+       7.49
+      ]
+     }
+    },
+    {
+     "grupo": "achocolatado",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ],
+      "Atacadão Barra": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ],
+      "Prezunic Barra da Tijuca": [
+       19.29,
+       "Achocolatado em pó Nescau 350 g",
+       19.29
+      ],
+      "Prezunic Marapendi": [
+       19.29,
+       "Achocolatado em pó Nescau 350 g",
+       19.29
+      ],
+      "Prezunic Cidade de Deus": [
+       19.29,
+       "Achocolatado em pó Nescau 350 g",
+       19.29
+      ],
+      "Hortifruti Recreio": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti Abelardo Bueno": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti Av. das Américas": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti Freguesia": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti Barra da Tijuca": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti São Conrado": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ]
+     }
+    },
+    {
+     "grupo": "leite-condensado",
+     "qtd": 2,
+     "precos": {
+      "Prezunic Marapendi": [
+       9.79,
+       "Leite condensado Italac 395 g",
+       9.79
+      ],
+      "Hortifruti Recreio": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti Abelardo Bueno": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti Av. das Américas": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti Freguesia": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti Barra da Tijuca": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti São Conrado": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "creme-de-leite",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       3.89,
+       "Creme de leite Nestlé 200 g",
+       3.89
+      ],
+      "Atacadão Barra": [
+       2.89,
+       "Creme de leite Italac 200 g",
+       2.89
+      ],
+      "Prezunic Barra da Tijuca": [
+       6.66,
+       "Creme de leite Nestlé 200 g",
+       6.66
+      ],
+      "Prezunic Marapendi": [
+       6.66,
+       "Creme de leite Nestlé 200 g",
+       6.66
+      ],
+      "Prezunic Cidade de Deus": [
+       6.66,
+       "Creme de leite Nestlé 200 g",
+       6.66
+      ],
+      "Hortifruti Recreio": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti Abelardo Bueno": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti Av. das Américas": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti Freguesia": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti Barra da Tijuca": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti São Conrado": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ]
+     }
+    },
+    {
+     "grupo": "atum",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       8.99,
+       "Atum ralado Gomes da Costa 170 g",
+       8.99
+      ],
+      "Prezunic Barra da Tijuca": [
+       12.69,
+       "Atum ralado Gomes da Costa 170 g",
+       12.69
+      ],
+      "Prezunic Marapendi": [
+       12.99,
+       "Atum ralado Coqueiro 170 g",
+       12.99
+      ],
+      "Prezunic Cidade de Deus": [
+       12.69,
+       "Atum ralado Gomes da Costa 170 g",
+       12.69
+      ],
+      "Hortifruti Recreio": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti Abelardo Bueno": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti Av. das Américas": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti Freguesia": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti Barra da Tijuca": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti São Conrado": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ]
+     }
+    },
+    {
+     "grupo": "sardinha",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Barra": [
+       5.99,
+       "Sardinha em óleo Coqueiro 125 g",
+       5.99
+      ],
+      "Prezunic Barra da Tijuca": [
+       8.69,
+       "Sardinha em óleo Coqueiro 125 g",
+       8.69
+      ],
+      "Prezunic Marapendi": [
+       8.69,
+       "Sardinha em óleo Coqueiro 125 g",
+       8.69
+      ],
+      "Hortifruti Recreio": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti Abelardo Bueno": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti Av. das Américas": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti Freguesia": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti Barra da Tijuca": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti São Conrado": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ]
+     }
+    },
+    {
+     "grupo": "detergente",
+     "qtd": 5,
+     "precos": {
+      "Hortifruti Recreio": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti Abelardo Bueno": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti Av. das Américas": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti Freguesia": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti Barra da Tijuca": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti São Conrado": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ]
+     }
+    },
+    {
+     "grupo": "agua-sanitaria",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ],
+      "Atacadão Barra": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ],
+      "Prezunic Barra da Tijuca": [
+       5.99,
+       "Água sanitária Ypê 1 L",
+       5.99
+      ],
+      "Prezunic Marapendi": [
+       5.99,
+       "Água sanitária Ypê 1 L",
+       5.99
+      ],
+      "Prezunic Cidade de Deus": [
+       5.99,
+       "Água sanitária Ypê 1 L",
+       5.99
+      ]
+     }
+    },
+    {
+     "grupo": "sabao-po",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       19.98,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       19.98
+      ],
+      "Atacadão Barra": [
+       15.98,
+       "Sabão em pó Brilhante 1,6 kg",
+       15.98
+      ],
+      "Prezunic Barra da Tijuca": [
+       18.99,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       18.99
+      ],
+      "Prezunic Marapendi": [
+       18.99,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       18.99
+      ],
+      "Prezunic Cidade de Deus": [
+       18.99,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       18.99
+      ],
+      "Hortifruti Recreio": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti Abelardo Bueno": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti Av. das Américas": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti Freguesia": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti Barra da Tijuca": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti São Conrado": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ]
+     }
+    },
+    {
+     "grupo": "amaciante",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       7.98,
+       "Amaciante de roupas Ypê 2 L",
+       7.98
+      ],
+      "Atacadão Barra": [
+       7.98,
+       "Amaciante de roupas Ypê 2 L",
+       7.98
+      ],
+      "Prezunic Barra da Tijuca": [
+       11.99,
+       "Amaciante de roupas Ypê 2 L",
+       11.99
+      ],
+      "Prezunic Marapendi": [
+       11.99,
+       "Amaciante de roupas Ypê 2 L",
+       11.99
+      ],
+      "Prezunic Cidade de Deus": [
+       11.99,
+       "Amaciante de roupas Ypê 2 L",
+       11.99
+      ]
+     }
+    },
+    {
+     "grupo": "desinfetante",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       14.79,
+       "Desinfetante Pinho Sol 1 L",
+       14.79
+      ],
+      "Atacadão Barra": [
+       8.29,
+       "Desinfetante Ypê 1 L",
+       8.29
+      ],
+      "Prezunic Marapendi": [
+       18.69,
+       "Desinfetante Pinho Sol 1 L",
+       18.69
+      ],
+      "Prezunic Cidade de Deus": [
+       18.99,
+       "Desinfetante Lysoform 1 L",
+       18.99
+      ],
+      "Hortifruti Recreio": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Abelardo Bueno": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Av. das Américas": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Freguesia": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Barra da Tijuca": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti São Conrado": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ]
+     }
+    },
+    {
+     "grupo": "papel-higienico",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Barra": [
+       20.97,
+       "Papel higiênico folha dupla Neve 12 un",
+       20.97
+      ],
+      "Hortifruti Recreio": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ],
+      "Hortifruti Abelardo Bueno": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ],
+      "Hortifruti Av. das Américas": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ],
+      "Hortifruti Freguesia": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ],
+      "Hortifruti Barra da Tijuca": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ],
+      "Hortifruti São Conrado": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ]
+     }
+    },
+    {
+     "grupo": "sabonete-barra",
+     "qtd": 6,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       6.25,
+       "Sabonete em barra Dove 90 g",
+       6.25
+      ],
+      "Atacadão Barra": [
+       6.25,
+       "Sabonete em barra Dove 90 g",
+       6.25
+      ],
+      "Prezunic Barra da Tijuca": [
+       6.59,
+       "Sabonete em barra Dove 90 g",
+       6.59
+      ],
+      "Prezunic Marapendi": [
+       6.59,
+       "Sabonete em barra Dove 90 g",
+       6.59
+      ],
+      "Prezunic Cidade de Deus": [
+       6.59,
+       "Sabonete em barra Dove 90 g",
+       6.59
+      ]
+     }
+    },
+    {
+     "grupo": "creme-dental",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Jacarepagua": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ],
+      "Atacadão Barra": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ],
+      "Prezunic Barra da Tijuca": [
+       8.79,
+       "Creme dental Sorriso 90 g",
+       8.79
+      ],
+      "Prezunic Cidade de Deus": [
+       8.79,
+       "Creme dental Sorriso 90 g",
+       8.79
+      ]
+     }
+    },
+    {
+     "grupo": "shampoo",
+     "qtd": 1,
+     "precos": {}
+    },
+    {
+     "grupo": "esponja",
+     "qtd": 2,
+     "precos": {}
+    },
+    {
+     "grupo": "ovos-brancos",
+     "qtd": 2,
+     "precos": {
+      "Prezunic Barra da Tijuca": [
+       10.99,
+       "Ovos brancos Mantiqueira 12 un",
+       10.99
+      ],
+      "Prezunic Marapendi": [
+       10.99,
+       "Ovos brancos Mantiqueira 12 un",
+       11.99
+      ]
+     }
+    }
+   ]
   },
-  {
-   "loja": "Atacadão Nova Iguaçu Comendador Soares",
-   "itens": 15,
-   "total": 240.62
-  },
-  {
-   "loja": "Atacadão - NOVA IGUACU MARIA DA LUZ",
-   "itens": 15,
-   "total": 298.7
+  "Niterói e São Gonçalo": {
+   "itens_na_cesta": 31,
+   "itens_comparaveis": 25,
+   "lojas": [
+    {
+     "loja": "Prezunic Fonseca",
+     "itens": 21,
+     "total": 636.14
+    },
+    {
+     "loja": "Atacadão Autosserviço Manilha",
+     "itens": 20,
+     "total": 418.85
+    },
+    {
+     "loja": "Hortifruti Itaipú",
+     "itens": 20,
+     "total": 637.91
+    },
+    {
+     "loja": "Hortifruti Icaraí",
+     "itens": 17,
+     "total": 540.01
+    },
+    {
+     "loja": "Hortifruti Santa Rosa",
+     "itens": 16,
+     "total": 525.5
+    },
+    {
+     "loja": "Hortifruti Região Oceânica",
+     "itens": 15,
+     "total": 454.72
+    }
+   ],
+   "comuns": {
+    "itens": 25,
+    "tudo_numa_loja": {},
+    "melhor_de_cada_item": 611.91,
+    "melhor_dupla": null
+   },
+   "linhas": [
+    {
+     "grupo": "arroz-branco",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       28.4,
+       "Arroz branco tipo 1 Tio João 5 kg",
+       28.4
+      ],
+      "Prezunic Fonseca": [
+       31.69,
+       "Arroz branco tipo 1 Camil 5 kg",
+       31.69
+      ]
+     }
+    },
+    {
+     "grupo": "feijao-carioca",
+     "qtd": 4,
+     "precos": {
+      "Prezunic Fonseca": [
+       11.69,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       11.69
+      ],
+      "Hortifruti Região Oceânica": [
+       9.49,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       9.49
+      ],
+      "Hortifruti Itaipú": [
+       10.99,
+       "Feijão carioca tipo 1 Camil 1 kg",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "feijao-preto",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       7.39,
+       "Feijão preto tipo 1 Kicaldo 1 kg",
+       7.39
+      ],
+      "Hortifruti Região Oceânica": [
+       9.49,
+       "Feijão preto tipo 1 Camil 1 kg",
+       9.49
+      ],
+      "Hortifruti Itaipú": [
+       10.99,
+       "Feijão preto tipo 1 Camil 1 kg",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "acucar-refinado",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       3.69,
+       "Açúcar refinado Caravelas 1 kg",
+       3.69
+      ],
+      "Prezunic Fonseca": [
+       3.89,
+       "Açúcar refinado Caravelas 1 kg",
+       3.89
+      ],
+      "Hortifruti Icaraí": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti Santa Rosa": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ],
+      "Hortifruti Região Oceânica": [
+       5.99,
+       "Açúcar refinado União 1 kg",
+       5.99
+      ],
+      "Hortifruti Itaipú": [
+       4.99,
+       "Açúcar refinado União 1 kg",
+       4.99
+      ]
+     }
+    },
+    {
+     "grupo": "cafe-po",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       25.9,
+       "Café torrado e moído Melitta 500 g",
+       25.9
+      ],
+      "Prezunic Fonseca": [
+       32.98,
+       "Café torrado e moído Pilão 500 g",
+       32.98
+      ],
+      "Hortifruti Icaraí": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti Santa Rosa": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ],
+      "Hortifruti Região Oceânica": [
+       25.99,
+       "Café torrado e moído 3 Corações 500 g",
+       32.99
+      ],
+      "Hortifruti Itaipú": [
+       28.99,
+       "Café torrado e moído 3 Corações 500 g",
+       28.99
+      ]
+     }
+    },
+    {
+     "grupo": "oleo-soja",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       6.89,
+       "Óleo de soja Soya 900 ml",
+       6.89
+      ],
+      "Prezunic Fonseca": [
+       9.29,
+       "Óleo de soja Soya 900 ml",
+       9.29
+      ],
+      "Hortifruti Icaraí": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti Santa Rosa": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ],
+      "Hortifruti Região Oceânica": [
+       9.99,
+       "Óleo de soja Soya 900 ml",
+       9.99
+      ],
+      "Hortifruti Itaipú": [
+       9.79,
+       "Óleo de soja Soya 900 ml",
+       9.79
+      ]
+     }
+    },
+    {
+     "grupo": "macarrao-espaguete",
+     "qtd": 4,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       5.29,
+       "Macarrão espaguete Adria 500 g",
+       5.29
+      ],
+      "Prezunic Fonseca": [
+       7.19,
+       "Macarrão espaguete Renata 500 g",
+       7.19
+      ],
+      "Hortifruti Icaraí": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti Santa Rosa": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ],
+      "Hortifruti Região Oceânica": [
+       6.79,
+       "Macarrão espaguete Renata 500 g",
+       6.79
+      ],
+      "Hortifruti Itaipú": [
+       7.99,
+       "Macarrão espaguete Renata 500 g",
+       7.99
+      ]
+     }
+    },
+    {
+     "grupo": "leite-integral",
+     "qtd": 12,
+     "precos": {
+      "Prezunic Fonseca": [
+       6.79,
+       "Leite UHT integral Parmalat 1 L",
+       6.79
+      ],
+      "Hortifruti Icaraí": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti Santa Rosa": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ],
+      "Hortifruti Região Oceânica": [
+       6.69,
+       "Leite UHT integral Italac 1 L",
+       6.69
+      ],
+      "Hortifruti Itaipú": [
+       7.49,
+       "Leite UHT integral Italac 1 L",
+       7.49
+      ]
+     }
+    },
+    {
+     "grupo": "farinha-trigo",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       6.89,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.89
+      ],
+      "Prezunic Fonseca": [
+       6.59,
+       "Farinha de trigo Dona Benta 1 kg",
+       6.59
+      ],
+      "Hortifruti Icaraí": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ],
+      "Hortifruti Santa Rosa": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ],
+      "Hortifruti Região Oceânica": [
+       7.69,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.69
+      ],
+      "Hortifruti Itaipú": [
+       7.99,
+       "Farinha de trigo Dona Benta 1 kg",
+       7.99
+      ]
+     }
+    },
+    {
+     "grupo": "sal",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       2.99,
+       "Sal refinado Lebre 1 kg",
+       2.99
+      ],
+      "Prezunic Fonseca": [
+       4.79,
+       "Sal refinado Lebre 1 kg",
+       4.79
+      ],
+      "Hortifruti Icaraí": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ],
+      "Hortifruti Região Oceânica": [
+       6.29,
+       "Sal refinado Cisne 1 kg",
+       6.29
+      ],
+      "Hortifruti Itaipú": [
+       6.49,
+       "Sal refinado Cisne 1 kg",
+       6.49
+      ]
+     }
+    },
+    {
+     "grupo": "molho-tomate",
+     "qtd": 4,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       5.29,
+       "Molho de tomate Pomarola 300 g",
+       5.29
+      ],
+      "Prezunic Fonseca": [
+       2.59,
+       "Molho de tomate Fugini 300 g",
+       2.59
+      ],
+      "Hortifruti Santa Rosa": [
+       7.99,
+       "Molho de tomate Pomarola 300 g",
+       7.99
+      ],
+      "Hortifruti Itaipú": [
+       7.99,
+       "Molho de tomate Pomarola 300 g",
+       7.99
+      ]
+     }
+    },
+    {
+     "grupo": "extrato-tomate",
+     "qtd": 2,
+     "precos": {}
+    },
+    {
+     "grupo": "margarina",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       7.98,
+       "Margarina com sal Doriana 500 g",
+       7.98
+      ],
+      "Prezunic Fonseca": [
+       8.99,
+       "Margarina com sal Doriana 500 g",
+       8.99
+      ],
+      "Hortifruti Icaraí": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti Santa Rosa": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ],
+      "Hortifruti Região Oceânica": [
+       9.99,
+       "Margarina com sal Qualy 500 g",
+       9.99
+      ],
+      "Hortifruti Itaipú": [
+       10.99,
+       "Margarina com sal Qualy 500 g",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "biscoito-cream-cracker",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       4.99,
+       "Biscoito cream cracker Vitarella 350 g",
+       4.99
+      ],
+      "Prezunic Fonseca": [
+       7.49,
+       "Biscoito cream cracker Vitarella 350 g",
+       7.49
+      ]
+     }
+    },
+    {
+     "grupo": "achocolatado",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       12.89,
+       "Achocolatado em pó Nescau 350 g",
+       12.89
+      ],
+      "Prezunic Fonseca": [
+       19.29,
+       "Achocolatado em pó Nescau 350 g",
+       19.29
+      ],
+      "Hortifruti Icaraí": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti Santa Rosa": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ],
+      "Hortifruti Região Oceânica": [
+       10.39,
+       "Achocolatado em pó Nescau 350 g",
+       12.99
+      ],
+      "Hortifruti Itaipú": [
+       16.99,
+       "Achocolatado em pó Nescau 350 g",
+       16.99
+      ]
+     }
+    },
+    {
+     "grupo": "leite-condensado",
+     "qtd": 2,
+     "precos": {
+      "Hortifruti Icaraí": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti Santa Rosa": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ],
+      "Hortifruti Itaipú": [
+       10.99,
+       "Leite condensado Piracanjuba 395 g",
+       10.99
+      ]
+     }
+    },
+    {
+     "grupo": "creme-de-leite",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       2.89,
+       "Creme de leite Italac 200 g",
+       2.89
+      ],
+      "Prezunic Fonseca": [
+       3.19,
+       "Creme de leite Italac 200 g",
+       3.19
+      ],
+      "Hortifruti Icaraí": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti Santa Rosa": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ],
+      "Hortifruti Itaipú": [
+       4.29,
+       "Creme de leite Italac 200 g",
+       4.29
+      ]
+     }
+    },
+    {
+     "grupo": "atum",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       8.99,
+       "Atum ralado Gomes da Costa 170 g",
+       8.99
+      ],
+      "Prezunic Fonseca": [
+       12.99,
+       "Atum ralado Coqueiro 170 g",
+       12.99
+      ],
+      "Hortifruti Icaraí": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti Santa Rosa": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ],
+      "Hortifruti Região Oceânica": [
+       13.99,
+       "Atum ralado Coqueiro 170 g",
+       13.99
+      ],
+      "Hortifruti Itaipú": [
+       13.99,
+       "Atum ralado Gomes da Costa 170 g",
+       13.99
+      ]
+     }
+    },
+    {
+     "grupo": "sardinha",
+     "qtd": 2,
+     "precos": {
+      "Hortifruti Icaraí": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti Santa Rosa": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti Região Oceânica": [
+       10.99,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       10.99
+      ],
+      "Hortifruti Itaipú": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ]
+     }
+    },
+    {
+     "grupo": "detergente",
+     "qtd": 5,
+     "precos": {
+      "Hortifruti Icaraí": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti Santa Rosa": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ],
+      "Hortifruti Região Oceânica": [
+       3.29,
+       "Detergente líquido Limpol 500 ml",
+       3.29
+      ],
+      "Hortifruti Itaipú": [
+       2.79,
+       "Detergente líquido Limpol 500 ml",
+       2.79
+      ]
+     }
+    },
+    {
+     "grupo": "agua-sanitaria",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       4.09,
+       "Água sanitária Ypê 1 L",
+       4.09
+      ]
+     }
+    },
+    {
+     "grupo": "sabao-po",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       19.98,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       19.98
+      ],
+      "Prezunic Fonseca": [
+       18.99,
+       "Sabão em pó Tixan Ypê 1,6 kg",
+       18.99
+      ],
+      "Hortifruti Icaraí": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti Santa Rosa": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ],
+      "Hortifruti Itaipú": [
+       31.99,
+       "Sabão em pó Omo 1,6 kg",
+       31.99
+      ]
+     }
+    },
+    {
+     "grupo": "amaciante",
+     "qtd": 1,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       7.98,
+       "Amaciante de roupas Ypê 2 L",
+       7.98
+      ],
+      "Prezunic Fonseca": [
+       11.99,
+       "Amaciante de roupas Ypê 2 L",
+       11.99
+      ]
+     }
+    },
+    {
+     "grupo": "desinfetante",
+     "qtd": 2,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       8.29,
+       "Desinfetante Ypê 1 L",
+       8.29
+      ],
+      "Prezunic Fonseca": [
+       18.99,
+       "Desinfetante Lysoform 1 L",
+       18.99
+      ],
+      "Hortifruti Icaraí": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Santa Rosa": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Região Oceânica": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ],
+      "Hortifruti Itaipú": [
+       22.99,
+       "Desinfetante Pinho Sol 1 L",
+       22.99
+      ]
+     }
+    },
+    {
+     "grupo": "papel-higienico",
+     "qtd": 2,
+     "precos": {
+      "Hortifruti Icaraí": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ],
+      "Hortifruti Itaipú": [
+       19.99,
+       "Papel higiênico folha dupla Neve 12 un",
+       19.99
+      ]
+     }
+    },
+    {
+     "grupo": "sabonete-barra",
+     "qtd": 6,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       6.25,
+       "Sabonete em barra Dove 90 g",
+       6.25
+      ],
+      "Prezunic Fonseca": [
+       6.59,
+       "Sabonete em barra Dove 90 g",
+       6.59
+      ]
+     }
+    },
+    {
+     "grupo": "creme-dental",
+     "qtd": 3,
+     "precos": {
+      "Atacadão Autosserviço Manilha": [
+       6.98,
+       "Creme dental Sorriso 90 g",
+       6.98
+      ],
+      "Prezunic Fonseca": [
+       8.79,
+       "Creme dental Sorriso 90 g",
+       8.79
+      ]
+     }
+    },
+    {
+     "grupo": "shampoo",
+     "qtd": 1,
+     "precos": {}
+    },
+    {
+     "grupo": "esponja",
+     "qtd": 2,
+     "precos": {}
+    },
+    {
+     "grupo": "ovos-brancos",
+     "qtd": 2,
+     "precos": {
+      "Prezunic Fonseca": [
+       10.99,
+       "Ovos brancos Mantiqueira 12 un",
+       10.99
+      ]
+     }
+    }
+   ]
   }
- ],
- "comuns": {
-  "itens": 19,
-  "tudo_numa_loja": {},
-  "melhor_de_cada_item": 320.13,
-  "melhor_dupla": null
- },
- "linhas": [
-  {
-   "grupo": "arroz-branco",
-   "qtd": 2,
-   "precos": {
-    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
-     29.4,
-     "Arroz branco tipo 1 Prato Fino 5 kg",
-     29.4
-    ],
-    "Atacadão Nova Iguaçu Comendador Soares": [
-     29.4,
-     "Arroz branco tipo 1 Prato Fino 5 kg",
-     29.4
-    ],
-    "Atacadão - BELFORD ROXO": [
-     28.4,
-     "Arroz branco tipo 1 Tio João 5 kg",
-     28.4
-    ],
-    "Atacadão Guadalupe": [
-     29.4,
-     "Arroz branco tipo 1 Prato Fino 5 kg",
-     29.4
-    ],
-    "Atacadão Realengo": [
-     28.4,
-     "Arroz branco tipo 1 Tio João 5 kg",
-     28.4
-    ],
-    "Atacadão - BANGU": [
-     28.4,
-     "Arroz branco tipo 1 Tio João 5 kg",
-     28.4
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     28.4,
-     "Arroz branco tipo 1 Tio João 5 kg",
-     28.4
-    ],
-    "Prezunic Caxias Centenário": [
-     29.99,
-     "Arroz branco tipo 1 Tio João 5 kg",
-     34.99
-    ]
-   }
-  },
-  {
-   "grupo": "feijao-carioca",
-   "qtd": 4,
-   "precos": {
-    "Prezunic Caxias Centenário": [
-     11.69,
-     "Feijão carioca tipo 1 Camil 1 kg",
-     11.69
-    ]
-   }
-  },
-  {
-   "grupo": "feijao-preto",
-   "qtd": 2,
-   "precos": {
-    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
-     7.39,
-     "Feijão preto tipo 1 Kicaldo 1 kg",
-     7.39
-    ],
-    "Atacadão Nova Iguaçu Comendador Soares": [
-     7.39,
-     "Feijão preto tipo 1 Kicaldo 1 kg",
-     7.39
-    ],
-    "Atacadão - BELFORD ROXO": [
-     7.39,
-     "Feijão preto tipo 1 Kicaldo 1 kg",
-     7.39
-    ],
-    "Atacadão Guadalupe": [
-     7.39,
-     "Feijão preto tipo 1 Kicaldo 1 kg",
-     7.39
-    ],
-    "Atacadão Realengo": [
-     7.39,
-     "Feijão preto tipo 1 Kicaldo 1 kg",
-     7.39
-    ],
-    "Atacadão - BANGU": [
-     6.69,
-     "Feijão preto tipo 1 Kicaldo 1 kg",
-     6.69
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     7.39,
-     "Feijão preto tipo 1 Kicaldo 1 kg",
-     7.39
-    ]
-   }
-  },
-  {
-   "grupo": "acucar-refinado",
-   "qtd": 3,
-   "precos": {
-    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
-     3.69,
-     "Açúcar refinado Caravelas 1 kg",
-     3.69
-    ],
-    "Atacadão Nova Iguaçu Comendador Soares": [
-     3.69,
-     "Açúcar refinado Caravelas 1 kg",
-     3.69
-    ],
-    "Atacadão - BELFORD ROXO": [
-     3.69,
-     "Açúcar refinado Caravelas 1 kg",
-     3.69
-    ],
-    "Atacadão Guadalupe": [
-     3.69,
-     "Açúcar refinado Caravelas 1 kg",
-     3.69
-    ],
-    "Atacadão Realengo": [
-     3.69,
-     "Açúcar refinado Caravelas 1 kg",
-     3.69
-    ],
-    "Atacadão - BANGU": [
-     3.69,
-     "Açúcar refinado Caravelas 1 kg",
-     3.69
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     3.69,
-     "Açúcar refinado Caravelas 1 kg",
-     3.69
-    ],
-    "Prezunic Caxias Centenário": [
-     3.89,
-     "Açúcar refinado Caravelas 1 kg",
-     3.89
-    ]
-   }
-  },
-  {
-   "grupo": "cafe-po",
-   "qtd": 3,
-   "precos": {
-    "Prezunic Caxias Centenário": [
-     24.98,
-     "Café torrado e moído 3 Corações 500 g",
-     32.98
-    ]
-   }
-  },
-  {
-   "grupo": "oleo-soja",
-   "qtd": 3,
-   "precos": {
-    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
-     6.88,
-     "Óleo de soja Soya 900 ml",
-     6.88
-    ],
-    "Atacadão - BELFORD ROXO": [
-     6.89,
-     "Óleo de soja Soya 900 ml",
-     6.89
-    ],
-    "Atacadão - BANGU": [
-     6.89,
-     "Óleo de soja Soya 900 ml",
-     6.89
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     6.89,
-     "Óleo de soja Soya 900 ml",
-     6.89
-    ],
-    "Prezunic Caxias Centenário": [
-     6.99,
-     "Óleo de soja Soya 900 ml",
-     7.99
-    ]
-   }
-  },
-  {
-   "grupo": "macarrao-espaguete",
-   "qtd": 4,
-   "precos": {
-    "Atacadão Nova Iguaçu Comendador Soares": [
-     5.29,
-     "Macarrão espaguete Adria 500 g",
-     5.29
-    ],
-    "Atacadão - BELFORD ROXO": [
-     5.29,
-     "Macarrão espaguete Adria 500 g",
-     5.29
-    ],
-    "Atacadão Guadalupe": [
-     5.29,
-     "Macarrão espaguete Adria 500 g",
-     5.29
-    ],
-    "Atacadão Realengo": [
-     5.29,
-     "Macarrão espaguete Adria 500 g",
-     5.29
-    ],
-    "Atacadão - BANGU": [
-     5.29,
-     "Macarrão espaguete Adria 500 g",
-     5.29
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     5.29,
-     "Macarrão espaguete Adria 500 g",
-     5.29
-    ],
-    "Prezunic Caxias Centenário": [
-     7.19,
-     "Macarrão espaguete Renata 500 g",
-     7.19
-    ]
-   }
-  },
-  {
-   "grupo": "leite-integral",
-   "qtd": 12,
-   "precos": {
-    "Prezunic Caxias Centenário": [
-     6.79,
-     "Leite UHT integral Parmalat 1 L",
-     6.79
-    ]
-   }
-  },
-  {
-   "grupo": "farinha-trigo",
-   "qtd": 2,
-   "precos": {
-    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
-     6.89,
-     "Farinha de trigo Dona Benta 1 kg",
-     6.89
-    ],
-    "Atacadão Nova Iguaçu Comendador Soares": [
-     6.89,
-     "Farinha de trigo Dona Benta 1 kg",
-     6.89
-    ],
-    "Atacadão - BELFORD ROXO": [
-     6.89,
-     "Farinha de trigo Dona Benta 1 kg",
-     6.89
-    ],
-    "Atacadão Guadalupe": [
-     6.89,
-     "Farinha de trigo Dona Benta 1 kg",
-     6.89
-    ],
-    "Atacadão Realengo": [
-     6.89,
-     "Farinha de trigo Dona Benta 1 kg",
-     6.89
-    ],
-    "Atacadão - BANGU": [
-     6.89,
-     "Farinha de trigo Dona Benta 1 kg",
-     6.89
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     6.89,
-     "Farinha de trigo Dona Benta 1 kg",
-     6.89
-    ]
-   }
-  },
-  {
-   "grupo": "sal",
-   "qtd": 1,
-   "precos": {
-    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
-     2.99,
-     "Sal refinado Lebre 1 kg",
-     2.99
-    ],
-    "Atacadão Nova Iguaçu Comendador Soares": [
-     2.99,
-     "Sal refinado Lebre 1 kg",
-     2.99
-    ],
-    "Atacadão - BELFORD ROXO": [
-     2.99,
-     "Sal refinado Lebre 1 kg",
-     2.99
-    ],
-    "Atacadão Guadalupe": [
-     2.99,
-     "Sal refinado Lebre 1 kg",
-     2.99
-    ],
-    "Atacadão Realengo": [
-     2.99,
-     "Sal refinado Lebre 1 kg",
-     2.99
-    ],
-    "Atacadão - BANGU": [
-     2.99,
-     "Sal refinado Lebre 1 kg",
-     2.99
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     2.99,
-     "Sal refinado Lebre 1 kg",
-     2.99
-    ],
-    "Prezunic Caxias Centenário": [
-     4.79,
-     "Sal refinado Lebre 1 kg",
-     4.79
-    ]
-   }
-  },
-  {
-   "grupo": "molho-tomate",
-   "qtd": 4,
-   "precos": {
-    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
-     2.49,
-     "Molho de tomate Fugini 300 g",
-     2.49
-    ],
-    "Atacadão Nova Iguaçu Comendador Soares": [
-     2.49,
-     "Molho de tomate Fugini 300 g",
-     2.49
-    ],
-    "Atacadão - BELFORD ROXO": [
-     2.49,
-     "Molho de tomate Fugini 300 g",
-     2.49
-    ],
-    "Atacadão Guadalupe": [
-     5.29,
-     "Molho de tomate Pomarola 300 g",
-     5.29
-    ],
-    "Atacadão Realengo": [
-     2.49,
-     "Molho de tomate Fugini 300 g",
-     2.49
-    ],
-    "Atacadão - BANGU": [
-     2.49,
-     "Molho de tomate Fugini 300 g",
-     2.49
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     2.49,
-     "Molho de tomate Fugini 300 g",
-     2.49
-    ],
-    "Prezunic Caxias Centenário": [
-     2.59,
-     "Molho de tomate Fugini 300 g",
-     2.59
-    ]
-   }
-  },
-  {
-   "grupo": "extrato-tomate",
-   "qtd": 2,
-   "precos": {}
-  },
-  {
-   "grupo": "margarina",
-   "qtd": 2,
-   "precos": {
-    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
-     9.99,
-     "Margarina com sal Qualy 500 g",
-     9.99
-    ],
-    "Atacadão Nova Iguaçu Comendador Soares": [
-     7.98,
-     "Margarina com sal Doriana 500 g",
-     7.98
-    ],
-    "Atacadão - BELFORD ROXO": [
-     9.99,
-     "Margarina com sal Qualy 500 g",
-     9.99
-    ],
-    "Atacadão Guadalupe": [
-     7.98,
-     "Margarina com sal Doriana 500 g",
-     7.98
-    ],
-    "Atacadão Realengo": [
-     7.98,
-     "Margarina com sal Doriana 500 g",
-     7.98
-    ],
-    "Atacadão - BANGU": [
-     9.99,
-     "Margarina com sal Qualy 500 g",
-     9.99
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     7.98,
-     "Margarina com sal Doriana 500 g",
-     7.98
-    ],
-    "Prezunic Caxias Centenário": [
-     8.99,
-     "Margarina com sal Qualy 500 g",
-     10.49
-    ]
-   }
-  },
-  {
-   "grupo": "biscoito-cream-cracker",
-   "qtd": 3,
-   "precos": {
-    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
-     4.99,
-     "Biscoito cream cracker Vitarella 350 g",
-     4.99
-    ],
-    "Atacadão Nova Iguaçu Comendador Soares": [
-     4.99,
-     "Biscoito cream cracker Vitarella 350 g",
-     4.99
-    ],
-    "Atacadão - BELFORD ROXO": [
-     4.99,
-     "Biscoito cream cracker Vitarella 350 g",
-     4.99
-    ],
-    "Atacadão Guadalupe": [
-     4.99,
-     "Biscoito cream cracker Vitarella 350 g",
-     4.99
-    ],
-    "Atacadão Realengo": [
-     4.99,
-     "Biscoito cream cracker Vitarella 350 g",
-     4.99
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     4.99,
-     "Biscoito cream cracker Vitarella 350 g",
-     4.99
-    ],
-    "Prezunic Caxias Centenário": [
-     7.49,
-     "Biscoito cream cracker Vitarella 350 g",
-     7.49
-    ]
-   }
-  },
-  {
-   "grupo": "achocolatado",
-   "qtd": 1,
-   "precos": {
-    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
-     12.89,
-     "Achocolatado em pó Nescau 350 g",
-     12.89
-    ],
-    "Atacadão Nova Iguaçu Comendador Soares": [
-     12.89,
-     "Achocolatado em pó Nescau 350 g",
-     12.89
-    ],
-    "Atacadão - BELFORD ROXO": [
-     12.89,
-     "Achocolatado em pó Nescau 350 g",
-     12.89
-    ],
-    "Atacadão Guadalupe": [
-     12.89,
-     "Achocolatado em pó Nescau 350 g",
-     12.89
-    ],
-    "Atacadão Realengo": [
-     12.89,
-     "Achocolatado em pó Nescau 350 g",
-     12.89
-    ],
-    "Atacadão - BANGU": [
-     12.89,
-     "Achocolatado em pó Nescau 350 g",
-     12.89
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     12.89,
-     "Achocolatado em pó Nescau 350 g",
-     12.89
-    ],
-    "Prezunic Caxias Centenário": [
-     9.99,
-     "Achocolatado em pó Nescau 350 g",
-     15.99
-    ]
-   }
-  },
-  {
-   "grupo": "leite-condensado",
-   "qtd": 2,
-   "precos": {
-    "Atacadão Nova Iguaçu Comendador Soares": [
-     6.39,
-     "Leite condensado Piracanjuba 395 g",
-     6.39
-    ],
-    "Atacadão - BELFORD ROXO": [
-     6.39,
-     "Leite condensado Piracanjuba 395 g",
-     6.39
-    ],
-    "Atacadão Guadalupe": [
-     6.39,
-     "Leite condensado Piracanjuba 395 g",
-     6.39
-    ],
-    "Atacadão Realengo": [
-     6.39,
-     "Leite condensado Piracanjuba 395 g",
-     6.39
-    ],
-    "Atacadão - BANGU": [
-     6.39,
-     "Leite condensado Piracanjuba 395 g",
-     6.39
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     6.39,
-     "Leite condensado Piracanjuba 395 g",
-     6.39
-    ],
-    "Prezunic Caxias Centenário": [
-     7.69,
-     "Leite condensado Piracanjuba 395 g",
-     7.69
-    ]
-   }
-  },
-  {
-   "grupo": "creme-de-leite",
-   "qtd": 2,
-   "precos": {
-    "Atacadão Nova Iguaçu Comendador Soares": [
-     2.89,
-     "Creme de leite Italac 200 g",
-     2.89
-    ],
-    "Atacadão Guadalupe": [
-     2.89,
-     "Creme de leite Italac 200 g",
-     2.89
-    ],
-    "Atacadão Realengo": [
-     2.89,
-     "Creme de leite Italac 200 g",
-     2.89
-    ],
-    "Atacadão - BANGU": [
-     2.99,
-     "Creme de leite Piracanjuba 200 g",
-     2.99
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     2.99,
-     "Creme de leite Piracanjuba 200 g",
-     2.99
-    ],
-    "Prezunic Caxias Centenário": [
-     3.29,
-     "Creme de leite Nestlé 200 g",
-     6.66
-    ]
-   }
-  },
-  {
-   "grupo": "atum",
-   "qtd": 2,
-   "precos": {
-    "Prezunic Caxias Centenário": [
-     12.99,
-     "Atum ralado Coqueiro 170 g",
-     12.99
-    ]
-   }
-  },
-  {
-   "grupo": "sardinha",
-   "qtd": 2,
-   "precos": {
-    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
-     5.99,
-     "Sardinha em óleo Coqueiro 125 g",
-     5.99
-    ],
-    "Atacadão Guadalupe": [
-     5.99,
-     "Sardinha em óleo Coqueiro 125 g",
-     5.99
-    ],
-    "Atacadão - BANGU": [
-     6.99,
-     "Sardinha em óleo Coqueiro 125 g",
-     6.99
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     5.99,
-     "Sardinha em óleo Coqueiro 125 g",
-     5.99
-    ]
-   }
-  },
-  {
-   "grupo": "detergente",
-   "qtd": 5,
-   "precos": {
-    "Atacadão Realengo": [
-     2.69,
-     "Detergente líquido Limpol 500 ml",
-     2.69
-    ],
-    "Atacadão - BANGU": [
-     2.25,
-     "Detergente líquido Minuano 500 ml",
-     2.25
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     2.25,
-     "Detergente líquido Minuano 500 ml",
-     2.25
-    ]
-   }
-  },
-  {
-   "grupo": "agua-sanitaria",
-   "qtd": 2,
-   "precos": {
-    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
-     4.09,
-     "Água sanitária Ypê 1 L",
-     4.09
-    ],
-    "Atacadão Nova Iguaçu Comendador Soares": [
-     4.09,
-     "Água sanitária Ypê 1 L",
-     4.09
-    ],
-    "Atacadão - BELFORD ROXO": [
-     4.09,
-     "Água sanitária Ypê 1 L",
-     4.09
-    ],
-    "Atacadão Guadalupe": [
-     4.09,
-     "Água sanitária Ypê 1 L",
-     4.09
-    ],
-    "Atacadão Realengo": [
-     4.09,
-     "Água sanitária Ypê 1 L",
-     4.09
-    ],
-    "Atacadão - BANGU": [
-     4.09,
-     "Água sanitária Ypê 1 L",
-     4.09
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     4.09,
-     "Água sanitária Ypê 1 L",
-     4.09
-    ],
-    "Prezunic Caxias Centenário": [
-     5.99,
-     "Água sanitária Ypê 1 L",
-     5.99
-    ]
-   }
-  },
-  {
-   "grupo": "sabao-po",
-   "qtd": 1,
-   "precos": {}
-  },
-  {
-   "grupo": "amaciante",
-   "qtd": 1,
-   "precos": {}
-  },
-  {
-   "grupo": "desinfetante",
-   "qtd": 2,
-   "precos": {
-    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
-     17.9,
-     "Desinfetante Lysoform 1 L",
-     17.9
-    ],
-    "Atacadão Nova Iguaçu Comendador Soares": [
-     8.29,
-     "Desinfetante Ypê 1 L",
-     8.29
-    ],
-    "Atacadão - BELFORD ROXO": [
-     8.29,
-     "Desinfetante Ypê 1 L",
-     8.29
-    ],
-    "Atacadão Guadalupe": [
-     8.29,
-     "Desinfetante Ypê 1 L",
-     8.29
-    ],
-    "Atacadão Realengo": [
-     8.29,
-     "Desinfetante Ypê 1 L",
-     8.29
-    ],
-    "Atacadão - BANGU": [
-     8.29,
-     "Desinfetante Ypê 1 L",
-     8.29
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     8.29,
-     "Desinfetante Ypê 1 L",
-     8.29
-    ],
-    "Prezunic Caxias Centenário": [
-     18.99,
-     "Desinfetante Lysoform 1 L",
-     18.99
-    ]
-   }
-  },
-  {
-   "grupo": "papel-higienico",
-   "qtd": 2,
-   "precos": {
-    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
-     20.97,
-     "Papel higiênico folha dupla Neve 12 un",
-     20.97
-    ],
-    "Atacadão - BELFORD ROXO": [
-     20.97,
-     "Papel higiênico folha dupla Neve 12 un",
-     20.97
-    ],
-    "Atacadão Guadalupe": [
-     20.97,
-     "Papel higiênico folha dupla Neve 12 un",
-     20.97
-    ],
-    "Atacadão Realengo": [
-     20.97,
-     "Papel higiênico folha dupla Neve 12 un",
-     20.97
-    ],
-    "Atacadão - BANGU": [
-     20.97,
-     "Papel higiênico folha dupla Neve 12 un",
-     20.97
-    ]
-   }
-  },
-  {
-   "grupo": "sabonete-barra",
-   "qtd": 6,
-   "precos": {
-    "Prezunic Caxias Centenário": [
-     6.59,
-     "Sabonete em barra Dove 90 g",
-     6.59
-    ]
-   }
-  },
-  {
-   "grupo": "creme-dental",
-   "qtd": 3,
-   "precos": {
-    "Atacadão - NOVA IGUACU MARIA DA LUZ": [
-     6.98,
-     "Creme dental Sorriso 90 g",
-     6.98
-    ],
-    "Atacadão Nova Iguaçu Comendador Soares": [
-     6.98,
-     "Creme dental Sorriso 90 g",
-     6.98
-    ],
-    "Atacadão - BELFORD ROXO": [
-     6.98,
-     "Creme dental Sorriso 90 g",
-     6.98
-    ],
-    "Atacadão Guadalupe": [
-     6.98,
-     "Creme dental Sorriso 90 g",
-     6.98
-    ],
-    "Atacadão Realengo": [
-     6.98,
-     "Creme dental Sorriso 90 g",
-     6.98
-    ],
-    "Atacadão - BANGU": [
-     6.98,
-     "Creme dental Sorriso 90 g",
-     6.98
-    ],
-    "Atacadão - AUTOMOVEL CLUBE": [
-     6.98,
-     "Creme dental Sorriso 90 g",
-     6.98
-    ],
-    "Prezunic Caxias Centenário": [
-     8.79,
-     "Creme dental Sorriso 90 g",
-     8.79
-    ]
-   }
-  },
-  {
-   "grupo": "shampoo",
-   "qtd": 1,
-   "precos": {}
-  },
-  {
-   "grupo": "esponja",
-   "qtd": 2,
-   "precos": {}
-  },
-  {
-   "grupo": "ovos-brancos",
-   "qtd": 2,
-   "precos": {}
-  }
- ],
- "updated": "2026-11-05T23:30:42+00:00"
+ }
 }
