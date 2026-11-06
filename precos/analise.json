@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T12:35:37+00:00",
+ "updated": "2026-11-06T13:28:17+00:00",
  "raio_km": 12,
  "regioes": {
   "Nova Iguaçu": {
@@ -9,7 +9,7 @@
     {
      "loja": "Atacadão Nova Iguaçu Maria da Luz",
      "itens": 21,
-     "total": 513.42
+     "total": 494.2
     },
     {
      "loja": "Atacadão Belford Roxo",
@@ -26,7 +26,7 @@
     "itens": 18,
     "tudo_numa_loja": {
      "Atacadão Belford Roxo": 426.33,
-     "Atacadão Nova Iguaçu Maria da Luz": 451.52
+     "Atacadão Nova Iguaçu Maria da Luz": 432.3
     },
     "melhor_de_cada_item": 424.28,
     "melhor_dupla": [
@@ -426,9 +426,9 @@
        8.29
       ],
       "Atacadão Nova Iguaçu Maria da Luz": [
-       17.9,
-       "Desinfetante Lysoform 1 L",
-       17.9
+       8.29,
+       "Desinfetante Ypê 1 L",
+       8.29
       ]
      }
     },
@@ -534,7 +534,7 @@
     {
      "loja": "Atacadão Duque de Caxias",
      "itens": 20,
-     "total": 438.23
+     "total": 419.01
     },
     {
      "loja": "Atacadão Belford Roxo",
@@ -1011,18 +1011,18 @@
       ],
       "Prezunic Campinho": [
        8.99,
-       "Margarina com sal Qualy 500 g",
-       10.49
+       "Margarina com sal Doriana 500 g",
+       8.99
       ],
       "Prezunic Ilha do Governador": [
        8.99,
-       "Margarina com sal Qualy 500 g",
-       10.49
+       "Margarina com sal Doriana 500 g",
+       8.99
       ],
       "Prezunic Caxias Centenário": [
        8.99,
-       "Margarina com sal Qualy 500 g",
-       10.49
+       "Margarina com sal Doriana 500 g",
+       8.99
       ],
       "Hortifruti Ilha do Governador": [
        10.99,
@@ -1401,9 +1401,9 @@
        8.29
       ],
       "Atacadão Duque de Caxias": [
-       17.9,
-       "Desinfetante Lysoform 1 L",
-       17.9
+       8.29,
+       "Desinfetante Ypê 1 L",
+       8.29
       ],
       "Prezunic Campinho": [
        18.99,
@@ -1628,6 +1628,11 @@
      "total": 583.97
     },
     {
+     "loja": "Hortifruti Visconde de Pirajá",
+     "itens": 17,
+     "total": 540.01
+    },
+    {
      "loja": "Hortifruti Icaraí",
      "itens": 17,
      "total": 540.01
@@ -1636,11 +1641,6 @@
      "loja": "Hortifruti Uruguai",
      "itens": 17,
      "total": 584.98
-    },
-    {
-     "loja": "Hortifruti Visconde de Pirajá",
-     "itens": 16,
-     "total": 505.03
     },
     {
      "loja": "Hortifruti Santa Rosa",
@@ -2427,8 +2427,8 @@
       ],
       "Prezunic Ilha do Governador": [
        8.99,
-       "Margarina com sal Qualy 500 g",
-       10.49
+       "Margarina com sal Doriana 500 g",
+       8.99
       ],
       "Hortifruti Uruguai": [
        10.99,
@@ -2857,6 +2857,11 @@
        17.49
       ],
       "Hortifruti Tijuca": [
+       17.49,
+       "Sardinha em óleo Gomes da Costa 125 g",
+       17.49
+      ],
+      "Hortifruti Visconde de Pirajá": [
        17.49,
        "Sardinha em óleo Gomes da Costa 125 g",
        17.49
@@ -3366,7 +3371,7 @@
     {
      "loja": "Prezunic Cidade de Deus",
      "itens": 21,
-     "total": 568.84
+     "total": 565.84
     },
     {
      "loja": "Prezunic Caxias Centenário",
@@ -3585,9 +3590,9 @@
        22.8
       ],
       "Prezunic Cidade de Deus": [
-       24.98,
-       "Café torrado e moído 3 Corações 500 g",
-       32.98
+       23.98,
+       "Café torrado e moído Melitta 500 g",
+       29.98
       ],
       "Prezunic Campinho": [
        23.98,
@@ -3948,13 +3953,13 @@
       ],
       "Prezunic Campinho": [
        8.99,
-       "Margarina com sal Qualy 500 g",
-       10.49
+       "Margarina com sal Doriana 500 g",
+       8.99
       ],
       "Prezunic Caxias Centenário": [
        8.99,
-       "Margarina com sal Qualy 500 g",
-       10.49
+       "Margarina com sal Doriana 500 g",
+       8.99
       ],
       "Hortifruti Freguesia": [
        10.99,
@@ -4617,7 +4622,7 @@
     {
      "loja": "Atacadão Bangu",
      "itens": 24,
-     "total": 529.02
+     "total": 542.02
     },
     {
      "loja": "Prezunic Campo Grande",
@@ -4821,8 +4826,8 @@
       ],
       "Prezunic Campo Grande": [
        8.99,
-       "Margarina com sal Qualy 500 g",
-       10.49
+       "Margarina com sal Doriana 500 g",
+       8.99
       ]
      }
     },
@@ -4965,9 +4970,9 @@
      "qtd": 2,
      "precos": {
       "Atacadão Bangu": [
-       8.29,
-       "Desinfetante Ypê 1 L",
-       8.29
+       14.79,
+       "Desinfetante Pinho Sol 1 L",
+       14.79
       ]
      }
     },
@@ -5054,7 +5059,7 @@
     {
      "loja": "Prezunic Cidade de Deus",
      "itens": 21,
-     "total": 568.84
+     "total": 565.84
     },
     {
      "loja": "Atacadão Jacarepagua",
@@ -5064,7 +5069,7 @@
     {
      "loja": "Prezunic Marapendi",
      "itens": 19,
-     "total": 472.14
+     "total": 478.14
     },
     {
      "loja": "Hortifruti Recreio",
@@ -5263,14 +5268,14 @@
        29.98
       ],
       "Prezunic Marapendi": [
+       25.98,
+       "Café torrado e moído Pilão 500 g",
+       32.98
+      ],
+      "Prezunic Cidade de Deus": [
        23.98,
        "Café torrado e moído Melitta 500 g",
        29.98
-      ],
-      "Prezunic Cidade de Deus": [
-       24.98,
-       "Café torrado e moído 3 Corações 500 g",
-       32.98
       ],
       "Hortifruti Recreio": [
        28.99,
@@ -5671,8 +5676,8 @@
       ],
       "Prezunic Barra da Tijuca": [
        8.99,
-       "Margarina com sal Qualy 500 g",
-       10.49
+       "Margarina com sal Doriana 500 g",
+       8.99
       ],
       "Prezunic Marapendi": [
        7.49,
